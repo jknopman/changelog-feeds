@@ -17,10 +17,13 @@ from datetime import datetime, timedelta, timezone
 import requests
 from bs4 import BeautifulSoup
 
+import feedstate
+
 SOURCE_URL = "https://okendo.io/product-releases/"
 FEED_TITLE = "Okendo - Product Releases"
 FEED_DESC = "New features and updates to Okendo (unofficial feed)."
 MAX_ITEMS = 80
+STATE_PATH = "seen-okendo.json"
 
 # Restrict to specific topics by NAME (case-insensitive). Empty set = all topics.
 # These five mirror the selection in Okendo's Topic filter. The page's topic
@@ -154,8 +157,15 @@ def build(entries):
     fg.language("en")
     fg.lastBuildDate(datetime.now(timezone.utc))
 
-    # Page lists newest-first; keep that order and give each item a strictly
-    # decreasing timestamp so readers sort it the same way.
+    # pubDate comes from when we first saw an item. Okendo prints no per-entry
+    # dates, so a month-derived date would collide with what Slack has already
+    # bookmarked and new entries would never post.
+    state, seeding = feedstate.load(STATE_PATH)
+    now = datetime.now(timezone.utc)
+    new_rank = 0
+    guids = []
+
+    # Page lists newest-first; keep that order.
     for i, e in enumerate(entries):
         fe = fg.add_entry(order="append")
         prefix = f"[{e['topic']}] " if e["topic"] else ""
@@ -163,11 +173,20 @@ def build(entries):
         fe.link(href=e["link"])
         guid = hashlib.sha1(
             (e["title"] + "|" + e["month"]).encode()).hexdigest()
+        guids.append(guid)
         fe.guid(guid, permalink=False)
         tag = " / ".join(x for x in (e["rtype"], e["topic"]) if x)
         desc = e["description"] + (f"\n\n({tag} - {e['month']})" if tag else "")
         fe.description(desc)
-        fe.pubDate(month_base(e["month"]) - timedelta(minutes=i))
+        # Seeding fallback: month start, staggered so page order is preserved.
+        content_dt = month_base(e["month"]) - timedelta(minutes=i)
+        is_new = guid not in state
+        fe.pubDate(
+            feedstate.resolve(state, seeding, guid, content_dt, new_rank, now))
+        if is_new and not seeding:
+            new_rank += 1
+
+    feedstate.save(STATE_PATH, feedstate.prune(state, guids))
     return fg
 
 

@@ -23,10 +23,13 @@ import requests
 from bs4 import BeautifulSoup, NavigableString
 from feedgen.feed import FeedGenerator
 
+import feedstate
+
 SOURCE_URL = "https://www.klaviyo.com/whats-new"
 FEED_TITLE = "Klaviyo — What's New"
 FEED_DESC = "Latest Klaviyo product updates and releases (unofficial feed)."
 MAX_ITEMS = 60
+STATE_PATH = "seen-klaviyo.json"
 DATE_RE = re.compile(r"^\s*(\d{4}-\d{2}-\d{2})\s*$")
 HEADING_TAGS = ["h3", "h2", "h4"]
 # Section headers that are NOT entry titles, so we never mistake them for one.
@@ -140,6 +143,13 @@ def build(entries):
     fg.language("en")
     fg.lastBuildDate(datetime.now(timezone.utc))
 
+    # pubDate comes from when we first saw an item, not its printed date, so
+    # readers that track "new" by date (Slack) never miss a same-day addition.
+    state, seeding = feedstate.load(STATE_PATH)
+    now = datetime.now(timezone.utc)
+    new_rank = 0
+    guids = []
+
     for e in entries:  # entries are newest-first; append preserves that order
         fe = fg.add_entry(order="append")
         fe.title(e["title"])
@@ -147,12 +157,21 @@ def build(entries):
         fe.link(href=e["link"] or f"{SOURCE_URL}#all-updates")
         # Stable, unique guid even when entries share/lack a link.
         guid = hashlib.sha1(f'{e["title"]}|{e["date"]}'.encode()).hexdigest()
+        guids.append(guid)
         fe.guid(guid, permalink=False)
-        fe.description(e["description"] or e["title"])
-        dt = datetime.strptime(e["date"], "%Y-%m-%d").replace(
+        # Keep the vendor's own date visible, since pubDate no longer carries it.
+        desc = e["description"] or e["title"]
+        fe.description(f'{desc}\n\n(Published {e["date"]})')
+        content_dt = datetime.strptime(e["date"], "%Y-%m-%d").replace(
             hour=12, tzinfo=timezone.utc
         )
-        fe.pubDate(dt)
+        is_new = guid not in state
+        fe.pubDate(
+            feedstate.resolve(state, seeding, guid, content_dt, new_rank, now))
+        if is_new and not seeding:
+            new_rank += 1
+
+    feedstate.save(STATE_PATH, feedstate.prune(state, guids))
     return fg
 
 
