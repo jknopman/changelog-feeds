@@ -29,7 +29,8 @@ jobs:
         run: |
           git config user.name  "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
-          git add whats-new.xml okendo-releases.xml
+          git add whats-new.xml okendo-releases.xml \
+            seen-klaviyo.json seen-okendo.json
           if git diff --staged --quiet; then
             echo "No changes."
           else
