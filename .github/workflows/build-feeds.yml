@@ -1,0 +1,37 @@
+name: Build changelog feeds
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # daily at 13:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install feedgen beautifulsoup4 requests lxml
+
+      - name: Build Klaviyo feed
+        run: python build_feed.py
+      - name: Build Okendo feed
+        run: python build_feed_okendo.py
+
+      - name: Commit feeds if changed
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add whats-new.xml okendo-releases.xml
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update feeds ($(date -u +%Y-%m-%d))"
+            git push
+          fi
