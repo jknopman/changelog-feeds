@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 21:05:13 +0000</lastBuildDate>
-    <item>
-      <title>[Loyalty] Loyalty points now account for tax on tax-inclusive orders</title>
-      <link>https://support.okendo.io/en/articles/15920319-how-okendo-loyalty-calculates-spend-on-tax-inclusive-orders</link>
-      <description>Okendo Loyalty now correctly applies tax settings when calculating qualifying spend for points on orders and refunds. Merchants with tax-inclusive pricing, such as those in NZ or AU subject to GST, will see more accurate points allocations on new orders. Taxes are no longer double-counted or incorrectly omitted based on the merchant’s configured tax inclusion setting.
-
-(Enhancement / Loyalty - July 2026)</description>
-      <guid isPermaLink="false">c0b6906a85c46bf6f0587d94f0666aef9a130067</guid>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Set VIP program start date for loyalty VIP tiers</title>
-      <link>https://support.okendo.io/en/articles/8915126-configuring-vip-tiers-for-loyalty</link>
-      <description>Set a VIP Program Start Date in Loyalty Settings before launching a VIP program. This defines the date from which customer spend is calculated for tier eligibility, allowing you to backdate tier assignment so customers are recognized at the right tier from launch. The maximum lookback period is 36 months.
-
-(Enhancement / Loyalty - July 2026)</description>
-      <guid isPermaLink="false">7b38d5d1a615a3a41127d283e591f9130cf2fbfd</guid>
-      <pubDate>Wed, 01 Jul 2026 11:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 21:09:36 +0000</lastBuildDate>
     <item>
       <title>[Reviews] Set attributes as optional</title>
       <link>https://support.okendo.io/en/articles/1737436-getting-started-with-attributes#h_622eb26f8e</link>
@@ -33,16 +15,7 @@
 
 (Enhancement / Reviews - July 2026)</description>
       <guid isPermaLink="false">f0d7a3a6279bf275a1fb2aee5b7744cf740d2606</guid>
-      <pubDate>Wed, 01 Jul 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q2 2026 Product Updates</title>
-      <link>https://okendo.io/releases/q2-2026-product-releases/</link>
-      <description>From AI-powered review replies to loyalty experiences that extend beyond your store, unlock powerful new ways to engage shoppers, reward members, and make every interaction feel effortless.
-
-(Quarterly Release - July 2026)</description>
-      <guid isPermaLink="false">6a8808277b6d31087afda21890bbc29c156b6263</guid>
-      <pubDate>Wed, 01 Jul 2026 11:57:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Custom tag IDs are now visible and copyable in the admin</title>
@@ -51,7 +24,7 @@
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">173a1dcd94952b45b3ba3a925e1d4f1dfe284852</guid>
-      <pubDate>Mon, 01 Jun 2026 11:56:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 11:59:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Merchants can now include incentivized status when exporting</title>
@@ -60,7 +33,7 @@
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">1c8c4f2e76a4e4dc666d46d526a8a883dcd2c6dc</guid>
-      <pubDate>Mon, 01 Jun 2026 11:55:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 11:58:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Merchants can now specify a review status when importing reviews</title>
@@ -69,25 +42,7 @@
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">ccf80922b8f8b32704f12d5bf13ac90dcae7cbc4</guid>
-      <pubDate>Mon, 01 Jun 2026 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Set redemption limits on rewards</title>
-      <link>https://support.okendo.io/en/articles/8914628-configuring-earn-and-redemption-rules</link>
-      <description>Merchants can now set per-member redemption limits on individual reward rules in Okendo Loyalty. For each reward, you can define how many times a single member can redeem it within a rolling eligibility window (e.g., “up to 3 times per 30 days”). Once a member hits their limit, the reward is unavailable to them until older redemptions fall out of the eligibility window.
-
-(Enhancement / General availability (GA) / Loyalty - June 2026)</description>
-      <guid isPermaLink="false">a37c4f920a9c06b2bc59e329fd078a9f7eb174b9</guid>
-      <pubDate>Mon, 01 Jun 2026 11:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Loyalty Floating Widget header now displays dynamic loyalty information</title>
-      <link>https://support.okendo.io/en/articles/8923948-installing-and-configuring-the-floating-widget</link>
-      <description>The floating widget header now automatically shows the most relevant information for each customer, including Tier, Points, Store Credit, and Joined Date, based on their status and your loyalty program configuration.
-
-(Enhancement / Loyalty - June 2026)</description>
-      <guid isPermaLink="false">11c72abc5c071a4c58ce1bd2caf0f17aeb4d9347</guid>
-      <pubDate>Mon, 01 Jun 2026 11:52:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 11:57:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Sync customer profile data to Shopify metafields</title>
@@ -96,7 +51,7 @@
 
 (Enhancement / Okendo Platform - June 2026)</description>
       <guid isPermaLink="false">52b93d130efbc509e5aa3069d28f1f401605dd73</guid>
-      <pubDate>Mon, 01 Jun 2026 11:51:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 11:56:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Collect reviews for bundles, individual items, or both</title>
@@ -105,7 +60,7 @@
 
 (General availability (GA) / Reviews - May 2026)</description>
       <guid isPermaLink="false">5c8e8215135ba8ce7fadac08ea98de3255588d20</guid>
-      <pubDate>Fri, 01 May 2026 11:50:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 11:55:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Transform customer engagement with auto review replies</title>
@@ -114,16 +69,7 @@
 
 (General availability (GA) / New feature / Reviews - May 2026)</description>
       <guid isPermaLink="false">31c054e0d6f257c087c40f1a731ac68d452abfd2</guid>
-      <pubDate>Fri, 01 May 2026 11:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Subtotal Loyalty integration</title>
-      <link>https://support.okendo.io/en/articles/15063678-integrating-loyalty-with-subtotal</link>
-      <description>You can now issue loyalty points to members when they link their accounts and purchases from major retail partners including Amazon, Target and Walmart (via Subtotal). Extend your loyalty program beyond your online store.
-
-(General availability (GA) / Integration / Loyalty - May 2026)</description>
-      <guid isPermaLink="false">7ba1e25f784eddb52e660529e188b377e0f373f7</guid>
-      <pubDate>Fri, 01 May 2026 11:48:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 11:54:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Pre-fill details for logged-in shoppers</title>
@@ -132,16 +78,7 @@
 
 (Enhancement / Okendo Platform - May 2026)</description>
       <guid isPermaLink="false">743a356d94710f50ad7ca9c62b60f969d0b5fcc5</guid>
-      <pubDate>Fri, 01 May 2026 11:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Surfacing store credit balances in landing pages</title>
-      <link>https://support.okendo.io/en/articles/12635364-loyalty-page-plus-module-and-styling-reference-guide#h_e943c9025d</link>
-      <description>Members can now view their store credit balance on your program’s landing page, via the Profile module and Redeem Rewards module. Available to merchants with store credits enabled and a Loyalty Page Plus landing page.
-
-(Enhancement / Loyalty - May 2026)</description>
-      <guid isPermaLink="false">50dc28911020e7deece7eeecff1a2fb7a65176c4</guid>
-      <pubDate>Fri, 01 May 2026 11:46:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 11:53:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Turn customer accounts into a review engine</title>
@@ -150,25 +87,7 @@
 
 (General availability (GA) / Reviews - April 2026)</description>
       <guid isPermaLink="false">5b176eec3493b126fe3baaaac3542b87f5cd67ca</guid>
-      <pubDate>Wed, 01 Apr 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q1 2026 Product Updates</title>
-      <link>https://okendo.io/releases/q1-2026-product-releases/</link>
-      <description>From updates to help you build stronger loyalty programs to improved reporting to better understand your reviews, unlock more ways power personalized customer experiences.
-
-(Quarterly Release - April 2026)</description>
-      <guid isPermaLink="false">e93f3073ba24ea4ecfe7ff8a5890e6168fad89d6</guid>
-      <pubDate>Wed, 01 Apr 2026 11:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Referrals] Export referral request activity</title>
-      <link>https://support.okendo.io/en/articles/13909417-exporting-data-from-okendo</link>
-      <description>You can now export referral activity to CSV for further analysis. Fine tune your referral program by honing in on drop-off points in the referral journey or identify new opportunities among your current advocates.
-
-(Enhancement / Referrals - April 2026)</description>
-      <guid isPermaLink="false">e8963d52844e603932a67f3a41ddf408d6d4df08</guid>
-      <pubDate>Wed, 01 Apr 2026 11:43:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 11:52:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Video transcription &amp; accessibility for reviews media</title>
@@ -177,43 +96,7 @@
 
 (Enhancement / Reviews - March 2026)</description>
       <guid isPermaLink="false">e771bd54d51a52f98511e02ca856113fe4e045cb</guid>
-      <pubDate>Sun, 01 Mar 2026 11:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Set style and title settings, per module</title>
-      <link>https://support.okendo.io/en/articles/12635364-loyalty-page-plus-module-and-styling-reference-guide</link>
-      <description>You can now set style and module title settings for each individual module, in Loyalty Page Plus. These improvements enable you to change each module’s appearance separately from others, giving you even more flexibility and control over the look and feel of your landing page.
-
-(Enhancement / Loyalty - March 2026)</description>
-      <guid isPermaLink="false">1204763a7027b4502fa55b76ca1fac964a6b8628</guid>
-      <pubDate>Sun, 01 Mar 2026 11:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Track loyalty enrollment channels</title>
-      <link>https://support.okendo.io/en/articles/8978453-integrating-loyalty-with-klaviyo#h_2e0b52c4ab</link>
-      <description>You can now identify exactly where members join your loyalty program. An enrollment channel property is now included in customer exports and syncs automatically to your marketing automation platforms, allowing you to build more targeted segments, lists and automations.
-
-(Enhancement / Loyalty - March 2026)</description>
-      <guid isPermaLink="false">15a14c1bf467c2df6d5c6bed9a5cb6c99aa6407a</guid>
-      <pubDate>Sun, 01 Mar 2026 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Use Okendo Loyalty events in Shopify Flow</title>
-      <link>https://support.okendo.io/en/articles/13886293-using-okendo-loyalty-with-shopify-flow</link>
-      <description>Use Okendo Loyalty events (as triggers) in Shopify Flows. Automate processes off the back of your member’s actions.
-
-(Enhancement / Loyalty - February 2026)</description>
-      <guid isPermaLink="false">7c0e91e491319ef9966ce6ab5c5bd2dd27e5379c</guid>
-      <pubDate>Sun, 01 Feb 2026 11:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Quiz response created trigger for Shopify Flow</title>
-      <link>https://support.okendo.io/en/articles/13830881-using-okendo-quizzes-with-shopify-flow</link>
-      <description>A new Shopify Flow trigger is now available for quiz responses that include an email address.
-
-(Enhancement / Quizzes - February 2026)</description>
-      <guid isPermaLink="false">0246f32beb93301259affd3304be35cc9006a7d3</guid>
-      <pubDate>Sun, 01 Feb 2026 11:38:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2026 11:51:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] HTTP Block for Sequences</title>
@@ -222,7 +105,7 @@
 
 (General availability (GA) / Reviews - February 2026)</description>
       <guid isPermaLink="false">825b7ff7c62b1ff84dd95289ea288eb671cc9652</guid>
-      <pubDate>Sun, 01 Feb 2026 11:37:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 11:50:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Configurable selection limits for multi-select questions</title>
@@ -231,25 +114,7 @@
 
 (Enhancement / Okendo Platform - February 2026)</description>
       <guid isPermaLink="false">87c48fa251ed349535dbad63bf00974e9c371771</guid>
-      <pubDate>Sun, 01 Feb 2026 11:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Send coupons in product recommendation emails</title>
-      <link>https://support.okendo.io/en/articles/8543780-adding-coupon-rewards-to-a-quiz#h_a87461cf6e</link>
-      <description>Email marketing platforms such as Klaviyo now receive quiz reward data, allowing for dynamic insertion of coupon codes into product recommendation emails.
-
-(Enhancement / Quizzes - February 2026)</description>
-      <guid isPermaLink="false">db92f74d7a97e0adb1519212f415f0f5cc413ac4</guid>
-      <pubDate>Sun, 01 Feb 2026 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Custom perks captured as key-value pairs</title>
-      <link>https://support.okendo.io/en/articles/8915126-configuring-vip-tiers-for-loyalty#h_3fddd0aad1</link>
-      <description>Custom perk are now captured as key-value pairs, streamlining VIP Tier tables and simplifying the member experience.
-
-(Enhancement / General availability (GA) / Loyalty - February 2026)</description>
-      <guid isPermaLink="false">739851f104b88bafeec9461079ad3d2f178765e5</guid>
-      <pubDate>Sun, 01 Feb 2026 11:34:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 11:49:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Make data-driven decisions with Okendo’s updated performance reporting</title>
@@ -258,7 +123,7 @@
 
 (General availability (GA) / Reporting / Reviews - February 2026)</description>
       <guid isPermaLink="false">87a218dc559988371d03f0e4c9dd84f41c49c3c5</guid>
-      <pubDate>Sun, 01 Feb 2026 11:33:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 11:48:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] New Okendo Loyalty properties &amp; events in Omnisend</title>
@@ -267,7 +132,7 @@
 
 (General availability (GA) / Integration / Okendo Platform - February 2026)</description>
       <guid isPermaLink="false">a739864dc4c1269bb84f25b98795ad638684913c</guid>
-      <pubDate>Sun, 01 Feb 2026 11:32:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 11:47:00 +0000</pubDate>
     </item>
     <item>
       <title>[Surveys] Survey &amp; Quiz responses now available via API</title>
@@ -276,61 +141,7 @@
 
 (Enhancement / Quizzes / Surveys - January 2026)</description>
       <guid isPermaLink="false">e66e43d7919599e3baf9f2578d574bb19a6294da</guid>
-      <pubDate>Thu, 01 Jan 2026 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] More control over points expiry periods</title>
-      <link>https://support.okendo.io/en/articles/8915104-configuring-loyalty-settings#h_8cc7f82438 </link>
-      <description>Points expiry periods can now be specified in days, providing greater control over your loyalty program liability, particularly for non-members.
-
-(Enhancement / General availability (GA) / Loyalty - January 2026)</description>
-      <guid isPermaLink="false">026e99d6fe56be6321a6c784ad545bd6b28555e6</guid>
-      <pubDate>Thu, 01 Jan 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q4 2025 Product Updates</title>
-      <link>https://okendo.io/releases/q4-2025-product-releases/</link>
-      <description>From new AI features to stronger loyalty experiences, discover new features that help you connect more meaningfully with your customers.
-
-(Quarterly Release - January 2026)</description>
-      <guid isPermaLink="false">dee58f2fd5c3bae8357c08c2198685cffaac0940</guid>
-      <pubDate>Thu, 01 Jan 2026 11:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Collect and activate profile data with Quizzes</title>
-      <link>https://support.okendo.io/en/articles/12978811-using-profile-questions-in-a-quiz</link>
-      <description>Turn quiz responses into reusable zero-party customer data you can use across Okendo touchpoints and marketing campaigns.
-
-(General availability (GA) / Quizzes - December 2025)</description>
-      <guid isPermaLink="false">02e16402fc01aeb290e760fe1412b93b45864ca3</guid>
-      <pubDate>Mon, 01 Dec 2025 11:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Help members redeem by showcasing free product rewards</title>
-      <link>https://support.okendo.io/en/articles/12635364-loyalty-page-plus-module-and-styling-reference-guide#h_5d50740c64</link>
-      <description>Display free product rewards in a separate module. Smart logic automatically hides out-of-stock rewards, keeping your program running smoothly.
-
-(General availability (GA) / Loyalty - December 2025)</description>
-      <guid isPermaLink="false">a8e960171f3abc1976f94efa00dd6f9cd9609b72</guid>
-      <pubDate>Mon, 01 Dec 2025 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Launch on-brand loyalty pages faster</title>
-      <link>https://support.okendo.io/en/articles/12582843-configuring-a-landing-page-using-the-loyalty-page-plus-builder</link>
-      <description>Design beautiful, high-performing loyalty pages that match your brand and drive engagement. The Loyalty Page Plus Builder gives you greater creative control with expanded styling options directly inside Okendo.
-
-(General availability (GA) / Loyalty - October 2025)</description>
-      <guid isPermaLink="false">eb9b9f5c907b8c143bb8d161cd1c5346dbde0c89</guid>
-      <pubDate>Wed, 01 Oct 2025 11:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q3 2025 Product Updates</title>
-      <link>https://okendo.io/releases/q3-2025-product-releases/</link>
-      <description>From powerful integrations to smarter automation, discover new features that help you connect more meaningfully with your customers.
-
-(Quarterly Release - October 2025)</description>
-      <guid isPermaLink="false">af0d2849f3959a927c85db2547e07546b7523f8d</guid>
-      <pubDate>Wed, 01 Oct 2025 11:25:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 11:46:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Collect reviews directly from inboxes with In-Mail</title>
@@ -339,61 +150,7 @@
 
 (Reviews - September 2025)</description>
       <guid isPermaLink="false">80b2cfca74da6447f5b4ae8831950ba41d794baa</guid>
-      <pubDate>Mon, 01 Sep 2025 11:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Launch app-first loyalty experiences with Tapcart</title>
-      <link>https://support.okendo.io/en/articles/12439464-integrating-okendo-loyalty-with-tapcart</link>
-      <description>Okendo Loyalty now integrates with Tapcart, making it easy for brands to bring rewards, tiers, and perks directly into their mobile app for a seamless on-the-go experience.
-
-(Integration / Loyalty - September 2025)</description>
-      <guid isPermaLink="false">e5df8e0a6cb6723c1015cd0d496850aa13835bed</guid>
-      <pubDate>Mon, 01 Sep 2025 11:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Automatically refresh cart values</title>
-      <link>https://support.okendo.io/en/articles/11810773-resolve-cart-update-issues-on-recommendation-pages</link>
-      <description>A new setting under Recommendations Page automatically refreshes cart values when products are added. Enabled by default, it can be turned off for custom cart setups.
-
-(Enhancement / Quizzes - September 2025)</description>
-      <guid isPermaLink="false">8df18bf72a3dfe79fffa0a316d166e0f5af2753d</guid>
-      <pubDate>Mon, 01 Sep 2025 11:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Control the member login flow</title>
-      <link>https://support.okendo.io/en/articles/8915104-configuring-loyalty-settings#h_8cc7f82438</link>
-      <description>Redirect members after login to their account page, loyalty page, or back to where they left off for a seamless and personalized login experience.
-
-(Enhancement / Loyalty - August 2025)</description>
-      <guid isPermaLink="false">17aa771ad77beb2eb4a41860a6050b8f98673964</guid>
-      <pubDate>Fri, 01 Aug 2025 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Send real-time loyalty data with Webhooks</title>
-      <link>https://docs.okendo.io/webhooks/topics</link>
-      <description>Access and act on loyalty events instantly. Power custom workflows and integrations across your tools with real-time data.
-
-(Loyalty - August 2025)</description>
-      <guid isPermaLink="false">7e2699d5891079d2878abfe2bfed219e33e9f413</guid>
-      <pubDate>Fri, 01 Aug 2025 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Display points earning potential in the cart</title>
-      <link>https://support.okendo.io/en/articles/12006211-adding-points-preview-to-the-cart-page-and-cart-drawer</link>
-      <description>Let members see how many points they’ll earn in the cart, reinforcing program value and motivating them to complete their purchase.
-
-(Enhancement / Loyalty - August 2025)</description>
-      <guid isPermaLink="false">ec9f37ab4af5d65d5c94126e5ce909797bd7b000</guid>
-      <pubDate>Fri, 01 Aug 2025 11:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Store credit now available in Shopify POS</title>
-      <link>https://support.okendo.io/en/articles/10248383-store-credits-in-loyalty</link>
-      <description>Extend store credit redemptions in-store with Shopify POS. Staff can convert points to credit and apply it at checkout for a seamless, consistent loyalty experience.
-
-(Integration / Loyalty - August 2025)</description>
-      <guid isPermaLink="false">dd197139259e917d53666fb358e3daf6a028c745</guid>
-      <pubDate>Fri, 01 Aug 2025 11:18:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 11:45:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Increase accessibility on review images</title>
@@ -402,7 +159,7 @@
 
 (New feature / Reviews - August 2025)</description>
       <guid isPermaLink="false">2dc7e77252585e893f791ee92bae8f4e1d4860e4</guid>
-      <pubDate>Fri, 01 Aug 2025 11:17:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 11:44:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Turn AI Summaries into global social proof</title>
@@ -411,7 +168,7 @@
 
 (Enhancement / Reviews - July 2025)</description>
       <guid isPermaLink="false">7a5a5a2a4ba8642f83f2bd677d07020e7933d369</guid>
-      <pubDate>Tue, 01 Jul 2025 11:16:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 11:43:00 +0000</pubDate>
     </item>
     <item>
       <title>[Surveys] Unlock deeper insights with survey data</title>
@@ -420,25 +177,7 @@
 
 (Surveys - July 2025)</description>
       <guid isPermaLink="false">e9688514fda22b752f5660c08d18011668ab7376</guid>
-      <pubDate>Tue, 01 Jul 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Activate quiz insights across your tech stack</title>
-      <link>https://support.okendo.io/en/articles/11827384-send-quiz-data-with-webhooks</link>
-      <description>Send quiz submission data to ESPs, CRMs, or analytics tools in real time to segment customers, trigger campaigns, and drive higher conversions with Webhooks for Quizzes.
-
-(Quizzes - July 2025)</description>
-      <guid isPermaLink="false">a761b34b54a1989a053940df2f1186ab7b651401</guid>
-      <pubDate>Tue, 01 Jul 2025 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Celebrate member anniversaries</title>
-      <link>https://support.okendo.io/en/articles/8914628-configuring-earn-and-redemption-rules#h_f212b595c9</link>
-      <description>Boost retention by celebrating loyal members with anniversary rewards that show appreciation and spark re-engagement.
-
-(New feature / Loyalty - July 2025)</description>
-      <guid isPermaLink="false">677334edfa56bc72e5a0589cc184e7cf1fc75bea</guid>
-      <pubDate>Tue, 01 Jul 2025 11:13:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 11:42:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Pre-built Flows now available in Klaviyo</title>
@@ -447,16 +186,7 @@
 
 (Integration / Loyalty / Reviews - July 2025)</description>
       <guid isPermaLink="false">8e37a0016f2af5dad4b11ab95c74ada74099a15d</guid>
-      <pubDate>Tue, 01 Jul 2025 11:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q2 2025 Product Updates</title>
-      <link>https://okendo.io/releases/q2-2025-product-releases/</link>
-      <description>Uncover new loyalty capabilities like store credit, achievements, bonus points, and deeper integrations across your tech stack.
-
-(Quarterly Release - July 2025)</description>
-      <guid isPermaLink="false">a60bd4bbe63a117c51ca138c47b57e8dadda6f9d</guid>
-      <pubDate>Tue, 01 Jul 2025 11:11:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 11:41:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Make your data go further with Reviews Webhooks</title>
@@ -465,7 +195,7 @@
 
 (New feature / Reviews - June 2025)</description>
       <guid isPermaLink="false">9ed28a55a9c1576b335740b05363f3885836debd</guid>
-      <pubDate>Sun, 01 Jun 2025 11:10:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 11:40:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Integrate Okendo with Iterable</title>
@@ -474,25 +204,7 @@
 
 (Integration / Okendo Platform - June 2025)</description>
       <guid isPermaLink="false">aba48e2173d6b49de206e6aaa1d864b5b7a99233</guid>
-      <pubDate>Sun, 01 Jun 2025 11:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Show points preview at checkout</title>
-      <link>https://support.okendo.io/en/articles/11195085-adding-the-points-preview-app-block</link>
-      <description>Boost engagement by showing your customers how many points they’ll earn on their order directly at checkout. This increased transparency encourages more spending while reminding customers of the value they’re getting through your loyalty program.
-
-(New feature / Loyalty - June 2025)</description>
-      <guid isPermaLink="false">73e2daa51cb95693a3c7f24e3c3d8d8ec6a68512</guid>
-      <pubDate>Sun, 01 Jun 2025 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Set custom points expiry periods</title>
-      <link>https://support.okendo.io/en/articles/8915104-configuring-loyalty-settings</link>
-      <description>Take control of your loyalty strategy by customizing the points expiry period to fit your brand. Choose from 1 to 60 months (default is 12 months) to reduce points liabilities and create a more tailored experience for your customers.
-
-(Loyalty - June 2025)</description>
-      <guid isPermaLink="false">0290906448913966dd64d8c51f73601ce868c3ce</guid>
-      <pubDate>Sun, 01 Jun 2025 11:07:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 11:39:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Personalize every message with Braze</title>
@@ -501,7 +213,7 @@
 
 (Integration / Okendo Platform - May 2025)</description>
       <guid isPermaLink="false">1b526fe68dfa7b763b0c762ef49ef8d7cb6c8f18</guid>
-      <pubDate>Thu, 01 May 2025 11:06:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 11:38:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Postscript integration now supports all Okendo products</title>
@@ -510,25 +222,7 @@
 
 (Integration / Okendo Platform - May 2025)</description>
       <guid isPermaLink="false">61fe62c2de692613f68baa80a63985af3920e82e</guid>
-      <pubDate>Thu, 01 May 2025 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Optional email collection in Quizzes</title>
-      <link>https://support.okendo.io/en/articles/8067774-building-a-quiz#h_26231cda01</link>
-      <description>You can now disable the email step in Quizzes to reduce drop-off and deliver frictionless product recommendations that keep shoppers engaged.
-
-(Enhancement / Quizzes - May 2025)</description>
-      <guid isPermaLink="false">fe412f9638e0c713bddc98160c8ffdce83abe86f</guid>
-      <pubDate>Thu, 01 May 2025 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Points preview on product pages</title>
-      <link>https://support.okendo.io/en/articles/11195085-adding-points-preview-app-block-to-the-product-details-page</link>
-      <description>Let loyalty members see how many points they’ll earn while they shop, with the points preview displayed directly on the product page.
-
-(New feature / Loyalty - May 2025)</description>
-      <guid isPermaLink="false">9103aaeb233fc4375e7b678d5feac7265c7a6aa1</guid>
-      <pubDate>Thu, 01 May 2025 11:03:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 11:37:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Connect to Klaviyo with OAuth authentication</title>
@@ -537,43 +231,7 @@
 
 (Integration / Okendo Platform - April 2025)</description>
       <guid isPermaLink="false">3f9e7404bb18476844653acaf5e3e3a3ef2ac7ee</guid>
-      <pubDate>Tue, 01 Apr 2025 11:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Simplify reward redemption with Store Credit</title>
-      <link>https://okendo.io/resources/blog/okendo-loyalty-store-credit/</link>
-      <description>Give members a cash-like way to redeem points at checkout. Store Credit makes rewards more flexible, motivating, and easy to use—driving higher spend and satisfaction.
-
-(New feature / Loyalty - April 2025)</description>
-      <guid isPermaLink="false">5257e802906885a73cfef82c2ce62b2022750c7f</guid>
-      <pubDate>Tue, 01 Apr 2025 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Seamless member imports</title>
-      <link>https://support.okendo.io/en/articles/9041464-importing-loyalty-data</link>
-      <description>Easily migrate loyalty members with faster imports, built-in error previews, and the flexibility to import post-launch.
-
-(Loyalty - April 2025)</description>
-      <guid isPermaLink="false">2e0a5a74f71a3ab464d26e5f8f75729a51d8e123</guid>
-      <pubDate>Tue, 01 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Gamify your loyalty program with Achievements</title>
-      <link>https://support.okendo.io/en/articles/10500514-achievements</link>
-      <description>Reward key member actions with animated badges to boost engagement and bring gamification to your loyalty program with Achievements.
-
-(New feature / Loyalty - April 2025)</description>
-      <guid isPermaLink="false">c8987daedba689fe66562fc628c8a59d73b9eee1</guid>
-      <pubDate>Tue, 01 Apr 2025 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quarterly Release] Q1 2025 Product Updates</title>
-      <link>https://okendo.io/releases/q1-2025-product-releases/</link>
-      <description>Explore AI-powered summaries, syndication to TikTok Shop, and new ways to drive engagement across the platform.
-
-(Quarterly Release - April 2025)</description>
-      <guid isPermaLink="false">5a7077b525819f8d86e237c08f857c6b9c0fc6c6</guid>
-      <pubDate>Tue, 01 Apr 2025 10:58:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 11:36:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Turn social proof into sales with TikTok Shop</title>
@@ -582,34 +240,7 @@
 
 (Integration / New feature / Reviews - March 2025)</description>
       <guid isPermaLink="false">c311d1d4a3341b86a0d706d9834cf53c0418568c</guid>
-      <pubDate>Sat, 01 Mar 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Loyalty now supports Shopify Hydrogen</title>
-      <link>https://docs.okendo.io/okendo-shopify-hydrogen-support</link>
-      <description>Okendo Loyalty now supports Shopify Hydrogen v2 (Remix), giving brands the flexibility to build fully custom, on-brand loyalty experiences on headless storefronts.
-
-(Integration / Loyalty - March 2025)</description>
-      <guid isPermaLink="false">118182fa845047ab696bbbcb14990b6434e21144</guid>
-      <pubDate>Sat, 01 Mar 2025 10:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Maximize engagement with Bonus Points</title>
-      <link>https://okendo.io/resources/blog/okendo-loyalty-bonus-points/</link>
-      <description>Give loyalty members more reasons to shop with exclusive, time-based Bonus Points offers. Create urgency, drive engagement, and boost repeat purchases.
-
-(New feature / Loyalty - March 2025)</description>
-      <guid isPermaLink="false">3ab42f8d9100d13207cec136087a428230f8ed50</guid>
-      <pubDate>Sat, 01 Mar 2025 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Turn shoppers into loyal subscribers</title>
-      <link>https://okendo.io/resources/blog/okendo-quizzes-subscription-recommendations/</link>
-      <description>Drive predictable revenue with Subscription Recommendations in quiz results. Convert high-intent shoppers effortlessly, increasing retention and long-term growth.
-
-(Integration / New feature / Quizzes - March 2025)</description>
-      <guid isPermaLink="false">cf97fda6843d0faf307aeeeb3f50ebe0e759e159</guid>
-      <pubDate>Sat, 01 Mar 2025 10:54:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 11:35:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reporting] Boost engagement with VIP Tier insights</title>
@@ -618,32 +249,7 @@
 
 (New feature / Loyalty / Reporting - March 2025)</description>
       <guid isPermaLink="false">ff01af0424f8074e7f9c70ed681a536655229c2d</guid>
-      <pubDate>Sat, 01 Mar 2025 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highlight incentivized reviews</title>
-      <link>https://intercom.help/okendo-reviews/en/articles/10310387-on-site-displays-global-settings#h_f9d2208a98</link>
-      <description>Automatically tag incentivized reviews so customers know when rewards were offered. Build trust through transparency, without any manual work for your team.</description>
-      <guid isPermaLink="false">abf09594db2296415bdbaeb8077ac0789e210d26</guid>
-      <pubDate>Sat, 01 Mar 2025 10:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Protect your loyalty program with member-only coupons</title>
-      <link>https://support.okendo.io/en/articles/9650735-combining-discounts-in-okendo-loyalty#h_743c62c448</link>
-      <description>Prevent coupon misuse by restricting loyalty rewards to the member who redeemed them, keeping your program fair and ensuring rewards stay exclusive to your loyal customers.
-
-(Loyalty - February 2025)</description>
-      <guid isPermaLink="false">c5e23ae700db1c6d441ace9294a590a950e38b09</guid>
-      <pubDate>Sat, 01 Feb 2025 10:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Enroll new loyalty members in store with Shopify POS</title>
-      <link>https://support.okendo.io/en/articles/10031421-integrating-loyalty-with-shopify-pos</link>
-      <description>Customers can join your loyalty program in-store at checkout with Shopify POS, helping you grow your program, increase engagement, and build stronger customer relationships.
-
-(Integration / Loyalty - February 2025)</description>
-      <guid isPermaLink="false">df40e8cdf1eac4c21313c25ea4045424fe28fbb1</guid>
-      <pubDate>Sat, 01 Feb 2025 10:50:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 11:34:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Save time with auto-published AI Summaries</title>
@@ -652,16 +258,7 @@
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">0a01658b1228c685b29526fb61ae49d9c815ea1b</guid>
-      <pubDate>Sat, 01 Feb 2025 10:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Quizzes] Resize recommended product images</title>
-      <link>https://support.okendo.io/en/articles/10501560-resizing-recommended-product-images</link>
-      <description>Easily resize product images, adjust aspect ratios, and customize display settings to match your PDP styling for a more cohesive and on-brand shopping experience.
-
-(Enhancement / Quizzes - February 2025)</description>
-      <guid isPermaLink="false">65f1b03cf6fc4357185e63dc8e245a2d941c856d</guid>
-      <pubDate>Sat, 01 Feb 2025 10:48:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:33:00 +0000</pubDate>
     </item>
     <item>
       <title>[Okendo Platform] Drive sales with stackable discounts</title>
@@ -670,7 +267,7 @@
 
 (Okendo Platform - February 2025)</description>
       <guid isPermaLink="false">eb6380a2391a7b7892fb7448d18d2aaa9eea5710</guid>
-      <pubDate>Sat, 01 Feb 2025 10:47:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:32:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Deeper insights with enhanced review data exports</title>
@@ -679,7 +276,7 @@
 
 (Reviews - February 2025)</description>
       <guid isPermaLink="false">368df95b4ca55bf6b618d6df77c8f656f4ccc0c2</guid>
-      <pubDate>Sat, 01 Feb 2025 10:46:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:31:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Highlight customer media with featured reviews tags</title>
@@ -688,7 +285,7 @@
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">ddf6ce9e30c9d3ebad74f7193713546eec991e6b</guid>
-      <pubDate>Sat, 01 Feb 2025 10:45:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Collect more reviews with Customer Accounts</title>
@@ -697,7 +294,7 @@
 
 (Integration / Loyalty / Reviews - February 2025)</description>
       <guid isPermaLink="false">a9fad8b81b2ea6524173c872986dbe7e91843c2b</guid>
-      <pubDate>Sat, 01 Feb 2025 10:44:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:29:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] AI Summaries for faster review insights</title>
@@ -706,16 +303,7 @@
 
 (New feature / Reviews - February 2025)</description>
       <guid isPermaLink="false">f88eca31606ff7d8a2afae8b040da8b640755f6f</guid>
-      <pubDate>Sat, 01 Feb 2025 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Loyalty] Improved loyalty member imports</title>
-      <link>https://support.okendo.io/en/articles/9041464-importing-loyalty-data</link>
-      <description>Okendo Loyalty now lets you exclude members with a 0-point balance, 0 points spent, and no VIP tier from imports, helping you maintain clean data and focus on engaged customers.
-
-(Loyalty - February 2025)</description>
-      <guid isPermaLink="false">4137f70f2785434d8809ec8d35e0bb16ccb83e7a</guid>
-      <pubDate>Sat, 01 Feb 2025 10:42:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:28:00 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Expanded review request email eligibility</title>
@@ -724,7 +312,106 @@
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">97871d32403455451812a2b9aafe6254a237cd0c</guid>
-      <pubDate>Sat, 01 Feb 2025 10:41:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 11:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Display product reviews on TikTok Shop</title>
+      <link>https://support.okendo.io/en/articles/10390543-how-to-integrate-okendo-and-aftership-feed</link>
+      <description>Leverage your verified post-purchase reviews to build trust and boost social proof on TikTok Shop with our new Aftership integration.
+
+(Integration / Reviews - January 2025)</description>
+      <guid isPermaLink="false">83b22aea755503ac7ca9d88bf36b13e8047954f5</guid>
+      <pubDate>Wed, 01 Jan 2025 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Okendo Platform] Czech language support</title>
+      <link>https://intercom.help/okendo-reviews/en/articles/3821391-translate-okendo-to-another-language</link>
+      <description>Build stronger connections with Czech speaking customers and deliver a localized experience with Czech translations, available across all products.
+
+(Enhancement / Okendo Platform - November 2024)</description>
+      <guid isPermaLink="false">d56246c0a99853032dbe300ccd0e79b8e9673cb5</guid>
+      <pubDate>Fri, 01 Nov 2024 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Highlight your top reviews</title>
+      <link>https://support.okendo.io/en/articles/9781356-showing-featured-reviews-first-in-widget-plus</link>
+      <description>Build trust, boost credibility, and drive confident purchases by curating top customer feedback with Featured Reviews.
+
+(New feature / Reviews - October 2024)</description>
+      <guid isPermaLink="false">6b261f01ee316568a25b6e1ba887262ed91c6369</guid>
+      <pubDate>Tue, 01 Oct 2024 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Okendo Platform] Recharge integration</title>
+      <link>https://support.okendo.io/en/articles/9720242-integrating-recharge-with-okendo</link>
+      <description>Seamlessly sync discount codes between Okendo and Recharge, so customers can redeem rewards on subscriptions directly in the Recharge customer portal.
+
+(Integration / Okendo Platform - October 2024)</description>
+      <guid isPermaLink="false">1e2571dc2cd3158bee1b29031cc8bbf5bcf92cbc</guid>
+      <pubDate>Tue, 01 Oct 2024 11:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Review translations</title>
+      <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages</link>
+      <description>Maximize the impact of your social proof and build trust in international markets with on-demand translations.
+
+(New feature / Reviews - September 2024)</description>
+      <guid isPermaLink="false">446681fba4b0293a21d94df782500b95b9317706</guid>
+      <pubDate>Sun, 01 Sep 2024 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reporting] Loyalty insights page</title>
+      <link>https://support.okendo.io/en/articles/9774498-okendo-loyalty-dashboard</link>
+      <description>Access new metrics and deeper insights that help you make quick changes and maximize results.
+
+(New feature / Loyalty / Reporting - August 2024)</description>
+      <guid isPermaLink="false">7a90abb3fc2a057a16ca4ef976de37ed413bcfc8</guid>
+      <pubDate>Thu, 01 Aug 2024 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Surveys] Boost survey completion with progress tracking</title>
+      <link>https://support.okendo.io/en/articles/9672615-add-a-progress-bar-to-a-survey</link>
+      <description>Add a progress bar to your surveys to boost completion rates and reduce drop-offs by helping respondents track their progress, especially in longer surveys.
+
+(Enhancement / Surveys - July 2024)</description>
+      <guid isPermaLink="false">9105c5e8899c3823d080115a39edcd5c601bd5af</guid>
+      <pubDate>Mon, 01 Jul 2024 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reporting] Loyalty dashboard improvements for performance insights</title>
+      <link>https://support.okendo.io/en/articles/9392488-performance-reporting-in-okendo-loyalty#h_890c57143e</link>
+      <description>Review your loyalty program’s performance and ROI with new dashboards that provide summaries and detailed views of revenue impact, member behavior, points accumulation, and coupon usage.
+
+(Enhancement / Loyalty / Reporting - June 2024)</description>
+      <guid isPermaLink="false">cfaae4e22b9e09a37cc8915e2439d88184ea7ca4</guid>
+      <pubDate>Sat, 01 Jun 2024 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reporting] Filter and view Quiz responses by conversions</title>
+      <link>https://support.okendo.io/en/articles/8098595-viewing-quiz-results-and-performance#h_65913fa388</link>
+      <description>You can now filter quiz responses by add-to-cart or purchase events in the Responses tab to validate attributed revenue, track conversion data, and gain insights into user behavior.
+
+(Quizzes / Reporting - June 2024)</description>
+      <guid isPermaLink="false">839e79b3956b56c7f50628517d58611aa7bbaa73</guid>
+      <pubDate>Sat, 01 Jun 2024 11:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Triple Whale Integration</title>
+      <link>https://kb.triplewhale.com/en/articles/9396354-okendo-integration</link>
+      <description>Connect your Okendo Reviews data with Triple Whale analytics for deeper insights into how customer feedback influences marketing performance to help you make smarter, data-driven decisions.
+
+(Integration / Reviews - May 2024)</description>
+      <guid isPermaLink="false">d8142b94c680a4cc93007c6e0bb03a9dce96ff47</guid>
+      <pubDate>Wed, 01 May 2024 11:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Surveys] Enhanced post-checkout surveys with Shopify extensions</title>
+      <link>https://support.okendo.io/en/articles/9229312-using-post-checkout-surveys-with-checkout-extensibility</link>
+      <description>Shopify Plus merchants can now prompt customers for insights using post-checkout surveys. These surveys can be integrated into Thank You pages using Checkout Extensibility and the Okendo Surveys app block.
+
+(Integration / Surveys - April 2024)</description>
+      <guid isPermaLink="false">d5126af29f11e27ad221281ddc162004c496a462</guid>
+      <pubDate>Mon, 01 Apr 2024 11:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
