@@ -22,9 +22,16 @@ FEED_TITLE = "Okendo - Product Releases"
 FEED_DESC = "New features and updates to Okendo (unofficial feed)."
 MAX_ITEMS = 80
 
-# Optional: restrict to specific topics by NAME (case-insensitive). Empty = all.
-# e.g. {"reviews", "loyalty", "okendo platform"}
-TOPICS = set()
+# Restrict to specific topics by NAME (case-insensitive). Empty set = all topics.
+# These five mirror the selection in Okendo's Topic filter. The page's topic
+# params are opaque numeric IDs, so we match on the visible topic label instead.
+TOPICS = {
+    "customer profiles",
+    "okendo platform",
+    "reporting",
+    "reviews",
+    "surveys",
+}
 
 MONTH_RE = re.compile(
     r"^(january|february|march|april|may|june|july|august|september|"
