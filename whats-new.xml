@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Klaviyo — What's New</title>
+    <link>https://www.klaviyo.com/whats-new</link>
+    <description>Latest Klaviyo product updates and releases (unofficial feed).</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jul 2026 20:55:18 +0000</lastBuildDate>
+    <item>
+      <title>Composer - Segment Generation</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure</link>
+      <description>Composer - Segment Generation</description>
+      <guid isPermaLink="false">1973e512ecc6ae914bb8fca6f833b62a65c41ba3</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A/B testing with personalized send time</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time</link>
+      <description>A/B testing with personalized send time</description>
+      <guid isPermaLink="false">036905d0d696ac5fb715ab4b4c971c612fb6a0e4</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - AI Image Controls</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure</link>
+      <description>Composer - AI Image Controls</description>
+      <guid isPermaLink="false">a4024151ad28339c6a232717d8e6e61b4d161416</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A/B Testing in WhatsApp Flow</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-do-a-b-testing-in-whatsapp-flow</link>
+      <description>A/B Testing in WhatsApp Flow</description>
+      <guid isPermaLink="false">017f2c2f7ad991f1ced9347509c9858e8a515bc1</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Push Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
+      <description>Composer - Push Campaigns</description>
+      <guid isPermaLink="false">96dd1ee11e83d84da3af1e1f3db6ba9278c270e7</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minute-level gradual sending for campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360050216012-Understanding-campaign-schedule-and-send-options</link>
+      <description>Minute-level gradual sending for campaigns</description>
+      <guid isPermaLink="false">a7cc7f1d3b682c885de4c56655ac1415e02c858c</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API release 2026-07-15</title>
+      <link>https://developers.klaviyo.com/en/docs/changelog_#revision-2026-07-15-ga</link>
+      <description>API release 2026-07-15</description>
+      <guid isPermaLink="false">a8d08b6f7b7c8b6aae872eb9a33f912f4f4cba97</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social content in marketing messages</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/use-social-content-in-campaigns-flows-and-forms</link>
+      <description>Social content in marketing messages</description>
+      <guid isPermaLink="false">0d3d6822ac4c0f9d63f81fa34f3837ddccbdfd33</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Insights Agent - Proactive cards and Composer chat</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights</link>
+      <description>Social Insights Agent - Proactive cards and Composer chat</description>
+      <guid isPermaLink="false">da0c91c02d7201e949dc9922009e647471e928c5</guid>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Campaign brief</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
+      <description>Composer - Campaign brief</description>
+      <guid isPermaLink="false">7d14a11ab2f1b673eb2a5adc495d017a1dc2ff3e</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manage Email Open Tracking</title>
+      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/46ac99bc-8f32-4a8f-99db-f309be02bb58/4ca2555f-7987-4727-ba14-56bef4983970</link>
+      <description>Manage Email Open Tracking</description>
+      <guid isPermaLink="false">a19f77381c21de9e178bf603c90f137740f56f6d</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Subject line &amp; preview text intelligence</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
+      <description>Composer - Subject line &amp; preview text intelligence</description>
+      <guid isPermaLink="false">a0f56d2fd3a5a338924d9cd69ad85c0b6ecf3664</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Universal content support</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer</link>
+      <description>Composer - Universal content support</description>
+      <guid isPermaLink="false">fa5d66956e747520c47a0873bb9a41003ab17503</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Addressing image sizing inconsistencies</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
+      <description>Composer - Addressing image sizing inconsistencies</description>
+      <guid isPermaLink="false">665c23704a3924f4775b69e97f816ed04af81b10</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom CSS for Klaviyo Sign-up Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-css-in-sign-up-forms</link>
+      <description>Custom CSS for Klaviyo Sign-up Forms</description>
+      <guid isPermaLink="false">c2fcf4f99a0c8a1cbc0b0b71d3a612fe4dc75f69</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Email Profiles</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/48274807144475-Multi-Email-Profiles</link>
+      <description>Multi-Email Profiles</description>
+      <guid isPermaLink="false">e4fa89331c708c5f0ec6ff00c3f55e2baa3f94ff</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embedded personalized content blocks</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/add-onsite-content-blocks-to-your-shopify-store</link>
+      <description>Embedded personalized content blocks</description>
+      <guid isPermaLink="false">470e309795993ac5df943492b0dbfb3795f10fef</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Agent, Public APIs</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-apis-beta</link>
+      <description>Customer Agent, Public APIs</description>
+      <guid isPermaLink="false">04f420159f918ac93829fbc19eaa69469742eea4</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Agent, Profile Context Tools</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools</link>
+      <description>Customer Agent, Profile Context Tools</description>
+      <guid isPermaLink="false">593d4453b041beea67133a798623c04d7278b889</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram 1-to-Many</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/connect-instagram-to-klaviyo</link>
+      <description>Instagram 1-to-Many</description>
+      <guid isPermaLink="false">a83eb1d12a997ab9f1adfd2f243fe345a2a6d7df</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Agent, Profile Enrichment</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools</link>
+      <description>Customer Agent, Profile Enrichment</description>
+      <guid isPermaLink="false">97c343c256df1ab64639c4c1aa41bd11ea3022b8</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Figma Plugin</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma</link>
+      <description>Figma Plugin</description>
+      <guid isPermaLink="false">bb7f3393e2b8da1508a10235540677c4039d14ab</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cart in Customer Hub</title>
+      <link>https://help-center.preview.amplify-platform.klaviyo.com/hc/en-us/articles/how-to-add-cart-to-customer-hub</link>
+      <description>Cart in Customer Hub</description>
+      <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flow Analytics Dashboard</title>
+      <link>https://www.klaviyo.com/whats-new#all-updates</link>
+      <description>Flow Analytics Dashboard</description>
+      <guid isPermaLink="false">5d0773fdde92f029b60476ff0b5d395226f523e5</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Event Property Filters for In-App Form Triggers</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form</link>
+      <description>Event Property Filters for In-App Form Triggers</description>
+      <guid isPermaLink="false">500df2de514f82d8222019f0ebd925126ec89e32</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onsite Tracking for Olo via Google Tag Manager</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/track-onsite-events-from-olo-with-google-tag-manager</link>
+      <description>Onsite Tracking for Olo via Google Tag Manager</description>
+      <guid isPermaLink="false">29da72d67a82bc9233cb125e8dc3f3413b0e5619</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaviyo extension for Shopify Sidekick</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-the-klaviyo-extension-for-sidekick-in-shopify</link>
+      <description>Klaviyo extension for Shopify Sidekick</description>
+      <guid isPermaLink="false">66f7d714cf23e8a5896691330cc19ef8783e215d</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/39406875083035-Cloudbeds-data-reference</link>
+      <description>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates</description>
+      <guid isPermaLink="false">a0772ba891038e7b9112d80bd89162b844fbba66</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Feeds in Text: Dynamic Product Recommendations in SMS</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115005082787-How-to-use-product-feeds-and-recommendations</link>
+      <description>Product Feeds in Text: Dynamic Product Recommendations in SMS</description>
+      <guid isPermaLink="false">2c2152a86239cf9eddfee379711100f679b6dd49</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magento 2 WhatsApp consent collection</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360058698511-How-to-collect-SMS-consent-at-checkout-on-Magento-2</link>
+      <description>Magento 2 WhatsApp consent collection</description>
+      <guid isPermaLink="false">57a173b88c2134cb2dfceb5eda355362073e401d</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Sending Numbers from Klaviyo</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/40116005412507-How-to-get-a-phone-number-for-WhatsApp</link>
+      <description>WhatsApp Sending Numbers from Klaviyo</description>
+      <guid isPermaLink="false">d0b94c779eaf7b0f7435538fba3dc7926d97fb30</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push Action Buttons</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-action-buttons-to-a-push-notification</link>
+      <description>Push Action Buttons</description>
+      <guid isPermaLink="false">8275d37a94b7ca9791d07bcfe9d0888e34666a02</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API Key Disablement</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/managing-your-api-keys-disabling-and-re-enabling</link>
+      <description>API Key Disablement</description>
+      <guid isPermaLink="false">10a0152359b69213905caf189c6515f5b83160bb</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Agent Multilingual</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent</link>
+      <description>Customer Agent Multilingual</description>
+      <guid isPermaLink="false">a4c9f2401a74478eaca1e368f3d9e74d0ce35bf7</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simplified Language Management</title>
+      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/3fd18bd7-7620-4501-9b1e-1556299623bb/c24ae94b-27e5-4939-963d-3abce64bc49f</link>
+      <description>Simplified Language Management</description>
+      <guid isPermaLink="false">26eae118933dbf6c0caf04ff04ac34080e4fc7b5</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp consent on WooCommerce checkout</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360057745791-How-to-collect-SMS-consent-at-checkout-on-WooCommerce</link>
+      <description>WhatsApp consent on WooCommerce checkout</description>
+      <guid isPermaLink="false">3699a55a1af68445239fa35ce8efdbfd983b0ce8</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reporting Dashboards for Hospitality</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-hotel-business-review-dashboard</link>
+      <description>Reporting Dashboards for Hospitality</description>
+      <guid isPermaLink="false">56ba8b56f34c594fe070afbe9dfb9a272fd9ea30</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart Translations - Import Glossary settings</title>
+      <link>https://www.klaviyo.com/whats-new#all-updates</link>
+      <description>Smart Translations - Import Glossary settings</description>
+      <guid isPermaLink="false">bde2cb2c5448f43c5c33b9efaa6fb585a216fc0e</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DND create and update email template tools in MCP</title>
+      <link>https://developers.klaviyo.com/en/docs/klaviyo_mcp_server#available-tools</link>
+      <description>DND create and update email template tools in MCP</description>
+      <guid isPermaLink="false">221bf424a727371fb58150bab2193a37b6d220e1</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transactional and Service Branded Sending Domains</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115000357752-How-to-set-up-a-branded-sending-domain</link>
+      <description>Transactional and Service Branded Sending Domains</description>
+      <guid isPermaLink="false">610f4c00a0dcdc8b3f68dcbe25e32a2b1ab9b12c</guid>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Serve Dedicated Click Tracking</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360001550572-How-to-set-up-dedicated-click-tracking</link>
+      <description>Self-Serve Dedicated Click Tracking</description>
+      <guid isPermaLink="false">74ee6b726066fd9b2165ed4ab1d4c993510f3b58</guid>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Channel Automation Improvements</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/40116727375771-How-to-create-a-WhatsApp-automation</link>
+      <description>Mobile Channel Automation Improvements</description>
+      <guid isPermaLink="false">8a988a211065b27ffeb2f6113e1eff060d1ba1cb</guid>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Punchh Offer Management + Reward Object</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-and-distribute-punchh-offers-via-klaviyo</link>
+      <description>Punchh Offer Management + Reward Object</description>
+      <guid isPermaLink="false">f9b66997a9d544e756ee2985aab1a72cb3bab9f8</guid>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Push A/B testing in Flows (GA)</title>
+      <link>https://www.klaviyo.com/whats-new#all-updates</link>
+      <description>Mobile Push A/B testing in Flows (GA)</description>
+      <guid isPermaLink="false">b0e874db5a49400d66b4bae8bad3957acd805a69</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>URL Targeted Content Blocks</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub</link>
+      <description>URL Targeted Content Blocks</description>
+      <guid isPermaLink="false">0340a8467239b3dee6ea17cb25e36ac85fcc1e55</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prepared Order Event - Toast Integration</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/24302613403931-Toast-data-reference</link>
+      <description>Prepared Order Event - Toast Integration</description>
+      <guid isPermaLink="false">74d5907e2ae7530b0f4d21ace34f3b914c0e7ac9</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personalized Content Blocks with Profile Picker</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub</link>
+      <description>Personalized Content Blocks with Profile Picker</description>
+      <guid isPermaLink="false">93b8f6261d6ca91cc888a612ea05555fcbcc41cc</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrations Schema for Customer Hub</title>
+      <link>https://www.klaviyo.com/whats-new#all-updates</link>
+      <description>Integrations Schema for Customer Hub</description>
+      <guid isPermaLink="false">264c9731805c40ab209e27e5e5ebabc997cfb590</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Message Onsite Banners</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/47987855301659-How-to-Create-a-Personalized-Onsite-Banner</link>
+      <description>Multi-Message Onsite Banners</description>
+      <guid isPermaLink="false">5c4143800440a3d2e9cea3955a5fc14f62da46a7</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In-App Forms Mobile SDK Hooks</title>
+      <link>https://developers.klaviyo.com/en/docs/sdk_overview#mobile-sdks</link>
+      <description>In-App Forms Mobile SDK Hooks</description>
+      <guid isPermaLink="false">4b973a6bc3e2e04d5375f302ee56c727e5052ba5</guid>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flyout Forms In-App</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms</link>
+      <description>Flyout Forms In-App</description>
+      <guid isPermaLink="false">ae781d9b79fe9d22d1b3e986e78ffbb4bef5f493</guid>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS Background Processing / Content Available</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings</link>
+      <description>iOS Background Processing / Content Available</description>
+      <guid isPermaLink="false">01d4156a1b6b8c32addea97207fbfeb841172dee</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automatic UTM Parameters For Deep Links</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360053921252-How-to-add-UTM-tracking-to-campaigns-and-flows</link>
+      <description>Automatic UTM Parameters For Deep Links</description>
+      <guid isPermaLink="false">57be63004431cb018c4d200adf8c05dfb19094a6</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shopify Coupon Combinations</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115006155388-How-to-create-unique-coupon-codes-for-Shopify</link>
+      <description>Shopify Coupon Combinations</description>
+      <guid isPermaLink="false">81944291772ee710770523348b749ddaa6f65662</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geofencing Enhancements</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/45194892526747-Getting-started-with-geofences</link>
+      <description>Geofencing Enhancements</description>
+      <guid isPermaLink="false">76243c31cf35da9ee94619b47fd881533fcb1d65</guid>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Warehouse Import: Record-level Error Reporting</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/45442043369499-Understanding-data-warehouse-event-import-in-Klaviyo</link>
+      <description>Data Warehouse Import: Record-level Error Reporting</description>
+      <guid isPermaLink="false">e5457902675a72c146a07454f67b637758a633c4</guid>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Warehouse Import: Connection and Command-level Error Visibility</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/40939206649627-Understanding-data-warehouse-import-in-Klaviyo</link>
+      <description>Data Warehouse Import: Connection and Command-level Error Visibility</description>
+      <guid isPermaLink="false">44e9021b7b91b6cab0b9b0e2fe88cd90969edb02</guid>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Channel Affinity for WhatsApp</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo</link>
+      <description>Channel Affinity for WhatsApp</description>
+      <guid isPermaLink="false">c34d9f592becab93f3b4a16d2de4a33cd2a49c02</guid>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Category Analysis Dashboard</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard</link>
+      <description>Category Analysis Dashboard</description>
+      <guid isPermaLink="false">230efa7def11102be129777d993f6a4ef0d11863</guid>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Folders For Email Templates</title>
+      <link>https://www.klaviyo.com/whats-new#all-updates</link>
+      <description>Folders For Email Templates</description>
+      <guid isPermaLink="false">530a2d8f34b9499a7b1bce560e5f1f9a763f7979</guid>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
