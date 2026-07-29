@@ -2,7 +2,8 @@ name: Build changelog feeds
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # daily at 13:00 UTC
+    # 4x daily: 07:00, 11:00, 15:00, 19:00 America/New_York (EDT)
+    - cron: "0 11,15,19,23 * * *"
   workflow_dispatch: {}
 
 permissions:
