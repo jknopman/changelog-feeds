@@ -85,11 +85,17 @@ def parse(html):
     soup = BeautifulSoup(html, "lxml")
     tokens = tokenize(soup)
 
-    # Start after the LAST "Changelog" heading (skips nav + Recent highlights).
+    # Anchor on the "Changelog" heading that introduces the dated list: the LAST
+    # such heading that still PRECEDES the first month header. The page also has
+    # a "Changelog" link in the footer; anchoring on that one lands past every
+    # entry and yields nothing.
+    first_month = next(
+        (i for i, t in enumerate(tokens) if t[0] == "month"), None)
     start = 0
-    for i, tok in enumerate(tokens):
-        if tok[0] == "text" and tok[1].lower() == "changelog":
-            start = i + 1
+    if first_month is not None:
+        for i, tok in enumerate(tokens[:first_month]):
+            if tok[0] == "text" and tok[1].lower() == "changelog":
+                start = i + 1
     tokens = tokens[start:]
 
     entries = []
