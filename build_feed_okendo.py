@@ -148,6 +148,13 @@ def month_base(month_str):
     return datetime(int(year), MONTHS[name.lower()], 1, 12, tzinfo=timezone.utc)
 
 
+def unique_link(href, guid):
+    """Give every item a distinct URL. Okendo reuses support articles across
+    entries, and readers that dedupe by URL would otherwise merge them."""
+    base = (href or SOURCE_URL).split("#")[0]
+    return f"{base}#okd-{guid[:8]}"
+
+
 def build(entries):
     from feedgen.feed import FeedGenerator
     fg = FeedGenerator()
@@ -170,10 +177,10 @@ def build(entries):
         fe = fg.add_entry(order="append")
         prefix = f"[{e['topic']}] " if e["topic"] else ""
         fe.title(prefix + e["title"])
-        fe.link(href=e["link"])
         guid = hashlib.sha1(
             (e["title"] + "|" + e["month"]).encode()).hexdigest()
         guids.append(guid)
+        fe.link(href=unique_link(e["link"], guid))
         fe.guid(guid, permalink=False)
         tag = " / ".join(x for x in (e["rtype"], e["topic"]) if x)
         desc = e["description"] + (f"\n\n({tag} - {e['month']})" if tag else "")
