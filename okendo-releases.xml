@@ -7,11 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 13:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:58:34 +0000</lastBuildDate>
     <item>
       <title>[Reviews] Set attributes as optional</title>
       <link>https://support.okendo.io/en/articles/1737436-getting-started-with-attributes#okd-f0d7a3a6</link>
-      <description>Set any attribute, product or profile, as optional when adding them to an attribute collection, allowing for greater customization of the review journey, reducing friction for shoppers.
+      <description>Set attributes as optional — Set any attribute, product or profile, as optional when adding them to an attribute collection, allowing for greater customization of the review journey, reducing friction for shoppers.
 
 (Enhancement / Reviews - July 2026)</description>
       <guid isPermaLink="false">f0d7a3a6279bf275a1fb2aee5b7744cf740d2606</guid>
@@ -20,7 +20,7 @@
     <item>
       <title>[Reviews] Custom tag IDs are now visible and copyable in the admin</title>
       <link>https://support.okendo.io/en/articles/15598403-feature-specific-reviews-on-any-page-using-custom-tags#okd-173a1dcd</link>
-      <description>Merchants can now see and copy the ID for any custom tag directly from their Reviews Widget settings.
+      <description>Custom tag IDs are now visible and copyable in the admin — Merchants can now see and copy the ID for any custom tag directly from their Reviews Widget settings.
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">173a1dcd94952b45b3ba3a925e1d4f1dfe284852</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>[Reviews] Merchants can now include incentivized status when exporting</title>
       <link>https://support.okendo.io/en/articles/13909417-exporting-data-from-okendo#okd-1c8c4f2e</link>
-      <description>Review exports now include incentivized status, showing whether a review was incentivized with a coupon, loyalty points or gifted.
+      <description>Merchants can now include incentivized status when exporting — Review exports now include incentivized status, showing whether a review was incentivized with a coupon, loyalty points or gifted.
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">1c8c4f2e76a4e4dc666d46d526a8a883dcd2c6dc</guid>
@@ -38,7 +38,7 @@
     <item>
       <title>[Reviews] Merchants can now specify a review status when importing reviews</title>
       <link>https://support.okendo.io/en/articles/2057320-importing-reviews-using-the-okendo-import-template#okd-ccf80922</link>
-      <description>Set the status of imported reviews as pending, approved, or rejected.
+      <description>Merchants can now specify a review status when importing reviews — Set the status of imported reviews as pending, approved, or rejected.
 
 (Enhancement / Reviews - June 2026)</description>
       <guid isPermaLink="false">ccf80922b8f8b32704f12d5bf13ac90dcae7cbc4</guid>
@@ -47,7 +47,7 @@
     <item>
       <title>[Okendo Platform] Sync customer profile data to Shopify metafields</title>
       <link>https://support.okendo.io/en/articles/15321859-sync-customer-profile-data-to-shopify-metafields#okd-52b93d13</link>
-      <description>Make Okendo survey, quiz, and loyalty profile data available in Shopify segmentation, Flow automations, and reporting, and pass it to connected platforms like Klaviyo. Put your data to work to build richer segments and trigger more targeted automations, all without leaving Shopify.
+      <description>Sync customer profile data to Shopify metafields — Make Okendo survey, quiz, and loyalty profile data available in Shopify segmentation, Flow automations, and reporting, and pass it to connected platforms like Klaviyo. Put your data to work to build richer segments and trigger more targeted automations, all without leaving Shopify.
 
 (Enhancement / Okendo Platform - June 2026)</description>
       <guid isPermaLink="false">52b93d130efbc509e5aa3069d28f1f401605dd73</guid>
@@ -56,7 +56,7 @@
     <item>
       <title>[Reviews] Collect reviews for bundles, individual items, or both</title>
       <link>https://support.okendo.io/en/articles/14482904-collecting-reviews-for-bundled-products#okd-5c8e8215</link>
-      <description>Ask customers to review the bundle as a whole, the individual items inside it, or both. Ensure your review requests feel relevant and your product pages build the social proof that matters most.
+      <description>Collect reviews for bundles, individual items, or both — Ask customers to review the bundle as a whole, the individual items inside it, or both. Ensure your review requests feel relevant and your product pages build the social proof that matters most.
 
 (General availability (GA) / Reviews - May 2026)</description>
       <guid isPermaLink="false">5c8e8215135ba8ce7fadac08ea98de3255588d20</guid>
@@ -65,7 +65,7 @@
     <item>
       <title>[Reviews] Transform customer engagement with auto review replies</title>
       <link>https://support.okendo.io/en/articles/2881122-reply-to-your-customer-reviews#okd-31c054e0</link>
-      <description>AI-generated replies to reviews can now be configured based on review sentiment. Configure per-sentiment toggles, word limits, reply delays and privacy settings from your Reviews settings.
+      <description>Transform customer engagement with auto review replies — AI-generated replies to reviews can now be configured based on review sentiment. Configure per-sentiment toggles, word limits, reply delays and privacy settings from your Reviews settings.
 
 (General availability (GA) / New feature / Reviews - May 2026)</description>
       <guid isPermaLink="false">31c054e0d6f257c087c40f1a731ac68d452abfd2</guid>
@@ -74,7 +74,7 @@
     <item>
       <title>[Okendo Platform] Pre-fill details for logged-in shoppers</title>
       <link>https://support.okendo.io/en/articles/15079259-how-okendo-pre-fills-details-for-logged-in-shoppers#okd-743a356d</link>
-      <description>When a shopper is logged into your store, Okendo now automatically pre-fills their email address and name across every Okendo surface they encounter. Shoppers spend less time entering details and more time completing the actions that matter; leaving reviews, joining loyalty programs, sharing referrals, and more.
+      <description>Pre-fill details for logged-in shoppers — When a shopper is logged into your store, Okendo now automatically pre-fills their email address and name across every Okendo surface they encounter. Shoppers spend less time entering details and more time completing the actions that matter; leaving reviews, joining loyalty programs, sharing referrals, and more.
 
 (Enhancement / Okendo Platform - May 2026)</description>
       <guid isPermaLink="false">743a356d94710f50ad7ca9c62b60f969d0b5fcc5</guid>
@@ -83,7 +83,7 @@
     <item>
       <title>[Reviews] Turn customer accounts into a review engine</title>
       <link>https://intercom.help/okendo-reviews/en/articles/13758573-turn-your-customer-account-pages-into-a-review-channel#okd-5b176eec</link>
-      <description>Drive review volume by activating Shopify’s customer account experience. Add review CTAs to order history, highlight unreviewed products, and make leaving feedback effortless.
+      <description>Turn customer accounts into a review engine — Drive review volume by activating Shopify’s customer account experience. Add review CTAs to order history, highlight unreviewed products, and make leaving feedback effortless.
 
 (General availability (GA) / Reviews - April 2026)</description>
       <guid isPermaLink="false">5b176eec3493b126fe3baaaac3542b87f5cd67ca</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>[Reviews] Video transcription &amp; accessibility for reviews media</title>
       <link>https://support.okendo.io/en/articles/14118263-video-transcription-accessibility-for-reviews-media#okd-e771bd54</link>
-      <description>AI-generated video transcriptions and image alt-tags are now automatically created for reviews with media attached, surfacing inline subtitles and full transcripts in the storefront media modal and admin moderation panel.
+      <description>Video transcription &amp; accessibility for reviews media — AI-generated video transcriptions and image alt-tags are now automatically created for reviews with media attached, surfacing inline subtitles and full transcripts in the storefront media modal and admin moderation panel.
 
 (Enhancement / Reviews - March 2026)</description>
       <guid isPermaLink="false">e771bd54d51a52f98511e02ca856113fe4e045cb</guid>
@@ -101,7 +101,7 @@
     <item>
       <title>[Reviews] HTTP Block for Sequences</title>
       <link>https://support.okendo.io/en/articles/11892285-http-block-for-sequences#okd-825b7ff7</link>
-      <description>You can now forward sequence data from Okendo to external tools using a configurable HTTP request.
+      <description>HTTP Block for Sequences — You can now forward sequence data from Okendo to external tools using a configurable HTTP request.
 
 (General availability (GA) / Reviews - February 2026)</description>
       <guid isPermaLink="false">825b7ff7c62b1ff84dd95289ea288eb671cc9652</guid>
@@ -110,7 +110,7 @@
     <item>
       <title>[Okendo Platform] Configurable selection limits for multi-select questions</title>
       <link>https://support.okendo.io/en/articles/1737436-getting-started-with-attributes#okd-87c48fa2</link>
-      <description>You can now set minimum and maximum selection limits on multi-select questions across Product attributes, Profile questions, Surveys, and Quizzes. The maximum limit of options that are able to be selected has also been increased from 5 to 10.
+      <description>Configurable selection limits for multi-select questions — You can now set minimum and maximum selection limits on multi-select questions across Product attributes, Profile questions, Surveys, and Quizzes. The maximum limit of options that are able to be selected has also been increased from 5 to 10.
 
 (Enhancement / Okendo Platform - February 2026)</description>
       <guid isPermaLink="false">87c48fa251ed349535dbad63bf00974e9c371771</guid>
@@ -119,7 +119,7 @@
     <item>
       <title>[Reviews] Make data-driven decisions with Okendo’s updated performance reporting</title>
       <link>https://support.okendo.io/en/articles/5666352#okd-87a218dc</link>
-      <description>Access a rich set of review data to better understand product performance, customer sentiment, review capture, and more.
+      <description>Make data-driven decisions with Okendo’s updated performance reporting — Access a rich set of review data to better understand product performance, customer sentiment, review capture, and more.
 
 (General availability (GA) / Reporting / Reviews - February 2026)</description>
       <guid isPermaLink="false">87a218dc559988371d03f0e4c9dd84f41c49c3c5</guid>
@@ -128,7 +128,7 @@
     <item>
       <title>[Okendo Platform] New Okendo Loyalty properties &amp; events in Omnisend</title>
       <link>https://support.okendo.io/en/articles/3969369-integrating-omnisend-with-okendo#okd-a739864d</link>
-      <description>Okendo Loyalty now syncs custom contact properties and events to Omnisend, enabling segmentation and automation based on loyalty program data.
+      <description>New Okendo Loyalty properties &amp; events in Omnisend — Okendo Loyalty now syncs custom contact properties and events to Omnisend, enabling segmentation and automation based on loyalty program data.
 
 (General availability (GA) / Integration / Okendo Platform - February 2026)</description>
       <guid isPermaLink="false">a739864dc4c1269bb84f25b98795ad638684913c</guid>
@@ -137,7 +137,7 @@
     <item>
       <title>[Surveys] Survey &amp; Quiz responses now available via API</title>
       <link>https://docs.okendo.io/merchant-rest-api/endpoints#okd-e66e43d7</link>
-      <description>New Merchant REST API endpoints let you fetch a list of responses for Surveys and Quizzes, making it easier to sync data with your systems and external reporting tools.
+      <description>Survey &amp; Quiz responses now available via API — New Merchant REST API endpoints let you fetch a list of responses for Surveys and Quizzes, making it easier to sync data with your systems and external reporting tools.
 
 (Enhancement / Quizzes / Surveys - January 2026)</description>
       <guid isPermaLink="false">e66e43d7919599e3baf9f2578d574bb19a6294da</guid>
@@ -146,7 +146,7 @@
     <item>
       <title>[Reviews] Collect reviews directly from inboxes with In-Mail</title>
       <link>https://intercom.help/okendo-reviews/en/articles/11947217-collect-reviews-directly-from-customers-inboxes-using-in-mail#okd-80b2cfca</link>
-      <description>In-Mail makes it easy for shoppers to submit reviews straight from their email. Designed for a frictionless experience, it removes redirects for a faster, smoother path to sharing feedback.
+      <description>Collect reviews directly from inboxes with In-Mail — In-Mail makes it easy for shoppers to submit reviews straight from their email. Designed for a frictionless experience, it removes redirects for a faster, smoother path to sharing feedback.
 
 (Reviews - September 2025)</description>
       <guid isPermaLink="false">80b2cfca74da6447f5b4ae8831950ba41d794baa</guid>
@@ -155,7 +155,7 @@
     <item>
       <title>[Reviews] Increase accessibility on review images</title>
       <link>https://support.okendo.io/en/articles/11924652-alt-tagging-ai-for-shopper-review-images#okd-2dc7e772</link>
-      <description>Boost accessibility and SEO with auto-generated alt text for customer photos, making your store more inclusive and easier to discover.
+      <description>Increase accessibility on review images — Boost accessibility and SEO with auto-generated alt text for customer photos, making your store more inclusive and easier to discover.
 
 (New feature / Reviews - August 2025)</description>
       <guid isPermaLink="false">2dc7e77252585e893f791ee92bae8f4e1d4860e4</guid>
@@ -164,7 +164,7 @@
     <item>
       <title>[Reviews] Turn AI Summaries into global social proof</title>
       <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages#okd-7a5a5a2a</link>
-      <description>Shoppers can translate AI Summaries into their preferred language for a localized experience that builds trust and boosts conversions.
+      <description>Turn AI Summaries into global social proof — Shoppers can translate AI Summaries into their preferred language for a localized experience that builds trust and boosts conversions.
 
 (Enhancement / Reviews - July 2025)</description>
       <guid isPermaLink="false">7a5a5a2a4ba8642f83f2bd677d07020e7933d369</guid>
@@ -173,7 +173,7 @@
     <item>
       <title>[Surveys] Unlock deeper insights with survey data</title>
       <link>https://support.okendo.io/en/articles/11828993-send-survey-data-with-webhooks#okd-e9688514</link>
-      <description>Push responses to the tools you use every day to automate alerts, create support tickets, and generate actionable insights with Surveys Webhooks
+      <description>Unlock deeper insights with survey data — Push responses to the tools you use every day to automate alerts, create support tickets, and generate actionable insights with Surveys Webhooks
 
 (Surveys - July 2025)</description>
       <guid isPermaLink="false">e9688514fda22b752f5660c08d18011668ab7376</guid>
@@ -182,7 +182,7 @@
     <item>
       <title>[Reviews] Pre-built Flows now available in Klaviyo</title>
       <link>https://intercom.help/okendo-reviews/en/articles/11767587-how-to-use-okendo-flow-templates-in-klaviyo#okd-8e37a001</link>
-      <description>Ready-to-use templates are now live in Klaviyo’s Flow Library for Reviews and Loyalty—so you can launch high-performing automations faster and with less effort.
+      <description>Pre-built Flows now available in Klaviyo — Ready-to-use templates are now live in Klaviyo’s Flow Library for Reviews and Loyalty—so you can launch high-performing automations faster and with less effort.
 
 (Integration / Loyalty / Reviews - July 2025)</description>
       <guid isPermaLink="false">8e37a0016f2af5dad4b11ab95c74ada74099a15d</guid>
@@ -191,7 +191,7 @@
     <item>
       <title>[Reviews] Make your data go further with Reviews Webhooks</title>
       <link>https://docs.okendo.io/webhooks/getting-started#okd-9ed28a55</link>
-      <description>Send real-time review insights to any tool in your tech stack, fueling personalized experiences and advanced workflows.
+      <description>Make your data go further with Reviews Webhooks — Send real-time review insights to any tool in your tech stack, fueling personalized experiences and advanced workflows.
 
 (New feature / Reviews - June 2025)</description>
       <guid isPermaLink="false">9ed28a55a9c1576b335740b05363f3885836debd</guid>
@@ -200,7 +200,7 @@
     <item>
       <title>[Okendo Platform] Integrate Okendo with Iterable</title>
       <link>https://support.okendo.io/en/collections/13632185-iterable#okd-aba48e21</link>
-      <description>Easily incorporate Okendo data into your Iterable journeys and templates, enabling personalized and timely communications that engage your customers. Enhance your messaging with rich customer data like reviews, loyalty status, and more.
+      <description>Integrate Okendo with Iterable — Easily incorporate Okendo data into your Iterable journeys and templates, enabling personalized and timely communications that engage your customers. Enhance your messaging with rich customer data like reviews, loyalty status, and more.
 
 (Integration / Okendo Platform - June 2025)</description>
       <guid isPermaLink="false">aba48e2173d6b49de206e6aaa1d864b5b7a99233</guid>
@@ -209,7 +209,7 @@
     <item>
       <title>[Okendo Platform] Personalize every message with Braze</title>
       <link>https://support.okendo.io/en/articles/10396885-getting-started-with-braze-and-okendo#okd-1b526fe6</link>
-      <description>Sync Okendo data to Braze to create more relevant, impactful customer journeys. Build stronger relationships and drive more conversions with messages that resonate.
+      <description>Personalize every message with Braze — Sync Okendo data to Braze to create more relevant, impactful customer journeys. Build stronger relationships and drive more conversions with messages that resonate.
 
 (Integration / Okendo Platform - May 2025)</description>
       <guid isPermaLink="false">1b526fe68dfa7b763b0c762ef49ef8d7cb6c8f18</guid>
@@ -218,7 +218,7 @@
     <item>
       <title>[Okendo Platform] Postscript integration now supports all Okendo products</title>
       <link>https://support.okendo.io/en/articles/4341159-integrating-postscript-with-okendo#okd-61fe62c2</link>
-      <description>Okendo now sends profile and event data from all products to Postscript, making it easier to build personalized flows, and targeted campaigns.
+      <description>Postscript integration now supports all Okendo products — Okendo now sends profile and event data from all products to Postscript, making it easier to build personalized flows, and targeted campaigns.
 
 (Integration / Okendo Platform - May 2025)</description>
       <guid isPermaLink="false">61fe62c2de692613f68baa80a63985af3920e82e</guid>
@@ -227,7 +227,7 @@
     <item>
       <title>[Okendo Platform] Connect to Klaviyo with OAuth authentication</title>
       <link>https://support.okendo.io/en/articles/4061507-integrating-klaviyo-with-okendo#okd-3f9e7404</link>
-      <description>Connect Okendo to Klaviyo via secure OAuth authentication for faster setup, improved security, and easier account connection.
+      <description>Connect to Klaviyo with OAuth authentication — Connect Okendo to Klaviyo via secure OAuth authentication for faster setup, improved security, and easier account connection.
 
 (Integration / Okendo Platform - April 2025)</description>
       <guid isPermaLink="false">3f9e7404bb18476844653acaf5e3e3a3ef2ac7ee</guid>
@@ -236,7 +236,7 @@
     <item>
       <title>[Reviews] Turn social proof into sales with TikTok Shop</title>
       <link>https://okendo.io/resources/blog/okendo-reviews-tiktok-shop-integration/#okd-c311d1d4</link>
-      <description>Expand your reach by syndicating reviews directly to TikTok Shop. Build trust, influence purchase decisions and convert more shoppers with social proof.
+      <description>Turn social proof into sales with TikTok Shop — Expand your reach by syndicating reviews directly to TikTok Shop. Build trust, influence purchase decisions and convert more shoppers with social proof.
 
 (Integration / New feature / Reviews - March 2025)</description>
       <guid isPermaLink="false">c311d1d4a3341b86a0d706d9834cf53c0418568c</guid>
@@ -245,7 +245,7 @@
     <item>
       <title>[Reporting] Boost engagement with VIP Tier insights</title>
       <link>https://okendo.io/resources/blog/okendo-loyalty-vip-tier-reporting/#okd-ff01af04</link>
-      <description>Gain deeper insights into your VIP tiers, helping you track performance, monitor member progression, and refine strategies to boost engagement and loyalty program success.
+      <description>Boost engagement with VIP Tier insights — Gain deeper insights into your VIP tiers, helping you track performance, monitor member progression, and refine strategies to boost engagement and loyalty program success.
 
 (New feature / Loyalty / Reporting - March 2025)</description>
       <guid isPermaLink="false">ff01af0424f8074e7f9c70ed681a536655229c2d</guid>
@@ -254,7 +254,7 @@
     <item>
       <title>[Reviews] Save time with auto-published AI Summaries</title>
       <link>https://support.okendo.io/en/articles/10329241-adjusting-ai-summaries-settings#okd-0a01658b</link>
-      <description>AI-generated review summaries can now auto-publish once created, saving you time on manual approvals. This optional setting makes it easier to streamline review management.
+      <description>Save time with auto-published AI Summaries — AI-generated review summaries can now auto-publish once created, saving you time on manual approvals. This optional setting makes it easier to streamline review management.
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">0a01658b1228c685b29526fb61ae49d9c815ea1b</guid>
@@ -263,7 +263,7 @@
     <item>
       <title>[Okendo Platform] Drive sales with stackable discounts</title>
       <link>https://support.okendo.io/en/articles/10597676-how-to-configure-and-use-discount-combinations#okd-eb6380a2</link>
-      <description>Okendo-generated discounts can now be combined with any Shopify discounts across Reviews, Loyalty, Quizzes, and Referrals and Surveys. Give customers more ways to save while driving engagement and sales.
+      <description>Drive sales with stackable discounts — Okendo-generated discounts can now be combined with any Shopify discounts across Reviews, Loyalty, Quizzes, and Referrals and Surveys. Give customers more ways to save while driving engagement and sales.
 
 (Okendo Platform - February 2025)</description>
       <guid isPermaLink="false">eb6380a2391a7b7892fb7448d18d2aaa9eea5710</guid>
@@ -272,7 +272,7 @@
     <item>
       <title>[Reviews] Deeper insights with enhanced review data exports</title>
       <link>https://support.okendo.io/en/articles/10584118-managing-data-exports#okd-368df95b</link>
-      <description>Review exports now include upvote and downvote counts, giving you greater visibility into customer sentiment and helping you make more informed, data-driven decisions.
+      <description>Deeper insights with enhanced review data exports — Review exports now include upvote and downvote counts, giving you greater visibility into customer sentiment and helping you make more informed, data-driven decisions.
 
 (Reviews - February 2025)</description>
       <guid isPermaLink="false">368df95b4ca55bf6b618d6df77c8f656f4ccc0c2</guid>
@@ -281,7 +281,7 @@
     <item>
       <title>[Reviews] Highlight customer media with featured reviews tags</title>
       <link>https://support.okendo.io/en/articles/9781356-showing-featured-reviews-first-in-widget-plus#okd-ddf6ce9e</link>
-      <description>Featured tags are now supported in the media grid and media carousel widgets, giving you more flexibility in how they display user generated content.
+      <description>Highlight customer media with featured reviews tags — Featured tags are now supported in the media grid and media carousel widgets, giving you more flexibility in how they display user generated content.
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">ddf6ce9e30c9d3ebad74f7193713546eec991e6b</guid>
@@ -290,7 +290,7 @@
     <item>
       <title>[Reviews] Collect more reviews with Customer Accounts</title>
       <link>https://support.okendo.io/en/articles/10608490-collect-reviews-using-shopify-customer-account-extensions#okd-a9fad8b8</link>
-      <description>Brands with a launched Loyalty program can now enable product reviews in Shopify Customer Accounts, making it easier to collect feedback from past purchases.
+      <description>Collect more reviews with Customer Accounts — Brands with a launched Loyalty program can now enable product reviews in Shopify Customer Accounts, making it easier to collect feedback from past purchases.
 
 (Integration / Loyalty / Reviews - February 2025)</description>
       <guid isPermaLink="false">a9fad8b81b2ea6524173c872986dbe7e91843c2b</guid>
@@ -299,7 +299,7 @@
     <item>
       <title>[Reviews] AI Summaries for faster review insights</title>
       <link>https://okendo.io/resources/blog/okendo-reviews-ai-summaries/#okd-f88eca31</link>
-      <description>Increase conversions with AI-generated review summaries. Turn high-volume social proof into clear insights, helping shoppers buy with confidence.
+      <description>AI Summaries for faster review insights — Increase conversions with AI-generated review summaries. Turn high-volume social proof into clear insights, helping shoppers buy with confidence.
 
 (New feature / Reviews - February 2025)</description>
       <guid isPermaLink="false">f88eca31606ff7d8a2afae8b040da8b640755f6f</guid>
@@ -308,7 +308,7 @@
     <item>
       <title>[Reviews] Expanded review request email eligibility</title>
       <link>https://support.okendo.io/en/articles/4849438-customizing-your-emails#okd-97871d32</link>
-      <description>Orders no longer need a first or last name to receive review request emails sent through Okendo, making it easier to collect more customer reviews.
+      <description>Expanded review request email eligibility — Orders no longer need a first or last name to receive review request emails sent through Okendo, making it easier to collect more customer reviews.
 
 (Enhancement / Reviews - February 2025)</description>
       <guid isPermaLink="false">97871d32403455451812a2b9aafe6254a237cd0c</guid>
@@ -317,7 +317,7 @@
     <item>
       <title>[Reviews] Display product reviews on TikTok Shop</title>
       <link>https://support.okendo.io/en/articles/10390543-how-to-integrate-okendo-and-aftership-feed#okd-83b22aea</link>
-      <description>Leverage your verified post-purchase reviews to build trust and boost social proof on TikTok Shop with our new Aftership integration.
+      <description>Display product reviews on TikTok Shop — Leverage your verified post-purchase reviews to build trust and boost social proof on TikTok Shop with our new Aftership integration.
 
 (Integration / Reviews - January 2025)</description>
       <guid isPermaLink="false">83b22aea755503ac7ca9d88bf36b13e8047954f5</guid>
@@ -326,7 +326,7 @@
     <item>
       <title>[Okendo Platform] Czech language support</title>
       <link>https://intercom.help/okendo-reviews/en/articles/3821391-translate-okendo-to-another-language#okd-d56246c0</link>
-      <description>Build stronger connections with Czech speaking customers and deliver a localized experience with Czech translations, available across all products.
+      <description>Czech language support — Build stronger connections with Czech speaking customers and deliver a localized experience with Czech translations, available across all products.
 
 (Enhancement / Okendo Platform - November 2024)</description>
       <guid isPermaLink="false">d56246c0a99853032dbe300ccd0e79b8e9673cb5</guid>
@@ -335,7 +335,7 @@
     <item>
       <title>[Reviews] Highlight your top reviews</title>
       <link>https://support.okendo.io/en/articles/9781356-showing-featured-reviews-first-in-widget-plus#okd-6b261f01</link>
-      <description>Build trust, boost credibility, and drive confident purchases by curating top customer feedback with Featured Reviews.
+      <description>Highlight your top reviews — Build trust, boost credibility, and drive confident purchases by curating top customer feedback with Featured Reviews.
 
 (New feature / Reviews - October 2024)</description>
       <guid isPermaLink="false">6b261f01ee316568a25b6e1ba887262ed91c6369</guid>
@@ -344,7 +344,7 @@
     <item>
       <title>[Okendo Platform] Recharge integration</title>
       <link>https://support.okendo.io/en/articles/9720242-integrating-recharge-with-okendo#okd-1e2571dc</link>
-      <description>Seamlessly sync discount codes between Okendo and Recharge, so customers can redeem rewards on subscriptions directly in the Recharge customer portal.
+      <description>Recharge integration — Seamlessly sync discount codes between Okendo and Recharge, so customers can redeem rewards on subscriptions directly in the Recharge customer portal.
 
 (Integration / Okendo Platform - October 2024)</description>
       <guid isPermaLink="false">1e2571dc2cd3158bee1b29031cc8bbf5bcf92cbc</guid>
@@ -353,7 +353,7 @@
     <item>
       <title>[Reviews] Review translations</title>
       <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages#okd-446681fb</link>
-      <description>Maximize the impact of your social proof and build trust in international markets with on-demand translations.
+      <description>Review translations — Maximize the impact of your social proof and build trust in international markets with on-demand translations.
 
 (New feature / Reviews - September 2024)</description>
       <guid isPermaLink="false">446681fba4b0293a21d94df782500b95b9317706</guid>
@@ -362,7 +362,7 @@
     <item>
       <title>[Reporting] Loyalty insights page</title>
       <link>https://support.okendo.io/en/articles/9774498-okendo-loyalty-dashboard#okd-7a90abb3</link>
-      <description>Access new metrics and deeper insights that help you make quick changes and maximize results.
+      <description>Loyalty insights page — Access new metrics and deeper insights that help you make quick changes and maximize results.
 
 (New feature / Loyalty / Reporting - August 2024)</description>
       <guid isPermaLink="false">7a90abb3fc2a057a16ca4ef976de37ed413bcfc8</guid>
@@ -371,7 +371,7 @@
     <item>
       <title>[Surveys] Boost survey completion with progress tracking</title>
       <link>https://support.okendo.io/en/articles/9672615-add-a-progress-bar-to-a-survey#okd-9105c5e8</link>
-      <description>Add a progress bar to your surveys to boost completion rates and reduce drop-offs by helping respondents track their progress, especially in longer surveys.
+      <description>Boost survey completion with progress tracking — Add a progress bar to your surveys to boost completion rates and reduce drop-offs by helping respondents track their progress, especially in longer surveys.
 
 (Enhancement / Surveys - July 2024)</description>
       <guid isPermaLink="false">9105c5e8899c3823d080115a39edcd5c601bd5af</guid>
@@ -380,7 +380,7 @@
     <item>
       <title>[Reporting] Loyalty dashboard improvements for performance insights</title>
       <link>https://support.okendo.io/en/articles/9392488-performance-reporting-in-okendo-loyalty#okd-cfaae4e2</link>
-      <description>Review your loyalty program’s performance and ROI with new dashboards that provide summaries and detailed views of revenue impact, member behavior, points accumulation, and coupon usage.
+      <description>Loyalty dashboard improvements for performance insights — Review your loyalty program’s performance and ROI with new dashboards that provide summaries and detailed views of revenue impact, member behavior, points accumulation, and coupon usage.
 
 (Enhancement / Loyalty / Reporting - June 2024)</description>
       <guid isPermaLink="false">cfaae4e22b9e09a37cc8915e2439d88184ea7ca4</guid>
@@ -389,7 +389,7 @@
     <item>
       <title>[Reporting] Filter and view Quiz responses by conversions</title>
       <link>https://support.okendo.io/en/articles/8098595-viewing-quiz-results-and-performance#okd-839e79b3</link>
-      <description>You can now filter quiz responses by add-to-cart or purchase events in the Responses tab to validate attributed revenue, track conversion data, and gain insights into user behavior.
+      <description>Filter and view Quiz responses by conversions — You can now filter quiz responses by add-to-cart or purchase events in the Responses tab to validate attributed revenue, track conversion data, and gain insights into user behavior.
 
 (Quizzes / Reporting - June 2024)</description>
       <guid isPermaLink="false">839e79b3956b56c7f50628517d58611aa7bbaa73</guid>
@@ -398,7 +398,7 @@
     <item>
       <title>[Reviews] Triple Whale Integration</title>
       <link>https://kb.triplewhale.com/en/articles/9396354-okendo-integration#okd-d8142b94</link>
-      <description>Connect your Okendo Reviews data with Triple Whale analytics for deeper insights into how customer feedback influences marketing performance to help you make smarter, data-driven decisions.
+      <description>Triple Whale Integration — Connect your Okendo Reviews data with Triple Whale analytics for deeper insights into how customer feedback influences marketing performance to help you make smarter, data-driven decisions.
 
 (Integration / Reviews - May 2024)</description>
       <guid isPermaLink="false">d8142b94c680a4cc93007c6e0bb03a9dce96ff47</guid>
@@ -407,7 +407,7 @@
     <item>
       <title>[Surveys] Enhanced post-checkout surveys with Shopify extensions</title>
       <link>https://support.okendo.io/en/articles/9229312-using-post-checkout-surveys-with-checkout-extensibility#okd-d5126af2</link>
-      <description>Shopify Plus merchants can now prompt customers for insights using post-checkout surveys. These surveys can be integrated into Thank You pages using Checkout Extensibility and the Okendo Surveys app block.
+      <description>Enhanced post-checkout surveys with Shopify extensions — Shopify Plus merchants can now prompt customers for insights using post-checkout surveys. These surveys can be integrated into Thank You pages using Checkout Extensibility and the Okendo Surveys app block.
 
 (Integration / Surveys - April 2024)</description>
       <guid isPermaLink="false">d5126af29f11e27ad221281ddc162004c496a462</guid>
