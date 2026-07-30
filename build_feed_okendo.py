@@ -148,6 +148,19 @@ def month_base(month_str):
     return datetime(int(year), MONTHS[name.lower()], 1, 12, tzinfo=timezone.utc)
 
 
+def titled_body(entry):
+    """Description text that leads with the entry title. Readers that follow the
+    item link and adopt the linked article's title (RSS.app) would otherwise
+    show a generic headline, leaving the entry unidentifiable."""
+    body = entry.get("description") or ""
+    title = entry["title"]
+    if not body:
+        return title
+    if body.startswith(title):
+        return body
+    return f"{title} \u2014 {body}"
+
+
 def unique_link(href, guid):
     """Give every item a distinct URL. Okendo reuses support articles across
     entries, and readers that dedupe by URL would otherwise merge them."""
@@ -183,7 +196,8 @@ def build(entries):
         fe.link(href=unique_link(e["link"], guid))
         fe.guid(guid, permalink=False)
         tag = " / ".join(x for x in (e["rtype"], e["topic"]) if x)
-        desc = e["description"] + (f"\n\n({tag} - {e['month']})" if tag else "")
+        # Lead with the real title - see titled_body() for why.
+        desc = titled_body(e) + (f"\n\n({tag} - {e['month']})" if tag else "")
         fe.description(desc)
         # Seeding fallback: month start, staggered so page order is preserved.
         content_dt = month_base(e["month"]) - timedelta(minutes=i)
