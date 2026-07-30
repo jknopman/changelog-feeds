@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Klaviyo — What's New</title>
+    <title>Klaviyo - What's New</title>
     <link>https://www.klaviyo.com/whats-new</link>
     <description>Latest Klaviyo product updates and releases (unofficial feed).</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:54:03 +0000</lastBuildDate>
     <item>
       <title>Composer - Segment Generation</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure</link>
-      <description>Composer - Segment Generation
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure#klv-1973e512</link>
+      <description>Build segments faster with natural language prompts — describe your target audience in plain English and preview the draft segment before saving.
 
 (Published 2026-07-27)</description>
       <guid isPermaLink="false">1973e512ecc6ae914bb8fca6f833b62a65c41ba3</guid>
@@ -19,8 +19,8 @@
     </item>
     <item>
       <title>A/B testing with personalized send time</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time</link>
-      <description>A/B testing with personalized send time
+      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time#klv-036905d0</link>
+      <description>Use content A/B testing and personalized send time together in the same campaign to test different message content while still delivering at each recipient's optimal time.
 
 (Published 2026-07-27)</description>
       <guid isPermaLink="false">036905d0d696ac5fb715ab4b4c971c612fb6a0e4</guid>
@@ -28,8 +28,8 @@
     </item>
     <item>
       <title>Composer - AI Image Controls</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure</link>
-      <description>Composer - AI Image Controls
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure#klv-a4024151</link>
+      <description>Control how Composer uses AI with your images — toggle AI-generated images on or off and choose whether Composer can edit your existing brand assets.
 
 (Published 2026-07-21)</description>
       <guid isPermaLink="false">a4024151ad28339c6a232717d8e6e61b4d161416</guid>
@@ -37,8 +37,8 @@
     </item>
     <item>
       <title>A/B Testing in WhatsApp Flow</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-do-a-b-testing-in-whatsapp-flow</link>
-      <description>A/B Testing in WhatsApp Flow
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-do-a-b-testing-in-whatsapp-flow#klv-017f2c2f</link>
+      <description>Find your highest-performing WhatsApp message faster — add A/B tests directly inside any flow to compare content and auto-select the winner.
 
 (Published 2026-07-21)</description>
       <guid isPermaLink="false">017f2c2f7ad991f1ced9347509c9858e8a515bc1</guid>
@@ -46,8 +46,8 @@
     </item>
     <item>
       <title>Composer - Push Campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
-      <description>Composer - Push Campaigns
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-96dd1ee1</link>
+      <description>Create push notification content faster — use Composer to generate messages for your mobile push campaigns.
 
 (Published 2026-07-20)</description>
       <guid isPermaLink="false">96dd1ee11e83d84da3af1e1f3db6ba9278c270e7</guid>
@@ -55,8 +55,8 @@
     </item>
     <item>
       <title>Minute-level gradual sending for campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360050216012-Understanding-campaign-schedule-and-send-options</link>
-      <description>Minute-level gradual sending for campaigns
+      <link>https://help.klaviyo.com/hc/en-us/articles/360050216012-Understanding-campaign-schedule-and-send-options#klv-a7cc7f1d</link>
+      <description>Protect your site from traffic spikes and manage deliverability with finer control — schedule campaign batches as small as 1% per minute instead of hourly intervals.
 
 (Published 2026-07-16)</description>
       <guid isPermaLink="false">a7cc7f1d3b682c885de4c56655ac1415e02c858c</guid>
@@ -64,8 +64,8 @@
     </item>
     <item>
       <title>API release 2026-07-15</title>
-      <link>https://developers.klaviyo.com/en/docs/changelog_#revision-2026-07-15-ga</link>
-      <description>API release 2026-07-15
+      <link>https://developers.klaviyo.com/en/docs/changelog_#klv-a8d08b6f</link>
+      <description>Build deeper integrations and automate more of your Klaviyo setup — use new endpoints for custom objects, multi-channel conversations, Customer Agent, and more.
 
 (Published 2026-07-15)</description>
       <guid isPermaLink="false">a8d08b6f7b7c8b6aae872eb9a33f912f4f4cba97</guid>
@@ -73,8 +73,8 @@
     </item>
     <item>
       <title>Social content in marketing messages</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/use-social-content-in-campaigns-flows-and-forms</link>
-      <description>Social content in marketing messages
+      <link>https://help.klaviyo.com/hc/en-us/articles/use-social-content-in-campaigns-flows-and-forms#klv-0d3d6822</link>
+      <description>Embed your best Instagram posts directly into emails, SMS messages, and sign-up forms without leaving Klaviyo.
 
 (Published 2026-07-14)</description>
       <guid isPermaLink="false">0d3d6822ac4c0f9d63f81fa34f3837ddccbdfd33</guid>
@@ -82,8 +82,8 @@
     </item>
     <item>
       <title>Social Insights Agent - Proactive cards and Composer chat</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights</link>
-      <description>Social Insights Agent - Proactive cards and Composer chat
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights#klv-da0c91c0</link>
+      <description>Get AI-powered analysis of your Instagram UGC—top creators, emerging themes, and post performance—delivered as proactive insight cards or through Composer chat.
 
 (Published 2026-07-10)</description>
       <guid isPermaLink="false">da0c91c02d7201e949dc9922009e647471e928c5</guid>
@@ -91,8 +91,8 @@
     </item>
     <item>
       <title>Composer - Campaign brief</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
-      <description>Composer - Campaign brief
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-7d14a11a</link>
+      <description>Get faster, more accurate campaign drafts — use Campaign Brief to attach templates, images, coupons, and products before Composer generates your content.
 
 (Published 2026-07-08)</description>
       <guid isPermaLink="false">7d14a11ab2f1b673eb2a5adc495d017a1dc2ff3e</guid>
@@ -100,8 +100,8 @@
     </item>
     <item>
       <title>Manage Email Open Tracking</title>
-      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/46ac99bc-8f32-4a8f-99db-f309be02bb58/4ca2555f-7987-4727-ba14-56bef4983970</link>
-      <description>Manage Email Open Tracking
+      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/46ac99bc-8f32-4a8f-99db-f309be02bb58/4ca2555f-7987-4727-ba14-56bef4983970#klv-a19f7738</link>
+      <description>Meet data privacy requirements for email open tracking — set tracking consent at the account level or for specific recipients.
 
 (Published 2026-07-08)</description>
       <guid isPermaLink="false">a19f77381c21de9e178bf603c90f137740f56f6d</guid>
@@ -109,8 +109,8 @@
     </item>
     <item>
       <title>Composer - Subject line &amp; preview text intelligence</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
-      <description>Composer - Subject line &amp; preview text intelligence
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-a0f56d2f</link>
+      <description>Get subject lines and preview text informed by what's worked for your brand — use Composer to generate email copy based on your historic message performance.
 
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">a0f56d2fd3a5a338924d9cd69ad85c0b6ecf3664</guid>
@@ -118,8 +118,8 @@
     </item>
     <item>
       <title>Composer - Universal content support</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer</link>
-      <description>Composer - Universal content support
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fa5d6695</link>
+      <description>Keep your brand elements consistent across AI-generated emails — reference universal content blocks, headers, and footers directly in your Composer prompts.
 
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">fa5d66956e747520c47a0873bb9a41003ab17503</guid>
@@ -127,17 +127,26 @@
     </item>
     <item>
       <title>Composer - Addressing image sizing inconsistencies</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer</link>
-      <description>Composer - Addressing image sizing inconsistencies
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-665c2370</link>
+      <description>Get consistent image sizing across content blocks in AI-generated emails — use Composer to create polished grid layouts without manual resizing.
 
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">665c23704a3924f4775b69e97f816ed04af81b10</guid>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-6f0b58fe</link>
+      <description>Get an always-on marketing expert that analyzes your performance, audits your flows and campaigns, and drafts messages grounded in your real account data — use Composer to surface your next best move and act on it in minutes.
+
+(Published 2026-06-30)</description>
+      <guid isPermaLink="false">6f0b58fe5fad6726afc151f96ad1791e6e13665a</guid>
+      <pubDate>Thu, 30 Jul 2026 13:54:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Custom CSS for Klaviyo Sign-up Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-css-in-sign-up-forms</link>
-      <description>Custom CSS for Klaviyo Sign-up Forms
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-css-in-sign-up-forms#klv-c2fcf4f9</link>
+      <description>Match your sign-up forms exactly to your brand's look and feel — use custom CSS to control line height, letter spacing, element spacing, and right-to-left text directly in the forms editor.
 
 (Published 2026-06-29)</description>
       <guid isPermaLink="false">c2fcf4f99a0c8a1cbc0b0b71d3a612fe4dc75f69</guid>
@@ -145,8 +154,8 @@
     </item>
     <item>
       <title>Multi-Email Profiles</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/48274807144475-Multi-Email-Profiles</link>
-      <description>Multi-Email Profiles
+      <link>https://help.klaviyo.com/hc/en-us/articles/48274807144475-Multi-Email-Profiles#klv-e4fa8933</link>
+      <description>Get a single, unified view of each customer across up to five email addresses — Create cleaner profiles with independent consent tracking and smarter send routing.
 
 (Published 2026-06-29)</description>
       <guid isPermaLink="false">e4fa89331c708c5f0ec6ff00c3f55e2baa3f94ff</guid>
@@ -154,8 +163,8 @@
     </item>
     <item>
       <title>Embedded personalized content blocks</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/add-onsite-content-blocks-to-your-shopify-store</link>
-      <description>Embedded personalized content blocks
+      <link>https://help.klaviyo.com/hc/en-us/articles/add-onsite-content-blocks-to-your-shopify-store#klv-470e3097</link>
+      <description>Show personalized messaging, promotions, and CTAs directly on your Shopify storefront — create content blocks in Customer Hub, then drop them into your theme without touching code.
 
 (Published 2026-06-29)</description>
       <guid isPermaLink="false">470e309795993ac5df943492b0dbfb3795f10fef</guid>
@@ -163,8 +172,8 @@
     </item>
     <item>
       <title>Customer Agent, Public APIs</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-apis-beta</link>
-      <description>Customer Agent, Public APIs
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-apis-beta#klv-04f42015</link>
+      <description>Automate agent setup, pull conversation data, and embed Customer Agent into custom surfaces — use the new public REST API to configure, monitor, and run your agent programmatically.
 
 (Published 2026-06-26)</description>
       <guid isPermaLink="false">04f420159f918ac93829fbc19eaa69469742eea4</guid>
@@ -172,8 +181,8 @@
     </item>
     <item>
       <title>Customer Agent, Profile Context Tools</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools</link>
-      <description>Customer Agent, Profile Context Tools
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-593d4453</link>
+      <description>Ground agent responses in real shopper data — use built-in profile tools to read order history, segment membership, and predictive analytics during any conversation.
 
 (Published 2026-06-26)</description>
       <guid isPermaLink="false">593d4453b041beea67133a798623c04d7278b889</guid>
@@ -181,8 +190,8 @@
     </item>
     <item>
       <title>Instagram 1-to-Many</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/connect-instagram-to-klaviyo</link>
-      <description>Instagram 1-to-Many
+      <link>https://help.klaviyo.com/hc/en-us/articles/connect-instagram-to-klaviyo#klv-a83eb1d1</link>
+      <description>Run multiple regional Klaviyo accounts from a single global Instagram — connect one Instagram to all your Klaviyo accounts with Social Marketing.
 
 (Published 2026-06-26)</description>
       <guid isPermaLink="false">a83eb1d12a997ab9f1adfd2f243fe345a2a6d7df</guid>
@@ -190,8 +199,8 @@
     </item>
     <item>
       <title>Customer Agent, Profile Enrichment</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools</link>
-      <description>Customer Agent, Profile Enrichment
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-97c343c2</link>
+      <description>Turn support conversations into first-party data — use Profile Enrichment to capture shopper preferences and intent as profile properties in real time.
 
 (Published 2026-06-24)</description>
       <guid isPermaLink="false">97c343c256df1ab64639c4c1aa41bd11ea3022b8</guid>
@@ -199,8 +208,8 @@
     </item>
     <item>
       <title>Figma Plugin</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma</link>
-      <description>Figma Plugin
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma#klv-bb7f3393</link>
+      <description>Move design assets to your media library without leaving Figma — export single or multiple items, name them on the fly, and switch between connected Klaviyo accounts.
 
 (Published 2026-06-24)</description>
       <guid isPermaLink="false">bb7f3393e2b8da1508a10235540677c4039d14ab</guid>
@@ -208,8 +217,8 @@
     </item>
     <item>
       <title>Cart in Customer Hub</title>
-      <link>https://help-center.preview.amplify-platform.klaviyo.com/hc/en-us/articles/how-to-add-cart-to-customer-hub</link>
-      <description>Cart in Customer Hub
+      <link>https://help-center.preview.amplify-platform.klaviyo.com/hc/en-us/articles/how-to-add-cart-to-customer-hub#klv-e02d82eb</link>
+      <description>Give shoppers a seamless mini-cart experience with personalized product recommendations — enable Cart in Customer Hub to surface upsells and increase average order value.
 
 (Published 2026-06-23)</description>
       <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
@@ -217,8 +226,8 @@
     </item>
     <item>
       <title>Flow Analytics Dashboard</title>
-      <link>https://www.klaviyo.com/whats-new#all-updates</link>
-      <description>Flow Analytics Dashboard
+      <link>https://www.klaviyo.com/whats-new#klv-5d0773fd</link>
+      <description>Compare flow performance across channels and time periods — use the new Flow Analytics dashboard to track revenue, conversions, and deliveries with period-over-period insights.
 
 (Published 2026-06-22)</description>
       <guid isPermaLink="false">5d0773fdde92f029b60476ff0b5d395226f523e5</guid>
@@ -226,8 +235,8 @@
     </item>
     <item>
       <title>Event Property Filters for In-App Form Triggers</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form</link>
-      <description>Event Property Filters for In-App Form Triggers
+      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form#klv-500df2de</link>
+      <description>Show in-app forms only when event properties match specific values — add an event property filter to your display triggers for more precise, contextual targeting.
 
 (Published 2026-06-18)</description>
       <guid isPermaLink="false">500df2de514f82d8222019f0ebd925126ec89e32</guid>
@@ -235,8 +244,8 @@
     </item>
     <item>
       <title>Onsite Tracking for Olo via Google Tag Manager</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/track-onsite-events-from-olo-with-google-tag-manager</link>
-      <description>Onsite Tracking for Olo via Google Tag Manager
+      <link>https://help.klaviyo.com/hc/en-us/articles/track-onsite-events-from-olo-with-google-tag-manager#klv-29da72d6</link>
+      <description>Track browse, cart, and checkout behavior from Olo Serve ordering sites — add the Klaviyo tag in Google Tag Manager to capture guest activity and trigger abandonment flows.
 
 (Published 2026-06-18)</description>
       <guid isPermaLink="false">29da72d67a82bc9233cb125e8dc3f3413b0e5619</guid>
@@ -244,8 +253,8 @@
     </item>
     <item>
       <title>Klaviyo extension for Shopify Sidekick</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-the-klaviyo-extension-for-sidekick-in-shopify</link>
-      <description>Klaviyo extension for Shopify Sidekick
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-the-klaviyo-extension-for-sidekick-in-shopify#klv-66f7d714</link>
+      <description>Get answers about your Klaviyo marketing performance without leaving Shopify — ask Sidekick about campaigns, flows, and segments, then deep-link back to Klaviyo to act.
 
 (Published 2026-06-17)</description>
       <guid isPermaLink="false">66f7d714cf23e8a5896691330cc19ef8783e215d</guid>
@@ -253,8 +262,8 @@
     </item>
     <item>
       <title>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/39406875083035-Cloudbeds-data-reference</link>
-      <description>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates
+      <link>https://help.klaviyo.com/hc/en-us/articles/39406875083035-Cloudbeds-data-reference#klv-a0772ba8</link>
+      <description>Reach guests who book through OTAs and keep reservation data accurate as changes happen — use real-time reservation sync to trigger check-in, mid-stay, and post-stay flows on the right dates.
 
 (Published 2026-06-16)</description>
       <guid isPermaLink="false">a0772ba891038e7b9112d80bd89162b844fbba66</guid>
@@ -262,8 +271,8 @@
     </item>
     <item>
       <title>Product Feeds in Text: Dynamic Product Recommendations in SMS</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115005082787-How-to-use-product-feeds-and-recommendations</link>
-      <description>Product Feeds in Text: Dynamic Product Recommendations in SMS
+      <link>https://help.klaviyo.com/hc/en-us/articles/115005082787-How-to-use-product-feeds-and-recommendations#klv-2c2152a8</link>
+      <description>Send personalized product recommendations via SMS using real-time catalog and customer data.
 
 (Published 2026-06-15)</description>
       <guid isPermaLink="false">2c2152a86239cf9eddfee379711100f679b6dd49</guid>
@@ -271,8 +280,8 @@
     </item>
     <item>
       <title>Magento 2 WhatsApp consent collection</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360058698511-How-to-collect-SMS-consent-at-checkout-on-Magento-2</link>
-      <description>Magento 2 WhatsApp consent collection
+      <link>https://help.klaviyo.com/hc/en-us/articles/360058698511-How-to-collect-SMS-consent-at-checkout-on-Magento-2#klv-57a173b8</link>
+      <description>Capture WhatsApp opt-ins at checkout when shoppers are most likely to subscribe — enable WhatsApp consent alongside SMS in your Magento 2 integration settings. [Learn more](https://help.klaviyo.com/hc/en-us/articles/360058698511)
 
 (Published 2026-06-12)</description>
       <guid isPermaLink="false">57a173b88c2134cb2dfceb5eda355362073e401d</guid>
@@ -280,8 +289,8 @@
     </item>
     <item>
       <title>WhatsApp Sending Numbers from Klaviyo</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40116005412507-How-to-get-a-phone-number-for-WhatsApp</link>
-      <description>WhatsApp Sending Numbers from Klaviyo
+      <link>https://help.klaviyo.com/hc/en-us/articles/40116005412507-How-to-get-a-phone-number-for-WhatsApp#klv-d0b94c77</link>
+      <description>Skip the hassle of buying a WhatsApp number from a third-party provider — get one directly in Klaviyo and start sending faster.
 
 (Published 2026-06-09)</description>
       <guid isPermaLink="false">d0b94c779eaf7b0f7435538fba3dc7926d97fb30</guid>
@@ -289,8 +298,8 @@
     </item>
     <item>
       <title>Push Action Buttons</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-action-buttons-to-a-push-notification</link>
-      <description>Push Action Buttons
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-action-buttons-to-a-push-notification#klv-8275d37a</link>
+      <description>Shorten the path from notification to conversion — add up to 3 action buttons that open your app or deep link to a specific screen.
 
 (Published 2026-06-05)</description>
       <guid isPermaLink="false">8275d37a94b7ca9791d07bcfe9d0888e34666a02</guid>
@@ -298,8 +307,8 @@
     </item>
     <item>
       <title>API Key Disablement</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/managing-your-api-keys-disabling-and-re-enabling</link>
-      <description>API Key Disablement
+      <link>https://help.klaviyo.com/hc/en-us/articles/managing-your-api-keys-disabling-and-re-enabling#klv-10a01523</link>
+      <description>Respond to suspected credential exposure in seconds without deleting your keys — disable and re-enable API keys directly from settings.
 
 (Published 2026-06-05)</description>
       <guid isPermaLink="false">10a0152359b69213905caf189c6515f5b83160bb</guid>
@@ -307,8 +316,8 @@
     </item>
     <item>
       <title>Customer Agent Multilingual</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent</link>
-      <description>Customer Agent Multilingual
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-a4c9f240</link>
+      <description>Serve any shopper in their native language without duplicating your agent setup — configure once and let Customer Agent respond automatically in whatever language customers write.
 
 (Published 2026-06-04)</description>
       <guid isPermaLink="false">a4c9f2401a74478eaca1e368f3d9e74d0ce35bf7</guid>
@@ -316,8 +325,8 @@
     </item>
     <item>
       <title>Simplified Language Management</title>
-      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/3fd18bd7-7620-4501-9b1e-1556299623bb/c24ae94b-27e5-4939-963d-3abce64bc49f</link>
-      <description>Simplified Language Management
+      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/3fd18bd7-7620-4501-9b1e-1556299623bb/c24ae94b-27e5-4939-963d-3abce64bc49f#klv-26eae118</link>
+      <description>Update multiple language settings at once instead of one by one — add or remove locales in bulk from the Smart Translations modal.
 
 (Published 2026-06-04)</description>
       <guid isPermaLink="false">26eae118933dbf6c0caf04ff04ac34080e4fc7b5</guid>
@@ -325,8 +334,8 @@
     </item>
     <item>
       <title>WhatsApp consent on WooCommerce checkout</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360057745791-How-to-collect-SMS-consent-at-checkout-on-WooCommerce</link>
-      <description>WhatsApp consent on WooCommerce checkout
+      <link>https://help.klaviyo.com/hc/en-us/articles/360057745791-How-to-collect-SMS-consent-at-checkout-on-WooCommerce#klv-3699a55a</link>
+      <description>Capture WhatsApp subscribers at checkout when purchase intent is highest — enable WhatsApp consent collection in your WooCommerce integration settings.
 
 (Published 2026-06-02)</description>
       <guid isPermaLink="false">3699a55a1af68445239fa35ce8efdbfd983b0ce8</guid>
@@ -334,8 +343,8 @@
     </item>
     <item>
       <title>Reporting Dashboards for Hospitality</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-hotel-business-review-dashboard</link>
-      <description>Reporting Dashboards for Hospitality
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-hotel-business-review-dashboard#klv-56ba8b56</link>
+      <description>See guest, reservation, and loyalty metrics in one place without building custom reports — view pre-built dashboards that appear automatically based on your restaurant or hotel integrations.
 
 (Published 2026-06-02)</description>
       <guid isPermaLink="false">56ba8b56f34c594fe070afbe9dfb9a272fd9ea30</guid>
@@ -343,8 +352,8 @@
     </item>
     <item>
       <title>Smart Translations - Import Glossary settings</title>
-      <link>https://www.klaviyo.com/whats-new#all-updates</link>
-      <description>Smart Translations - Import Glossary settings
+      <link>https://www.klaviyo.com/whats-new#klv-bde2cb2c</link>
+      <description>Manage translation terminology at scale — import hundreds of glossary terms via CSV instead of adding them one by one.
 
 (Published 2026-06-01)</description>
       <guid isPermaLink="false">bde2cb2c5448f43c5c33b9efaa6fb585a216fc0e</guid>
@@ -352,8 +361,8 @@
     </item>
     <item>
       <title>DND create and update email template tools in MCP</title>
-      <link>https://developers.klaviyo.com/en/docs/klaviyo_mcp_server#available-tools</link>
-      <description>DND create and update email template tools in MCP
+      <link>https://developers.klaviyo.com/en/docs/klaviyo_mcp_server#klv-221bf424</link>
+      <description>Design email templates with AI tools like Claude or ChatGPT and land on clean, editable drag-and-drop templates in Klaviyo — use the new MCP Server tools to skip the HTML handoff.
 
 (Published 2026-05-29)</description>
       <guid isPermaLink="false">221bf424a727371fb58150bab2193a37b6d220e1</guid>
@@ -361,8 +370,8 @@
     </item>
     <item>
       <title>Transactional and Service Branded Sending Domains</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115000357752-How-to-set-up-a-branded-sending-domain</link>
-      <description>Transactional and Service Branded Sending Domains
+      <link>https://help.klaviyo.com/hc/en-us/articles/115000357752-How-to-set-up-a-branded-sending-domain#klv-610f4c00</link>
+      <description>Protect your transactional and service email reputation from marketing volume fluctuations — set up separate branded sending domains for each send type.
 
 (Published 2026-05-28)</description>
       <guid isPermaLink="false">610f4c00a0dcdc8b3f68dcbe25e32a2b1ab9b12c</guid>
@@ -370,8 +379,8 @@
     </item>
     <item>
       <title>Self-Serve Dedicated Click Tracking</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360001550572-How-to-set-up-dedicated-click-tracking</link>
-      <description>Self-Serve Dedicated Click Tracking
+      <link>https://help.klaviyo.com/hc/en-us/articles/360001550572-How-to-set-up-dedicated-click-tracking#klv-74ee6b72</link>
+      <description>Strengthen brand trust and email deliverability with cleaner link URLs — set up a dedicated click-tracking domain directly in account settings.
 
 (Published 2026-05-28)</description>
       <guid isPermaLink="false">74ee6b726066fd9b2165ed4ab1d4c993510f3b58</guid>
@@ -379,8 +388,8 @@
     </item>
     <item>
       <title>Mobile Channel Automation Improvements</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40116727375771-How-to-create-a-WhatsApp-automation</link>
-      <description>Mobile Channel Automation Improvements
+      <link>https://help.klaviyo.com/hc/en-us/articles/40116727375771-How-to-create-a-WhatsApp-automation#klv-8a988a21</link>
+      <description>Collect richer zero-party data and merge phone-only profiles with existing email profiles — use new question types, longer messages, rich formatting, and video support in WhatsApp and SMS automations.
 
 (Published 2026-05-28)</description>
       <guid isPermaLink="false">8a988a211065b27ffeb2f6113e1eff060d1ba1cb</guid>
@@ -388,8 +397,8 @@
     </item>
     <item>
       <title>Punchh Offer Management + Reward Object</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-and-distribute-punchh-offers-via-klaviyo</link>
-      <description>Punchh Offer Management + Reward Object
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-and-distribute-punchh-offers-via-klaviyo#klv-f9b66997</link>
+      <description>Drive loyalty engagement with real-time reward data and automated offer distribution — sync Punchh rewards to profiles and trigger countdown flows based on expiration dates.
 
 (Published 2026-05-20)</description>
       <guid isPermaLink="false">f9b66997a9d544e756ee2985aab1a72cb3bab9f8</guid>
@@ -397,8 +406,8 @@
     </item>
     <item>
       <title>Mobile Push A/B testing in Flows (GA)</title>
-      <link>https://www.klaviyo.com/whats-new#all-updates</link>
-      <description>Mobile Push A/B testing in Flows (GA)
+      <link>https://www.klaviyo.com/whats-new#klv-b0e874db</link>
+      <description>Optimize push notification performance — create A/B tests in Flow Builder to compare titles, body copy, and push behavior, then pick winners based on engagement rate.
 
 (Published 2026-05-15)</description>
       <guid isPermaLink="false">b0e874db5a49400d66b4bae8bad3957acd805a69</guid>
@@ -406,8 +415,8 @@
     </item>
     <item>
       <title>URL Targeted Content Blocks</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub</link>
-      <description>URL Targeted Content Blocks
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-0340a846</link>
+      <description>Show the right onsite content on the right pages — Target Customer Hub content blocks by URL rules to create more relevant shopping experiences and reduce misplaced messaging.
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">0340a8467239b3dee6ea17cb25e36ac85fcc1e55</guid>
@@ -415,8 +424,8 @@
     </item>
     <item>
       <title>Prepared Order Event - Toast Integration</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/24302613403931-Toast-data-reference</link>
-      <description>Prepared Order Event - Toast Integration
+      <link>https://help.klaviyo.com/hc/en-us/articles/24302613403931-Toast-data-reference#klv-74d5907e</link>
+      <description>Send timely food-ready updates that drive more orders — Use Toast’s new Prepared Order event to notify guests when orders are ready and promote relevant add-ons.
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">74d5907e2ae7530b0f4d21ace34f3b914c0e7ac9</guid>
@@ -424,8 +433,8 @@
     </item>
     <item>
       <title>Personalized Content Blocks with Profile Picker</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub</link>
-      <description>Personalized Content Blocks with Profile Picker
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-93b8f626</link>
+      <description>Personalize onsite content more easily — Use the profile picker in Customer Hub to quickly add profile properties to content blocks without manual setup.
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">93b8f6261d6ca91cc888a612ea05555fcbcc41cc</guid>
@@ -433,8 +442,8 @@
     </item>
     <item>
       <title>Integrations Schema for Customer Hub</title>
-      <link>https://www.klaviyo.com/whats-new#all-updates</link>
-      <description>Integrations Schema for Customer Hub
+      <link>https://www.klaviyo.com/whats-new#klv-264c9731</link>
+      <description>Expand Customer Hub integrations without custom builds — Surface approved partner events for WISMO, returns, loyalty, and subscriptions so more onsite experiences work with the tools already in your stack.
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">264c9731805c40ab209e27e5e5ebabc997cfb590</guid>
@@ -442,8 +451,8 @@
     </item>
     <item>
       <title>Multi-Message Onsite Banners</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/47987855301659-How-to-Create-a-Personalized-Onsite-Banner</link>
-      <description>Multi-Message Onsite Banners
+      <link>https://help.klaviyo.com/hc/en-us/articles/47987855301659-How-to-Create-a-Personalized-Onsite-Banner#klv-5c414380</link>
+      <description>Create more engaging onsite experiences — Show multi-scroll personalized banners with deeper targeting to surface more relevant messages to each shopper.
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">5c4143800440a3d2e9cea3955a5fc14f62da46a7</guid>
@@ -451,8 +460,8 @@
     </item>
     <item>
       <title>In-App Forms Mobile SDK Hooks</title>
-      <link>https://developers.klaviyo.com/en/docs/sdk_overview#mobile-sdks</link>
-      <description>In-App Forms Mobile SDK Hooks
+      <link>https://developers.klaviyo.com/en/docs/sdk_overview#klv-4b973a6b</link>
+      <description>Build more flexible in-app experiences for developers — Use native SDK hooks to track when forms are shown, dismissed, or clicked and trigger custom app actions.
 
 (Published 2026-05-07)</description>
       <guid isPermaLink="false">4b973a6bc3e2e04d5375f302ee56c727e5052ba5</guid>
@@ -460,8 +469,8 @@
     </item>
     <item>
       <title>Flyout Forms In-App</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms</link>
-      <description>Flyout Forms In-App
+      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms#klv-ae781d9b</link>
+      <description>Create less disruptive in-app experiences — Use flyout forms to slide messages into mobile apps while keeping the rest of the screen usable.
 
 (Published 2026-05-07)</description>
       <guid isPermaLink="false">ae781d9b79fe9d22d1b3e986e78ffbb4bef5f493</guid>
@@ -469,8 +478,8 @@
     </item>
     <item>
       <title>iOS Background Processing / Content Available</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings</link>
-      <description>iOS Background Processing / Content Available
+      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings#klv-01d4156a</link>
+      <description>Power more custom iOS app experiences — Enable background processing for standard push notifications so your app can refresh data or run tasks when a notification is delivered.
 
 (Published 2026-05-06)</description>
       <guid isPermaLink="false">01d4156a1b6b8c32addea97207fbfeb841172dee</guid>
@@ -478,8 +487,8 @@
     </item>
     <item>
       <title>Automatic UTM Parameters For Deep Links</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360053921252-How-to-add-UTM-tracking-to-campaigns-and-flows</link>
-      <description>Automatic UTM Parameters For Deep Links
+      <link>https://help.klaviyo.com/hc/en-us/articles/360053921252-How-to-add-UTM-tracking-to-campaigns-and-flows#klv-57be6300</link>
+      <description>Track push performance more reliably — Automatically add UTM parameters to deep links in new push campaigns and flow messages to reduce errors and improve reporting.
 
 (Published 2026-05-06)</description>
       <guid isPermaLink="false">57be63004431cb018c4d200adf8c05dfb19094a6</guid>
@@ -487,8 +496,8 @@
     </item>
     <item>
       <title>Shopify Coupon Combinations</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115006155388-How-to-create-unique-coupon-codes-for-Shopify</link>
-      <description>Shopify Coupon Combinations
+      <link>https://help.klaviyo.com/hc/en-us/articles/115006155388-How-to-create-unique-coupon-codes-for-Shopify#klv-81944291</link>
+      <description>Build more personalized Shopify promotions — Allow Klaviyo-generated coupons to stack with other discounts at checkout for more flexible, tailored offers.
 
 (Published 2026-05-06)</description>
       <guid isPermaLink="false">81944291772ee710770523348b749ddaa6f65662</guid>
@@ -496,8 +505,8 @@
     </item>
     <item>
       <title>Geofencing Enhancements</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45194892526747-Getting-started-with-geofences</link>
-      <description>Geofencing Enhancements
+      <link>https://help.klaviyo.com/hc/en-us/articles/45194892526747-Getting-started-with-geofences#klv-76243c31</link>
+      <description>Scale location-based messaging with less setup — Import, pause, and manage up to 5,000 geofences to speed onboarding and support more retail locations.
 
 (Published 2026-05-01)</description>
       <guid isPermaLink="false">76243c31cf35da9ee94619b47fd881533fcb1d65</guid>
@@ -505,8 +514,8 @@
     </item>
     <item>
       <title>Data Warehouse Import: Record-level Error Reporting</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45442043369499-Understanding-data-warehouse-event-import-in-Klaviyo</link>
-      <description>Data Warehouse Import: Record-level Error Reporting
+      <link>https://help.klaviyo.com/hc/en-us/articles/45442043369499-Understanding-data-warehouse-event-import-in-Klaviyo#klv-e5457902</link>
+      <description>Troubleshoot warehouse sync errors faster — Download row-level error reports and view clearer run statuses to fix data quality issues without extra back-and-forth.
 
 (Published 2026-05-01)</description>
       <guid isPermaLink="false">e5457902675a72c146a07454f67b637758a633c4</guid>
@@ -514,8 +523,8 @@
     </item>
     <item>
       <title>Data Warehouse Import: Connection and Command-level Error Visibility</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40939206649627-Understanding-data-warehouse-import-in-Klaviyo</link>
-      <description>Data Warehouse Import: Connection and Command-level Error Visibility
+      <link>https://help.klaviyo.com/hc/en-us/articles/40939206649627-Understanding-data-warehouse-import-in-Klaviyo#klv-44e9021b</link>
+      <description>Diagnose warehouse sync issues without support — View in-product logs and run-level errors to identify permissions, schema, firewall, timeout, or data quality problems faster.
 
 (Published 2026-05-01)</description>
       <guid isPermaLink="false">44e9021b7b91b6cab0b9b0e2fe88cd90969edb02</guid>
@@ -523,8 +532,8 @@
     </item>
     <item>
       <title>Channel Affinity for WhatsApp</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo</link>
-      <description>Channel Affinity for WhatsApp
+      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo#klv-c34d9f59</link>
+      <description>Reach every shopper on their preferred channel — Include WhatsApp in Channel Affinity to automatically optimize message delivery across email, SMS, push, and WhatsApp.
 
 (Published 2026-04-30)</description>
       <guid isPermaLink="false">c34d9f592becab93f3b4a16d2de4a33cd2a49c02</guid>
@@ -532,20 +541,11 @@
     </item>
     <item>
       <title>Category Analysis Dashboard</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard</link>
-      <description>Category Analysis Dashboard
+      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard#klv-230efa7d</link>
+      <description>Make smarter merchandising decisions faster — Analyze category-level revenue, orders, and engagement trends to spot opportunities without manually aggregating product data.
 
 (Published 2026-04-29)</description>
       <guid isPermaLink="false">230efa7def11102be129777d993f6a4ef0d11863</guid>
-      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Folders For Email Templates</title>
-      <link>https://www.klaviyo.com/whats-new#all-updates</link>
-      <description>Folders For Email Templates
-
-(Published 2026-04-29)</description>
-      <guid isPermaLink="false">530a2d8f34b9499a7b1bce560e5f1f9a763f7979</guid>
       <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
