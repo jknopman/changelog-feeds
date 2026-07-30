@@ -99,6 +99,18 @@ def unique_link(href, guid):
     return f"{base}#klv-{guid[:8]}"
 
 
+def titled_body(entry):
+    """Description text that leads with the entry title, without doubling it up
+    when the description is missing or already starts with the title."""
+    body = entry.get("description") or ""
+    title = entry["title"]
+    if not body:
+        return title
+    if body.startswith(title):
+        return body
+    return f"{title} \u2014 {body}"
+
+
 def build(entries):
     fg = FeedGenerator()
     fg.title(FEED_TITLE)
@@ -120,9 +132,12 @@ def build(entries):
         fe.title(e["title"])
         fe.link(href=unique_link(e["link"], guid))
         fe.guid(guid, permalink=False)
+        # Lead the description with the real title. Some readers (RSS.app)
+        # overwrite <title> with the title of the linked help-centre article,
+        # which collapses several entries to a generic name like "Composer";
+        # repeating it here keeps each item identifiable regardless.
         # Keep Klaviyo's own date visible, since pubDate no longer carries it.
-        desc = e["description"] or e["title"]
-        fe.description(f'{desc}\n\n(Published {e["date"]})')
+        fe.description(f'{titled_body(e)}\n\n(Published {e["date"]})')
 
         content_dt = datetime.strptime(e["date"], "%Y-%m-%d").replace(
             hour=12, tzinfo=timezone.utc)
