@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:08:31 +0000</lastBuildDate>
+    <item>
+      <title>[Reviews] Advancements to translation capabilities</title>
+      <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages#okd-9f692797</link>
+      <description>Advancements to translation capabilities — Increase translation support in the reviews widget and recorder. Ability to translate attribute labels, values, and filters, and review replies.
+
+(Enhancement / Reviews - August 2026)</description>
+      <guid isPermaLink="false">9f692797364aa6682749f8ee97e06fd4dc0ab01e</guid>
+      <pubDate>Mon, 03 Aug 2026 17:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Filter reviews by clicking on the star rating in the widget header</title>
+      <link>https://support.okendo.io/en/articles/5950346-configuring-the-reviews-aggregate-section-of-your-reviews-widget#okd-863bd235</link>
+      <description>Filter reviews by clicking on the star rating in the widget header — The star rating distribution in the reviews widget header is now clickable, shoppers can tap any star rating to instantly filter the review list to just that rating.
+
+(Enhancement / Reviews - July 2026)</description>
+      <guid isPermaLink="false">863bd2353f8e57d3e1ef4efd783d515fd73233d6</guid>
+      <pubDate>Mon, 03 Aug 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Collect site reviews in customer account extensions</title>
+      <link>https://support.okendo.io/en/articles/13758573-turn-your-customer-account-pages-into-a-review-channel#okd-fa9ede95</link>
+      <description>Collect site reviews in customer account extensions — Let customers rate their overall experience with your brand, covering things like customer service, delivery, and their shopping experience now directly in their Shopify customer account.
+
+(Enhancement / Reviews - July 2026)</description>
+      <guid isPermaLink="false">fa9ede95c08955aa8c4c6348932dc63bf91fac58</guid>
+      <pubDate>Mon, 03 Aug 2026 17:08:29 +0000</pubDate>
+    </item>
     <item>
       <title>[Reviews] Set attributes as optional</title>
       <link>https://support.okendo.io/en/articles/1737436-getting-started-with-attributes#okd-f0d7a3a6</link>
