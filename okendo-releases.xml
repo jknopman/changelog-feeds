@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 20:26:49 +0000</lastBuildDate>
     <item>
       <title>[Reviews] Advancements to translation capabilities</title>
       <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages#okd-9f692797</link>
@@ -16,6 +16,15 @@
 (Enhancement / Reviews - August 2026)</description>
       <guid isPermaLink="false">9f692797364aa6682749f8ee97e06fd4dc0ab01e</guid>
       <pubDate>Mon, 03 Aug 2026 17:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Surveys] Additional data included in Shopify Flow triggers</title>
+      <link>https://support.okendo.io/en/articles/13830881-using-okendo-quizzes-with-shopify-flow#okd-4d64c3d0</link>
+      <description>Additional data included in Shopify Flow triggers — ‘Survey Response Created’ and ‘Quiz Response Created’ flow triggers now include the raw question and answer data, and ‘Quiz Response Created’ flow triggers now includes the product recommendation data.
+
+(Enhancement / Quizzes / Surveys - July 2026)</description>
+      <guid isPermaLink="false">4d64c3d0c752ae9cbcd7d029081b218363efefb2</guid>
+      <pubDate>Mon, 03 Aug 2026 20:26:49 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Filter reviews by clicking on the star rating in the widget header</title>
