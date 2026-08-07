@@ -7,15 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:40:15 +0000</lastBuildDate>
     <item>
-      <title>[Reviews] Analyse your structured review data at scale with Signals</title>
-      <link>https://support.okendo.io/en/articles/15387115-get-deeper-insight-into-what-your-customers-think-with-signals#okd-8db5140a</link>
-      <description>Analyse your structured review data at scale with Signals — A new reporting module for product attributes, including a Trend tab for tracking performance over time and a Spotlight tab for product and group deep-dives. Allowing you to make smarter product and marketing decisions, faster.
+      <title>[Reviews] Track review performance by more channels</title>
+      <link>https://support.okendo.io/en/articles/5672351-analyze-review-collection-performance-in-the-capture-tab#okd-086b24f8</link>
+      <description>Track review performance by more channels — See how performance changes across two new channels in the Capture tab in Reviews Performance Reporting, Integrations and Shopify Account Extensions.
+
+(Enhancement / Reporting / Reviews - August 2026)</description>
+      <guid isPermaLink="false">086b24f8de01b3fd13b7e050658602e6f9f9a8a2</guid>
+      <pubDate>Fri, 07 Aug 2026 00:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Reviews] Turn review attributes into actionable insights</title>
+      <link>https://support.okendo.io/en/articles/15387115-get-deeper-insight-into-what-your-customers-think-with-signals#okd-b64db3ad</link>
+      <description>Turn review attributes into actionable insights — A new reporting module for product attributes, including a Trend tab for tracking performance over time and a Spotlight tab for product and group deep-dives. Allowing you to make smarter product and marketing decisions, faster.
 
 (General availability (GA) / Reviews - August 2026)</description>
-      <guid isPermaLink="false">8db5140ab35c0851a8d70eea319d56a401381714</guid>
-      <pubDate>Thu, 06 Aug 2026 12:55:57 +0000</pubDate>
+      <guid isPermaLink="false">b64db3adae390514575d4c5ef4ca1ca24e7ac912</guid>
+      <pubDate>Fri, 07 Aug 2026 00:40:14 +0000</pubDate>
     </item>
     <item>
       <title>[Reviews] Advancements to translation capabilities</title>
