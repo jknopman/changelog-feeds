@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:59:50 +0000</lastBuildDate>
+    <item>
+      <title>Billing Analytics Dashboard</title>
+      <link>https://www.klaviyo.com/whats-new#klv-b0072a08</link>
+      <description>Billing Analytics Dashboard — See exactly how each account contributes to your total spend — view per-account breakdowns, historical trends, and detailed invoices in Settings → Billing.
+
+(Published 2026-08-11)</description>
+      <guid isPermaLink="false">b0072a0888bc843ba20ced7684f1c82334626971</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Analytics Agent Updates</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-0238d02f</link>
+      <description>Composer - Analytics Agent Updates — The analytics agent now supports up to 365 days of data, account currency, and audience analysis via natural language.
+
+(Published 2026-08-11)</description>
+      <guid isPermaLink="false">0238d02f71f57381c3989b472c2104ea7672e7c4</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaviyo MCP Server - New Tools</title>
+      <link>https://www.klaviyo.com/whats-new#klv-ab79931d</link>
+      <description>Klaviyo MCP Server - New Tools — Give AI agents and developers full programmatic control of your Klaviyo account — use 260+ new MCP tools to read data, build segments, run campaigns, author flows, and manage catalogs from Claude, OpenAI, or your custom agent.
+
+(Published 2026-08-11)</description>
+      <guid isPermaLink="false">ab79931d3920337fe2929e6a4b158cf8b810d530</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Clarifying Questions in Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-0c5b78ef</link>
+      <description>Composer - Clarifying Questions in Campaigns — Get higher-quality campaigns from Composer — it now asks follow-up questions when your prompt needs more detail.
+
+(Published 2026-08-11)</description>
+      <guid isPermaLink="false">0c5b78ef819631d8de17085505cfb3fabfcd2c39</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync Locale to Shopify</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360030919351-How-to-sync-data-from-Klaviyo-to-Shopify#klv-73168d25</link>
+      <description>Sync Locale to Shopify — Deliver consistent localized experiences across your storefront, marketing, and service — sync profile locale data from Klaviyo to Shopify in your integration settings.
+
+(Published 2026-08-05)</description>
+      <guid isPermaLink="false">73168d250e923ad2dc8a0be284c420928fca3cb8</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer - Flow Analyst Best Practices</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/what-composer-can-analyze-and-create#klv-9fc304f5</link>
+      <description>Composer - Flow Analyst Best Practices — Get flow recommendations based on what actually works across 196,000 brands — use Flows Analyst to audit your welcome, browse abandonment, cart abandonment, and winback flows against top-performing benchmarks.
+
+(Published 2026-08-04)</description>
+      <guid isPermaLink="false">9fc304f5abd704daddc776cd6973c8d96b0daf71</guid>
+      <pubDate>Tue, 11 Aug 2026 19:59:45 +0000</pubDate>
+    </item>
     <item>
       <title>Composer - Segment Generation</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure#klv-1973e512</link>
@@ -493,60 +547,6 @@
 (Published 2026-05-06)</description>
       <guid isPermaLink="false">57be63004431cb018c4d200adf8c05dfb19094a6</guid>
       <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shopify Coupon Combinations</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115006155388-How-to-create-unique-coupon-codes-for-Shopify#klv-81944291</link>
-      <description>Shopify Coupon Combinations — Build more personalized Shopify promotions — Allow Klaviyo-generated coupons to stack with other discounts at checkout for more flexible, tailored offers.
-
-(Published 2026-05-06)</description>
-      <guid isPermaLink="false">81944291772ee710770523348b749ddaa6f65662</guid>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geofencing Enhancements</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45194892526747-Getting-started-with-geofences#klv-76243c31</link>
-      <description>Geofencing Enhancements — Scale location-based messaging with less setup — Import, pause, and manage up to 5,000 geofences to speed onboarding and support more retail locations.
-
-(Published 2026-05-01)</description>
-      <guid isPermaLink="false">76243c31cf35da9ee94619b47fd881533fcb1d65</guid>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Warehouse Import: Record-level Error Reporting</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45442043369499-Understanding-data-warehouse-event-import-in-Klaviyo#klv-e5457902</link>
-      <description>Data Warehouse Import: Record-level Error Reporting — Troubleshoot warehouse sync errors faster — Download row-level error reports and view clearer run statuses to fix data quality issues without extra back-and-forth.
-
-(Published 2026-05-01)</description>
-      <guid isPermaLink="false">e5457902675a72c146a07454f67b637758a633c4</guid>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Warehouse Import: Connection and Command-level Error Visibility</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40939206649627-Understanding-data-warehouse-import-in-Klaviyo#klv-44e9021b</link>
-      <description>Data Warehouse Import: Connection and Command-level Error Visibility — Diagnose warehouse sync issues without support — View in-product logs and run-level errors to identify permissions, schema, firewall, timeout, or data quality problems faster.
-
-(Published 2026-05-01)</description>
-      <guid isPermaLink="false">44e9021b7b91b6cab0b9b0e2fe88cd90969edb02</guid>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Channel Affinity for WhatsApp</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo#klv-c34d9f59</link>
-      <description>Channel Affinity for WhatsApp — Reach every shopper on their preferred channel — Include WhatsApp in Channel Affinity to automatically optimize message delivery across email, SMS, push, and WhatsApp.
-
-(Published 2026-04-30)</description>
-      <guid isPermaLink="false">c34d9f592becab93f3b4a16d2de4a33cd2a49c02</guid>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Category Analysis Dashboard</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard#klv-230efa7d</link>
-      <description>Category Analysis Dashboard — Make smarter merchandising decisions faster — Analyze category-level revenue, orders, and engagement trends to spot opportunities without manually aggregating product data.
-
-(Published 2026-04-29)</description>
-      <guid isPermaLink="false">230efa7def11102be129777d993f6a4ef0d11863</guid>
-      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
