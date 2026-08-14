@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:47:42 +0000</lastBuildDate>
+    <item>
+      <title>In-App Forms Template Library</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form#klv-63b1e0dd</link>
+      <description>In-App Forms Template Library — Launch polished in-app forms faster — browse professionally designed templates instead of starting from a blank canvas.
+
+(Published 2026-08-14)</description>
+      <guid isPermaLink="false">63b1e0ddf5ddf8753700a435b96284a9f55492c3</guid>
+      <pubDate>Fri, 14 Aug 2026 19:47:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom HTML Block for Sign-up Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-html-block-in-sign-up-forms#klv-cddc286b</link>
+      <description>Custom HTML Block for Sign-up Forms — Add a Custom HTML block to your sign-up forms and build tables, custom layouts, or richer formatting that standard blocks can't deliver.
+
+(Published 2026-08-14)</description>
+      <guid isPermaLink="false">cddc286bdfe9c2ceafe52786b13e8fb236674116</guid>
+      <pubDate>Fri, 14 Aug 2026 19:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>OAuth 2.0 for Salesforce integration</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115005081947-How-to-integrate-with-Salesforce-CRM#klv-baaf2420</link>
+      <description>OAuth 2.0 for Salesforce integration — Keep your Salesforce integration running without password-expiration failures — connect with OAuth 2.0 for a more reliable sync.
+
+(Published 2026-08-14)</description>
+      <guid isPermaLink="false">baaf242026771dadd45d3c1c36287f745740d9bc</guid>
+      <pubDate>Fri, 14 Aug 2026 19:47:40 +0000</pubDate>
+    </item>
     <item>
       <title>Billing Analytics Dashboard</title>
       <link>https://www.klaviyo.com/whats-new#klv-b0072a08</link>
@@ -520,33 +547,6 @@
 (Published 2026-05-07)</description>
       <guid isPermaLink="false">4b973a6bc3e2e04d5375f302ee56c727e5052ba5</guid>
       <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flyout Forms In-App</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms#klv-ae781d9b</link>
-      <description>Flyout Forms In-App — Create less disruptive in-app experiences — Use flyout forms to slide messages into mobile apps while keeping the rest of the screen usable.
-
-(Published 2026-05-07)</description>
-      <guid isPermaLink="false">ae781d9b79fe9d22d1b3e986e78ffbb4bef5f493</guid>
-      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS Background Processing / Content Available</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings#klv-01d4156a</link>
-      <description>iOS Background Processing / Content Available — Power more custom iOS app experiences — Enable background processing for standard push notifications so your app can refresh data or run tasks when a notification is delivered.
-
-(Published 2026-05-06)</description>
-      <guid isPermaLink="false">01d4156a1b6b8c32addea97207fbfeb841172dee</guid>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automatic UTM Parameters For Deep Links</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360053921252-How-to-add-UTM-tracking-to-campaigns-and-flows#klv-57be6300</link>
-      <description>Automatic UTM Parameters For Deep Links — Track push performance more reliably — Automatically add UTM parameters to deep links in new push campaigns and flow messages to reduce errors and improve reporting.
-
-(Published 2026-05-06)</description>
-      <guid isPermaLink="false">57be63004431cb018c4d200adf8c05dfb19094a6</guid>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
