@@ -7,8 +7,8 @@ RSS feeds for vendor changelog pages that don't publish their own.
 | [Klaviyo — What's New](https://www.klaviyo.com/whats-new) | `whats-new.xml` |
 | [Okendo — Product Releases](https://okendo.io/product-releases/) | `okendo-releases.xml` |
 
-A GitHub Action (`.github/workflows/build-feeds.yml`) rebuilds both daily at
-13:00 UTC and commits the XML when it changes.
+A GitHub Action (`.github/workflows/build-feeds.yml`) rebuilds both 4x daily
+(11:00, 15:00, 19:00, 23:00 UTC) and commits the XML when it changes.
 
 ## Feed URLs
 
@@ -32,6 +32,15 @@ on both source pages.
 - **Verify after a run:** each script prints `Parsed N entries` to the Action
   log. If it prints `Parsed 0 entries` the job fails loudly — that means the
   vendor changed their page markup and the parser needs re-pointing.
+- **The two feeds fail independently.** Each build step is `continue-on-error`,
+  so one vendor being down no longer discards the other vendor's output — the
+  commit step still runs, and a failed script leaves its XML and state file
+  untouched. The `Report build failures` step re-fails the job afterwards, so a
+  red run still means something is genuinely broken.
+- **Transient outages are retried.** `fetchutil.fetch` retries 5xx and
+  connection errors 4 times (5s / 20s / 60s backoff). Cloudflare 52x errors from
+  either vendor usually clear within seconds. A 4xx is *not* retried — a 404
+  means the page actually moved and should surface immediately.
 - **Klaviyo** entries are anchored on the `YYYY-MM-DD` date string, not CSS
   classes. Entries without a "Learn more" link still appear (GUIDs are
   content-hashed, so they never collide).

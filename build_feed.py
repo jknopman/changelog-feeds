@@ -29,11 +29,11 @@ import re
 import sys
 from datetime import datetime, timezone
 
-import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
 import feedstate
+import fetchutil
 
 SOURCE_URL = "https://www.klaviyo.com/whats-new"
 FEED_TITLE = "Klaviyo - What's New"
@@ -41,15 +41,6 @@ FEED_DESC = "Latest Klaviyo product updates and releases (unofficial feed)."
 STATE_PATH = "seen-klaviyo.json"
 MAX_ITEMS = 60
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-
-
-def fetch(url):
-    headers = {"User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")}
-    r = requests.get(url, headers=headers, timeout=30)
-    r.raise_for_status()
-    return r.text
 
 
 def clean(text):
@@ -152,7 +143,7 @@ def build(entries):
 
 
 def main():
-    entries = parse(fetch(SOURCE_URL))
+    entries = parse(fetchutil.fetch(SOURCE_URL))
     if not entries:
         print("ERROR: parsed 0 entries - page structure likely changed.",
               file=sys.stderr)

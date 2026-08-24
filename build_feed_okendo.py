@@ -14,10 +14,10 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
-import requests
 from bs4 import BeautifulSoup
 
 import feedstate
+import fetchutil
 
 SOURCE_URL = "https://okendo.io/product-releases/"
 FEED_TITLE = "Okendo - Product Releases"
@@ -50,15 +50,6 @@ KNOWN_RELEASE_TYPES = {
     "enhancement", "new", "beta", "general availability (ga)", "ga",
     "fix", "improvement", "new feature", "coming soon",
 }
-
-
-def fetch(url):
-    headers = {"User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")}
-    r = requests.get(url, headers=headers, timeout=30)
-    r.raise_for_status()
-    return r.text
 
 
 def clean(t):
@@ -212,7 +203,7 @@ def build(entries):
 
 
 def main():
-    entries = parse(fetch(SOURCE_URL))
+    entries = parse(fetchutil.fetch(SOURCE_URL))
     if not entries:
         print("ERROR: parsed 0 entries - page structure likely changed.",
               file=sys.stderr)
