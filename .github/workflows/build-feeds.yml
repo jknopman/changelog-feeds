@@ -13,19 +13,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Install deps
         run: pip install feedgen beautifulsoup4 requests lxml
 
+      # Each feed is allowed to fail on its own. A script that raises exits
+      # before writing anything, so its XML and state file are left exactly as
+      # committed - which means the other feed's output is still safe to commit.
+      # Previously one vendor being down threw away the other vendor's work.
+      # "Report build failures" below re-fails the job, so nothing goes quiet.
       - name: Build Klaviyo feed
+        id: klaviyo
+        continue-on-error: true
         run: python build_feed.py
+
       - name: Build Okendo feed
+        id: okendo
+        continue-on-error: true
         run: python build_feed_okendo.py
 
       - name: Commit feeds if changed
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
@@ -37,3 +48,20 @@ jobs:
             git commit -m "Update feeds ($(date -u +%Y-%m-%d))"
             git push
           fi
+
+      - name: Report build failures
+        if: ${{ !cancelled() }}
+        run: |
+          failed=0
+          if [ "${{ steps.klaviyo.outcome }}" != "success" ]; then
+            echo "::error::Klaviyo feed build failed - see the 'Build Klaviyo feed' step."
+            failed=1
+          fi
+          if [ "${{ steps.okendo.outcome }}" != "success" ]; then
+            echo "::error::Okendo feed build failed - see the 'Build Okendo feed' step."
+            failed=1
+          fi
+          if [ "$failed" -eq 0 ]; then
+            echo "Both feeds built successfully."
+          fi
+          exit $failed
