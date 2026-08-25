@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:24:29 +0000</lastBuildDate>
+    <item>
+      <title>Personalized SMS Content - BETA</title>
+      <link>https://www.klaviyo.com/whats-new#klv-ecfd2ecb</link>
+      <description>Personalized SMS Content - BETA — Send SMS and RCS messages tailored to each customer's browsing, cart activity, and purchase intent — use in Added to Cart, Viewed Product, Started Checkout, Back in Stock, Price Drop, and Win Back flows with built-in A/B testing and performance reporting.
+
+(Published 2026-08-25)</description>
+      <guid isPermaLink="false">ecfd2ecba97237e0ff867a4c60f6c4ac61b08726</guid>
+      <pubDate>Tue, 25 Aug 2026 23:24:29 +0000</pubDate>
+    </item>
     <item>
       <title>Flows 2.0</title>
       <link>https://www.klaviyo.com/whats-new#klv-62a39a68</link>
@@ -537,15 +546,6 @@
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">264c9731805c40ab209e27e5e5ebabc997cfb590</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Message Onsite Banners</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/47987855301659-How-to-Create-a-Personalized-Onsite-Banner#klv-5c414380</link>
-      <description>Multi-Message Onsite Banners — Create more engaging onsite experiences — Show multi-scroll personalized banners with deeper targeting to surface more relevant messages to each shopper.
-
-(Published 2026-05-08)</description>
-      <guid isPermaLink="false">5c4143800440a3d2e9cea3955a5fc14f62da46a7</guid>
       <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
