@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 04:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:54:40 +0000</lastBuildDate>
+    <item>
+      <title>Personalized Send Time: Customize Control Group and Aggregate Analytics</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time#klv-79e9f708</link>
+      <description>Personalized Send Time: Customize Control Group and Aggregate Analytics — See how your AI-optimized send times perform against the baseline you choose — set a fixed time or use historical patterns, then view grouped analytics across campaigns.
+
+(Published 2026-08-27)</description>
+      <guid isPermaLink="false">79e9f7084144f16e7ba1ab2bc34cc6e0202b8a05</guid>
+      <pubDate>Thu, 27 Aug 2026 20:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Analysis &amp; Category Analysis settings decoupled in Catalog Insights</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard#klv-a12ea26e</link>
+      <description>Product Analysis &amp; Category Analysis settings decoupled in Catalog Insights — Customize exclusions for Product Analysis and Category Analysis separately — set independent filters in Catalog Insights so changes to one view don't affect the other.
+
+(Published 2026-08-27)</description>
+      <guid isPermaLink="false">a12ea26e5f9043bbf0d2699ad3895abee6afa570</guid>
+      <pubDate>Thu, 27 Aug 2026 20:54:39 +0000</pubDate>
+    </item>
     <item>
       <title>Personalized SMS Content - BETA</title>
       <link>https://www.klaviyo.com/whats-new#klv-ecfd2ecb</link>
@@ -528,24 +546,6 @@
 
 (Published 2026-05-08)</description>
       <guid isPermaLink="false">74d5907e2ae7530b0f4d21ace34f3b914c0e7ac9</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personalized Content Blocks with Profile Picker</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-93b8f626</link>
-      <description>Personalized Content Blocks with Profile Picker — Personalize onsite content more easily — Use the profile picker in Customer Hub to quickly add profile properties to content blocks without manual setup.
-
-(Published 2026-05-08)</description>
-      <guid isPermaLink="false">93b8f6261d6ca91cc888a612ea05555fcbcc41cc</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrations Schema for Customer Hub</title>
-      <link>https://www.klaviyo.com/whats-new#klv-264c9731</link>
-      <description>Integrations Schema for Customer Hub — Expand Customer Hub integrations without custom builds — Surface approved partner events for WISMO, returns, loyalty, and subscriptions so more onsite experiences work with the tools already in your stack.
-
-(Published 2026-05-08)</description>
-      <guid isPermaLink="false">264c9731805c40ab209e27e5e5ebabc997cfb590</guid>
       <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
