@@ -7,13 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:23:24 +0000</lastBuildDate>
+    <item>
+      <title>[Reviews] Query review insights with the Okendo MCP</title>
+      <link>https://support.okendo.io/en/articles/12672009-connect-your-okendo-mcp-server-to-chatgpt-and-claude#okd-00fe7924</link>
+      <description>Query review insights with the Okendo MCP — Connect your Okendo public review data to AI tools like ChatGPT and Claude to unlock customer insights through conversational queries, no spreadsheets or SQL required.
+
+(General availability (GA) / New feature / Reviews - August 2026)</description>
+      <guid isPermaLink="false">00fe7924bcdeb20bdcd4f9cb4504dd9d3a71f6b8</guid>
+      <pubDate>Tue, 01 Sep 2026 15:23:24 +0000</pubDate>
+    </item>
     <item>
       <title>[Reviews] Custom attribute translations</title>
       <link>https://support.okendo.io/en/articles/9684374-enabling-review-translation-for-multiple-languages#okd-bff40240</link>
       <description>Custom attribute translations — Override auto-generated translations to match your brand voice or terminology.
 
-(Early access (EA) / New feature / Loyalty / Introducing Coupon Rewards / Loyalty members can now earn real coupon rewards, not just points for joining, birthdays, anniversaries, and tier milestones, unlocking instant, usable rewards at the moments that matter most. / Explore this feature → / Enhancement / Reviews - August 2026)</description>
+(Early access (EA) / New feature / Loyalty / Introducing Coupon Rewards / Loyalty members can now earn real coupon rewards for joining, birthdays, anniversaries, and tier milestones, unlocking instant, usable rewards at the moments that matter most. / Explore this feature → / Enhancement / Reviews - August 2026)</description>
       <guid isPermaLink="false">bff40240ae6abca15138f9f108605b3996e59cb3</guid>
       <pubDate>Thu, 13 Aug 2026 19:55:43 +0000</pubDate>
     </item>
