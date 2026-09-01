@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:36:14 +0000</lastBuildDate>
+    <item>
+      <title>Open External URL Action for Push and In-App Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings#klv-af403159</link>
+      <description>Open External URL Action for Push and In-App Forms — Send customers straight to any web page, email, or phone call from push notifications and in-app forms — set the external URL action type in your button or open settings.
+
+(Published 2026-09-01)</description>
+      <guid isPermaLink="false">af403159275841996aee767e9a76b719a8c4321b</guid>
+      <pubDate>Tue, 01 Sep 2026 21:36:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comments in Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/sections/14560094570651#klv-6248c2c5</link>
+      <description>Comments in Forms — Keep form feedback where it belongs — add comments directly on any block, reply and resolve in one panel, and click any thread to jump to that step or A/B version.
+
+(Published 2026-09-01)</description>
+      <guid isPermaLink="false">6248c2c52a2eead11c21260b87df85cff1eef4ae</guid>
+      <pubDate>Tue, 01 Sep 2026 21:36:13 +0000</pubDate>
+    </item>
     <item>
       <title>Personalized Send Time: Customize Control Group and Aggregate Analytics</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time#klv-79e9f708</link>
@@ -16,6 +34,15 @@
 (Published 2026-08-27)</description>
       <guid isPermaLink="false">79e9f7084144f16e7ba1ab2bc34cc6e0202b8a05</guid>
       <pubDate>Thu, 27 Aug 2026 20:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next Best Product Price and Stock Filters</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/53450584076827-customizing-your-next-best-product-nbp-recommendations#klv-9f04c93b</link>
+      <description>Next Best Product Price and Stock Filters — Keep low-value and out-of-stock items out of customer-facing recommendations — set minimum price, maximum price, and stock thresholds for Next Best Product at the account level.
+
+(Published 2026-08-27)</description>
+      <guid isPermaLink="false">9f04c93b0eb4a42b2bcbadce8d2e80c67023523a</guid>
+      <pubDate>Tue, 01 Sep 2026 21:36:12 +0000</pubDate>
     </item>
     <item>
       <title>Product Analysis &amp; Category Analysis settings decoupled in Catalog Insights</title>
@@ -520,33 +547,6 @@
 (Published 2026-05-20)</description>
       <guid isPermaLink="false">f9b66997a9d544e756ee2985aab1a72cb3bab9f8</guid>
       <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Push A/B testing in Flows (GA)</title>
-      <link>https://www.klaviyo.com/whats-new#klv-b0e874db</link>
-      <description>Mobile Push A/B testing in Flows (GA) — Optimize push notification performance — create A/B tests in Flow Builder to compare titles, body copy, and push behavior, then pick winners based on engagement rate.
-
-(Published 2026-05-15)</description>
-      <guid isPermaLink="false">b0e874db5a49400d66b4bae8bad3957acd805a69</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>URL Targeted Content Blocks</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-0340a846</link>
-      <description>URL Targeted Content Blocks — Show the right onsite content on the right pages — Target Customer Hub content blocks by URL rules to create more relevant shopping experiences and reduce misplaced messaging.
-
-(Published 2026-05-08)</description>
-      <guid isPermaLink="false">0340a8467239b3dee6ea17cb25e36ac85fcc1e55</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prepared Order Event - Toast Integration</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/24302613403931-Toast-data-reference#klv-74d5907e</link>
-      <description>Prepared Order Event - Toast Integration — Send timely food-ready updates that drive more orders — Use Toast’s new Prepared Order event to notify guests when orders are ready and promote relevant add-ons.
-
-(Published 2026-05-08)</description>
-      <guid isPermaLink="false">74d5907e2ae7530b0f4d21ace34f3b914c0e7ac9</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
