@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:20:47 +0000</lastBuildDate>
+    <item>
+      <title>Manage Click Tracking</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-click-tracking#klv-8091fd25</link>
+      <description>Manage Click Tracking — Meet data privacy requirements with granular control over email click tracking — disable tracking account-wide, for specific recipients based on consent, or for individual links.
+
+(Published 2026-09-08)</description>
+      <guid isPermaLink="false">8091fd253c4a2aee4a667accdfda37fc3faccfbd</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Channel performance dashboard</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-channel-performance-dashboard#klv-2f536950</link>
+      <description>Channel performance dashboard — Compare Email, SMS, WhatsApp, and Push performance in one view — track attributed value, deliverability, and engagement across every channel you send on.
+
+(Published 2026-09-08)</description>
+      <guid isPermaLink="false">2f53695043dd2ad7e91ddef10bfc594f68b96b4a</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom HTML Block for In-App Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-html-block-in-sign-up-forms#klv-39f85be7</link>
+      <description>Custom HTML Block for In-App Forms — Build comparison tables, custom layouts, and richer formatting inside your mobile app forms — add a Custom HTML block and write your own markup.
+
+(Published 2026-09-08)</description>
+      <guid isPermaLink="false">39f85be7e61ce65e4799b9fca9af591776278d4e</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Punchh SMS Consent Sync</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-sync-sms-consent-with-par-punchh#klv-218ee79f</link>
+      <description>Punchh SMS Consent Sync — Activate SMS consent collected at Punchh loyalty signup with full double opt-in compliance — sync the integration to keep both systems aligned automatically.
+
+(Published 2026-09-03)</description>
+      <guid isPermaLink="false">218ee79f8d268ddf1da10b91ee633cd8cf29129c</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple RFM Models</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/create-multiple-rfm-models#klv-9fce4c05</link>
+      <description>Multiple RFM Models — Score customers accurately across different business lines — create up to four independent RFM models, each with its own conversion metric, thresholds, and time frame.
+
+(Published 2026-09-03)</description>
+      <guid isPermaLink="false">9fce4c05269b9ed3d1137ea7e2bb16aba05032e8</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newly Published Apps: August Round-Up</title>
+      <link>https://www.klaviyo.com/whats-new#klv-036a08b5</link>
+      <description>Newly Published Apps: August Round-Up — Extend Klaviyo with 24 new integrations spanning CTV advertising, mobile push, direct mail, and delivery tracking — browse the App Marketplace to find the right solution for your business.
+
+(Published 2026-09-02)</description>
+      <guid isPermaLink="false">036a08b5b6eeb6232ca92a18254a19fee49717ab</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:42 +0000</pubDate>
+    </item>
     <item>
       <title>Open External URL Action for Push and In-App Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings#klv-af403159</link>
@@ -16,6 +70,15 @@
 (Published 2026-09-01)</description>
       <guid isPermaLink="false">af403159275841996aee767e9a76b719a8c4321b</guid>
       <pubDate>Tue, 01 Sep 2026 21:36:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>First-Party ID</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-first-party-id#klv-5889107d</link>
+      <description>First-Party ID — Recognize more returning visitors on Safari and other restrictive browsers — set up First-Party ID to extend your Klaviyo cookie window from 24 hours to 7 days.
+
+(Published 2026-09-01)</description>
+      <guid isPermaLink="false">5889107d5c7f7f329b5401577c3678335c9b7fd6</guid>
+      <pubDate>Tue, 08 Sep 2026 18:20:41 +0000</pubDate>
     </item>
     <item>
       <title>Comments in Forms</title>
@@ -484,69 +547,6 @@
 (Published 2026-06-02)</description>
       <guid isPermaLink="false">3699a55a1af68445239fa35ce8efdbfd983b0ce8</guid>
       <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reporting Dashboards for Hospitality</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-hotel-business-review-dashboard#klv-56ba8b56</link>
-      <description>Reporting Dashboards for Hospitality — See guest, reservation, and loyalty metrics in one place without building custom reports — view pre-built dashboards that appear automatically based on your restaurant or hotel integrations.
-
-(Published 2026-06-02)</description>
-      <guid isPermaLink="false">56ba8b56f34c594fe070afbe9dfb9a272fd9ea30</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart Translations - Import Glossary settings</title>
-      <link>https://www.klaviyo.com/whats-new#klv-bde2cb2c</link>
-      <description>Smart Translations - Import Glossary settings — Manage translation terminology at scale — import hundreds of glossary terms via CSV instead of adding them one by one.
-
-(Published 2026-06-01)</description>
-      <guid isPermaLink="false">bde2cb2c5448f43c5c33b9efaa6fb585a216fc0e</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DND create and update email template tools in MCP</title>
-      <link>https://developers.klaviyo.com/en/docs/klaviyo_mcp_server#klv-221bf424</link>
-      <description>DND create and update email template tools in MCP — Design email templates with AI tools like Claude or ChatGPT and land on clean, editable drag-and-drop templates in Klaviyo — use the new MCP Server tools to skip the HTML handoff.
-
-(Published 2026-05-29)</description>
-      <guid isPermaLink="false">221bf424a727371fb58150bab2193a37b6d220e1</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transactional and Service Branded Sending Domains</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115000357752-How-to-set-up-a-branded-sending-domain#klv-610f4c00</link>
-      <description>Transactional and Service Branded Sending Domains — Protect your transactional and service email reputation from marketing volume fluctuations — set up separate branded sending domains for each send type.
-
-(Published 2026-05-28)</description>
-      <guid isPermaLink="false">610f4c00a0dcdc8b3f68dcbe25e32a2b1ab9b12c</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Serve Dedicated Click Tracking</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360001550572-How-to-set-up-dedicated-click-tracking#klv-74ee6b72</link>
-      <description>Self-Serve Dedicated Click Tracking — Strengthen brand trust and email deliverability with cleaner link URLs — set up a dedicated click-tracking domain directly in account settings.
-
-(Published 2026-05-28)</description>
-      <guid isPermaLink="false">74ee6b726066fd9b2165ed4ab1d4c993510f3b58</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Channel Automation Improvements</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40116727375771-How-to-create-a-WhatsApp-automation#klv-8a988a21</link>
-      <description>Mobile Channel Automation Improvements — Collect richer zero-party data and merge phone-only profiles with existing email profiles — use new question types, longer messages, rich formatting, and video support in WhatsApp and SMS automations.
-
-(Published 2026-05-28)</description>
-      <guid isPermaLink="false">8a988a211065b27ffeb2f6113e1eff060d1ba1cb</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Punchh Offer Management + Reward Object</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-and-distribute-punchh-offers-via-klaviyo#klv-f9b66997</link>
-      <description>Punchh Offer Management + Reward Object — Drive loyalty engagement with real-time reward data and automated offer distribution — sync Punchh rewards to profiles and trigger countdown flows based on expiration dates.
-
-(Published 2026-05-20)</description>
-      <guid isPermaLink="false">f9b66997a9d544e756ee2985aab1a72cb3bab9f8</guid>
-      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
