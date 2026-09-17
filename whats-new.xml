@@ -7,7 +7,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:55:31 +0000</lastBuildDate>
+    <item>
+      <title>User Generated Content Consent &amp; Use in Social</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/record-creator-consent-use-social-ugc#klv-44bbe060</link>
+      <description>User Generated Content Consent &amp; Use in Social — Repurpose high-converting social content across emails, forms, and flows — mark user generated content (UGC) as consent-approved and insert it directly from the media picker.
+
+(Published 2026-09-16)</description>
+      <guid isPermaLink="false">44bbe0601b6c2376b663668c2c45efe957dd7396</guid>
+      <pubDate>Thu, 17 Sep 2026 21:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>KMTA Migration Wizard</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-migrate-your-email-sending-infrastructure-with-the-klaviyo-migration-wizard#klv-b15c58b6</link>
+      <description>KMTA Migration Wizard — Move your account to Klaviyo-built sending infrastructure without risking deliverability — use the guided wizard to configure your domains in one session while warming runs automatically in the background.
+
+(Published 2026-09-14)</description>
+      <guid isPermaLink="false">b15c58b6b3ceaf64879f9380a9d854d7e783bff7</guid>
+      <pubDate>Thu, 17 Sep 2026 21:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Figma Plugin: EU Data Residency Support</title>
+      <link>https://www.klaviyo.com/whats-new#klv-da8f4f7d</link>
+      <description>Figma Plugin: EU Data Residency Support — Design teams on EU-hosted Klaviyo accounts can now use the full Figma plugin — connect your EU Data Residency account to sync templates and design assets.
+
+(Published 2026-09-11)</description>
+      <guid isPermaLink="false">da8f4f7d3e24f07a5b04146ffab89752f6456b78</guid>
+      <pubDate>Thu, 17 Sep 2026 21:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quiet hours in Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/quiet-hours-in-campaigns#klv-b2aeedfd</link>
+      <description>Quiet hours in Campaigns — Protect your text campaigns from compliance risk across time zones — set messages to delay or skip automatically when they'd land during quiet hours.
+
+(Published 2026-09-10)</description>
+      <guid isPermaLink="false">b2aeedfdb888e6af9fa396c2f10eb5512ddbaad3</guid>
+      <pubDate>Thu, 17 Sep 2026 21:55:28 +0000</pubDate>
+    </item>
     <item>
       <title>Manage Click Tracking</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-click-tracking#klv-8091fd25</link>
@@ -511,42 +547,6 @@
 (Published 2026-06-05)</description>
       <guid isPermaLink="false">8275d37a94b7ca9791d07bcfe9d0888e34666a02</guid>
       <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>API Key Disablement</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/managing-your-api-keys-disabling-and-re-enabling#klv-10a01523</link>
-      <description>API Key Disablement — Respond to suspected credential exposure in seconds without deleting your keys — disable and re-enable API keys directly from settings.
-
-(Published 2026-06-05)</description>
-      <guid isPermaLink="false">10a0152359b69213905caf189c6515f5b83160bb</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Agent Multilingual</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-a4c9f240</link>
-      <description>Customer Agent Multilingual — Serve any shopper in their native language without duplicating your agent setup — configure once and let Customer Agent respond automatically in whatever language customers write.
-
-(Published 2026-06-04)</description>
-      <guid isPermaLink="false">a4c9f2401a74478eaca1e368f3d9e74d0ce35bf7</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simplified Language Management</title>
-      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/3fd18bd7-7620-4501-9b1e-1556299623bb/c24ae94b-27e5-4939-963d-3abce64bc49f#klv-26eae118</link>
-      <description>Simplified Language Management — Update multiple language settings at once instead of one by one — add or remove locales in bulk from the Smart Translations modal.
-
-(Published 2026-06-04)</description>
-      <guid isPermaLink="false">26eae118933dbf6c0caf04ff04ac34080e4fc7b5</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp consent on WooCommerce checkout</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360057745791-How-to-collect-SMS-consent-at-checkout-on-WooCommerce#klv-3699a55a</link>
-      <description>WhatsApp consent on WooCommerce checkout — Capture WhatsApp subscribers at checkout when purchase intent is highest — enable WhatsApp consent collection in your WooCommerce integration settings.
-
-(Published 2026-06-02)</description>
-      <guid isPermaLink="false">3699a55a1af68445239fa35ce8efdbfd983b0ce8</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
