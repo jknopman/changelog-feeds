@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:05:32 +0000</lastBuildDate>
+    <item>
+      <title>Animations in Sign-up Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-508ef6a2</link>
+      <description>Animations in Sign-up Forms — Make your forms feel native to your site with motion — Add fade, slide, zoom, or pulse animations to any form element in a few clicks, no custom CSS required.
+
+(Published 2026-09-18)</description>
+      <guid isPermaLink="false">508ef6a2026a774e507b1f840e0f714c4681c710</guid>
+      <pubDate>Fri, 18 Sep 2026 18:05:32 +0000</pubDate>
+    </item>
     <item>
       <title>User Generated Content Consent &amp; Use in Social</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/record-creator-consent-use-social-ugc#klv-44bbe060</link>
@@ -538,15 +547,6 @@
 (Published 2026-06-09)</description>
       <guid isPermaLink="false">d0b94c779eaf7b0f7435538fba3dc7926d97fb30</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push Action Buttons</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-action-buttons-to-a-push-notification#klv-8275d37a</link>
-      <description>Push Action Buttons — Shorten the path from notification to conversion — add up to 3 action buttons that open your app or deep link to a specific screen.
-
-(Published 2026-06-05)</description>
-      <guid isPermaLink="false">8275d37a94b7ca9791d07bcfe9d0888e34666a02</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
