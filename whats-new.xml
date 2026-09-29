@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:50:43 +0000</lastBuildDate>
+    <item>
+      <title>Faster Flow Builder for Large Flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115002774932-Getting-started-with-flows#klv-0f2c5cbb</link>
+      <description>Faster Flow Builder for Large Flows — Edit your largest automations without waiting—Flow Builder now loads complex flows up to 70% faster with smoother panning, zooming, and instant analytics toggling.
+
+(Published 2026-09-29)</description>
+      <guid isPermaLink="false">0f2c5cbbd3984a45f191662b1aad6f26a22c566a</guid>
+      <pubDate>Tue, 29 Sep 2026 22:50:43 +0000</pubDate>
+    </item>
     <item>
       <title>Forms in Flows</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-a-sign-up-form-to-a-flow#klv-2c8b2806</link>
@@ -538,15 +547,6 @@
 (Published 2026-06-15)</description>
       <guid isPermaLink="false">2c2152a86239cf9eddfee379711100f679b6dd49</guid>
       <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magento 2 WhatsApp consent collection</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360058698511-How-to-collect-SMS-consent-at-checkout-on-Magento-2#klv-57a173b8</link>
-      <description>Magento 2 WhatsApp consent collection — Capture WhatsApp opt-ins at checkout when shoppers are most likely to subscribe — enable WhatsApp consent alongside SMS in your Magento 2 integration settings. [Learn more](https://help.klaviyo.com/hc/en-us/articles/360058698511)
-
-(Published 2026-06-12)</description>
-      <guid isPermaLink="false">57a173b88c2134cb2dfceb5eda355362073e401d</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
