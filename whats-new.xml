@@ -7,7 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:42:27 +0000</lastBuildDate>
+    <item>
+      <title>Customer Hub Attributed Value</title>
+      <link>https://www.klaviyo.com/whats-new#klv-37d9694d</link>
+      <description>Customer Hub Attributed Value — Analyze Customer Hub revenue directly in your data warehouse using the same attribution logic as in-app dashboards — query the daily aggregate table in Snowflake to integrate Customer Hub ROI with your other business metrics.
+
+(Published 2026-10-05)</description>
+      <guid isPermaLink="false">37d9694d16e5e6e282a3232092f917b793e252bf</guid>
+      <pubDate>Tue, 06 Oct 2026 02:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onsite Preview</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-1b189c31</link>
+      <description>Onsite Preview — See exactly how shoppers will experience Customer Hub before going live — use Onsite Preview to test and refine your setup without publishing.
+
+(Published 2026-10-05)</description>
+      <guid isPermaLink="false">1b189c31a900385ae292c06fdc8c9677037fc9a5</guid>
+      <pubDate>Tue, 06 Oct 2026 02:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Hub Editor Redesign</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660324811675-Getting-started-with-Customer-Hub-on-Shopify#klv-1a4777a4</link>
+      <description>Customer Hub Editor Redesign — Find Customer Hub controls faster with a familiar Klaviyo editor layout — Use universal left navigation, one in-context panel for content and integrations, and consistent Content and Targeting tabs.
+
+(Published 2026-10-02)</description>
+      <guid isPermaLink="false">1a4777a41080c4a8cfa74452dd430002020177d6</guid>
+      <pubDate>Tue, 06 Oct 2026 02:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaviyo MCP: Unsupported Tasks</title>
+      <link>https://www.klaviyo.com/whats-new#klv-49de354e</link>
+      <description>Klaviyo MCP: Unsupported Tasks — Identify gaps in agent capabilities by logging tasks the MCP server can't complete — use blocker-type and action data in Chronosphere to prioritize tooling improvements.
+
+(Published 2026-09-30)</description>
+      <guid isPermaLink="false">49de354e91b558f5c4f2dfc4da83206900da512f</guid>
+      <pubDate>Tue, 06 Oct 2026 02:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Send push notifications to primary device only</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360006653972-How-to-send-a-push-notification-campaign#klv-9691d435</link>
+      <description>Send push notifications to primary device only — Cut wasted sends and sharpen your push analytics — send notifications to only the most recently active device per profile instead of every linked token.
+
+(Published 2026-09-30)</description>
+      <guid isPermaLink="false">9691d43588f6f77335991d41bd7b607cb678cbd1</guid>
+      <pubDate>Tue, 06 Oct 2026 02:42:23 +0000</pubDate>
+    </item>
     <item>
       <title>Faster Flow Builder for Large Flows</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/115002774932-Getting-started-with-flows#klv-0f2c5cbb</link>
@@ -502,51 +547,6 @@
 (Published 2026-06-22)</description>
       <guid isPermaLink="false">5d0773fdde92f029b60476ff0b5d395226f523e5</guid>
       <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Event Property Filters for In-App Form Triggers</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form#klv-500df2de</link>
-      <description>Event Property Filters for In-App Form Triggers — Show in-app forms only when event properties match specific values — add an event property filter to your display triggers for more precise, contextual targeting.
-
-(Published 2026-06-18)</description>
-      <guid isPermaLink="false">500df2de514f82d8222019f0ebd925126ec89e32</guid>
-      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Onsite Tracking for Olo via Google Tag Manager</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/track-onsite-events-from-olo-with-google-tag-manager#klv-29da72d6</link>
-      <description>Onsite Tracking for Olo via Google Tag Manager — Track browse, cart, and checkout behavior from Olo Serve ordering sites — add the Klaviyo tag in Google Tag Manager to capture guest activity and trigger abandonment flows.
-
-(Published 2026-06-18)</description>
-      <guid isPermaLink="false">29da72d67a82bc9233cb125e8dc3f3413b0e5619</guid>
-      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Klaviyo extension for Shopify Sidekick</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-the-klaviyo-extension-for-sidekick-in-shopify#klv-66f7d714</link>
-      <description>Klaviyo extension for Shopify Sidekick — Get answers about your Klaviyo marketing performance without leaving Shopify — ask Sidekick about campaigns, flows, and segments, then deep-link back to Klaviyo to act.
-
-(Published 2026-06-17)</description>
-      <guid isPermaLink="false">66f7d714cf23e8a5896691330cc19ef8783e215d</guid>
-      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/39406875083035-Cloudbeds-data-reference#klv-a0772ba8</link>
-      <description>Smarter Sync for OTA Guests + Real-Time Cloudbeds Updates — Reach guests who book through OTAs and keep reservation data accurate as changes happen — use real-time reservation sync to trigger check-in, mid-stay, and post-stay flows on the right dates.
-
-(Published 2026-06-16)</description>
-      <guid isPermaLink="false">a0772ba891038e7b9112d80bd89162b844fbba66</guid>
-      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Feeds in Text: Dynamic Product Recommendations in SMS</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115005082787-How-to-use-product-feeds-and-recommendations#klv-2c2152a8</link>
-      <description>Product Feeds in Text: Dynamic Product Recommendations in SMS — Send personalized product recommendations via SMS using real-time catalog and customer data.
-
-(Published 2026-06-15)</description>
-      <guid isPermaLink="false">2c2152a86239cf9eddfee379711100f679b6dd49</guid>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
