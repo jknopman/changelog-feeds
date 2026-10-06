@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:03:03 +0000</lastBuildDate>
+    <item>
+      <title>Pay in Canadian Dollars</title>
+      <link>https://www.klaviyo.com/whats-new#klv-58940c4d</link>
+      <description>Pay in Canadian Dollars — Pay for Klaviyo in Canadian dollars — Choose CAD as a new Canadian customer to see pricing, sign contracts, pay, and get invoices in your home currency.
+
+(Published 2026-10-06)</description>
+      <guid isPermaLink="false">58940c4d75dd87f16922c98b199071b22e399980</guid>
+      <pubDate>Tue, 06 Oct 2026 17:03:03 +0000</pubDate>
+    </item>
     <item>
       <title>Customer Hub Attributed Value</title>
       <link>https://www.klaviyo.com/whats-new#klv-37d9694d</link>
@@ -538,15 +547,6 @@
 (Published 2026-06-23)</description>
       <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flow Analytics Dashboard</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/52037859248283-how-to-use-the-flow-analytics-dashboard#klv-5d0773fd</link>
-      <description>Flow Analytics Dashboard — Compare flow performance across channels and time periods — use the new Flow Analytics dashboard to track revenue, conversions, and deliveries with period-over-period insights.
-
-(Published 2026-06-22)</description>
-      <guid isPermaLink="false">5d0773fdde92f029b60476ff0b5d395226f523e5</guid>
-      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
