@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:38:51 +0000</lastBuildDate>
+    <item>
+      <title>Owned Social Insights</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights#klv-9289f5f8</link>
+      <description>Owned Social Insights — See what drives Instagram engagement without digging through data — Review daily insights on your best formats, topics, and posting times in the social content library.
+
+(Published 2026-10-08)</description>
+      <guid isPermaLink="false">9289f5f82f1e951a99594680cf7f5c557ed7b14a</guid>
+      <pubDate>Thu, 08 Oct 2026 23:38:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>In-App Review Banner Expanded</title>
+      <link>https://www.klaviyo.com/whats-new#klv-81d0363c</link>
+      <description>In-App Review Banner Expanded — Share your Klaviyo experience in a few clicks — In App Review from a quick in-app prompt sends you to your WooCommerce, BigCommerce, Wix, PrestaShop, or Square app marketplace listing.
+
+(Published 2026-10-08)</description>
+      <guid isPermaLink="false">81d0363cccdd8f3dfbb0d77658cd7fadadddf675</guid>
+      <pubDate>Thu, 08 Oct 2026 23:38:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Performance</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-measure-social-revenue-and-engagement-with-social-performance#klv-ee3a81c3</link>
+      <description>Social Performance — See which social content actually drives revenue — Track order-attributed revenue, engagement, top creators, and trends over time, then dig deeper with Composer.
+
+(Published 2026-10-08)</description>
+      <guid isPermaLink="false">ee3a81c3dd1ae29171e71e29978f045573e5797f</guid>
+      <pubDate>Thu, 08 Oct 2026 23:38:49 +0000</pubDate>
+    </item>
     <item>
       <title>Pay in Canadian Dollars</title>
       <link>https://www.klaviyo.com/whats-new#klv-58940c4d</link>
@@ -520,33 +547,6 @@
 (Published 2026-06-26)</description>
       <guid isPermaLink="false">a83eb1d12a997ab9f1adfd2f243fe345a2a6d7df</guid>
       <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Agent, Profile Enrichment</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-97c343c2</link>
-      <description>Customer Agent, Profile Enrichment — Turn support conversations into first-party data — use Profile Enrichment to capture shopper preferences and intent as profile properties in real time.
-
-(Published 2026-06-24)</description>
-      <guid isPermaLink="false">97c343c256df1ab64639c4c1aa41bd11ea3022b8</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figma Plugin</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma#klv-bb7f3393</link>
-      <description>Figma Plugin — Move design assets to your media library without leaving Figma — export single or multiple items, name them on the fly, and switch between connected Klaviyo accounts.
-
-(Published 2026-06-24)</description>
-      <guid isPermaLink="false">bb7f3393e2b8da1508a10235540677c4039d14ab</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cart in Customer Hub</title>
-      <link>https://help-center.preview.amplify-platform.klaviyo.com/hc/en-us/articles/how-to-add-cart-to-customer-hub#klv-e02d82eb</link>
-      <description>Cart in Customer Hub — Give shoppers a seamless mini-cart experience with personalized product recommendations — enable Cart in Customer Hub to surface upsells and increase average order value.
-
-(Published 2026-06-23)</description>
-      <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
