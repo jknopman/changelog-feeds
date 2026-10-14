@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 23:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:42:59 +0000</lastBuildDate>
+    <item>
+      <title>The new Composer is live</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fcca945e</link>
+      <description>The new Composer is live — Composer, your AI marketing agent inside Klaviyo, just leveled up. It's now more intelligent, flexible, and proactive, helping you tackle more marketing jobs.
+
+(Published 2026-10-13)</description>
+      <guid isPermaLink="false">fcca945eabe18ce719eb0ac40a6a3dc77cf668df</guid>
+      <pubDate>Wed, 14 Oct 2026 15:42:59 +0000</pubDate>
+    </item>
     <item>
       <title>Owned Social Insights</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights#klv-9289f5f8</link>
@@ -34,15 +43,6 @@
 (Published 2026-10-06)</description>
       <guid isPermaLink="false">58940c4d75dd87f16922c98b199071b22e399980</guid>
       <pubDate>Tue, 06 Oct 2026 17:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Hub Attributed Value</title>
-      <link>https://www.klaviyo.com/whats-new#klv-37d9694d</link>
-      <description>Customer Hub Attributed Value — Analyze Customer Hub revenue directly in your data warehouse using the same attribution logic as in-app dashboards â query the daily aggregate table in Snowflake to integrate Customer Hub ROI with your other business metrics.
-
-(Published 2026-10-05)</description>
-      <guid isPermaLink="false">37d9694d16e5e6e282a3232092f917b793e252bf</guid>
-      <pubDate>Tue, 06 Oct 2026 02:42:27 +0000</pubDate>
     </item>
     <item>
       <title>Onsite Preview</title>
