@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:13:22 +0000</lastBuildDate>
+    <item>
+      <title>Convert HTML email templates to drag and drop</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-convert-an-html-template-to-drag-and-drop#klv-57b72b5d</link>
+      <description>Convert HTML email templates to drag and drop — Edit any HTML template without touching code â Convert saved HTML email templates, including imported and AI-generated ones, into editable drag-and-drop templates in a few clicks.
+
+(Published 2026-10-14)</description>
+      <guid isPermaLink="false">57b72b5d0e2b6654c83c08196570751303ba187b</guid>
+      <pubDate>Thu, 15 Oct 2026 01:13:22 +0000</pubDate>
+    </item>
     <item>
       <title>The new Composer is live</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fcca945e</link>
@@ -538,15 +547,6 @@
 (Published 2026-06-23)</description>
       <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flow Analytics Dashboard</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/52037859248283-how-to-use-the-flow-analytics-dashboard#klv-5d0773fd</link>
-      <description>Flow Analytics Dashboard — Compare flow performance across channels and time periods â use the new Flow Analytics dashboard to track revenue, conversions, and deliveries with period-over-period insights.
-
-(Published 2026-06-22)</description>
-      <guid isPermaLink="false">5d0773fdde92f029b60476ff0b5d395226f523e5</guid>
-      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
