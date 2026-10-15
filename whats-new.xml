@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:13:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:30:10 +0000</lastBuildDate>
+    <item>
+      <title>Collect Email Tracking Consent in Sign-Up Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/4413550187035-Understanding-form-blocks-and-fields#klv-1ba102bf</link>
+      <description>Collect Email Tracking Consent in Sign-Up Forms — Keep measuring email engagement while staying compliant with EU privacy rules â Collect explicit marketing and email tracking consent from new subscribers in your sign-up forms.
+
+(Published 2026-10-14)</description>
+      <guid isPermaLink="false">1ba102bf79f3a589c26122c5ecd23ac9cbf9c868</guid>
+      <pubDate>Thu, 15 Oct 2026 15:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom Object available on all accounts</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/35105337172123-Getting-started-with-custom-objects#klv-6e33ce92</link>
+      <description>Custom Object available on all accounts — Custom Objects is now available to all Klaviyo accounts. You can build a real object, see how it works with their data, and decide how you want to use custom objects for your unique business use case.
+
+(Published 2026-10-14)</description>
+      <guid isPermaLink="false">6e33ce920cbe55f59155222d6a286b99f848ef61</guid>
+      <pubDate>Thu, 15 Oct 2026 15:30:09 +0000</pubDate>
+    </item>
     <item>
       <title>Convert HTML email templates to drag and drop</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-convert-an-html-template-to-drag-and-drop#klv-57b72b5d</link>
@@ -109,7 +127,7 @@
     </item>
     <item>
       <title>Figma Plugin: EU Data Residency Support</title>
-      <link>https://www.klaviyo.com/whats-new#klv-da8f4f7d</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma#klv-da8f4f7d</link>
       <description>Figma Plugin: EU Data Residency Support — Design teams on EU-hosted Klaviyo accounts can now use the full Figma plugin â connect your EU Data Residency account to sync templates and design assets.
 
 (Published 2026-09-11)</description>
@@ -529,24 +547,6 @@
 (Published 2026-06-24)</description>
       <guid isPermaLink="false">97c343c256df1ab64639c4c1aa41bd11ea3022b8</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figma Plugin</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma#klv-bb7f3393</link>
-      <description>Figma Plugin — Move design assets to your media library without leaving Figma â export single or multiple items, name them on the fly, and switch between connected Klaviyo accounts.
-
-(Published 2026-06-24)</description>
-      <guid isPermaLink="false">bb7f3393e2b8da1508a10235540677c4039d14ab</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cart in Customer Hub</title>
-      <link>https://help-center.preview.amplify-platform.klaviyo.com/hc/en-us/articles/how-to-add-cart-to-customer-hub#klv-e02d82eb</link>
-      <description>Cart in Customer Hub — Give shoppers a seamless mini-cart experience with personalized product recommendations â enable Cart in Customer Hub to surface upsells and increase average order value.
-
-(Published 2026-06-23)</description>
-      <guid isPermaLink="false">e02d82eb50355cc08e83f1fee7e3360047608023</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
