@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:57:19 +0000</lastBuildDate>
+    <item>
+      <title>Customer Agent adds multi-geo</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-customer-agent-for-multiple-countries-and-regions#klv-bfe5f45a</link>
+      <description>Customer Agent adds multi-geo — Give every shopper the right policies, products, and prices for their country â Customer Agent knowledge and skills is now focused to chosen regions or Shopify markets with one agent.
+
+(Published 2026-10-15)</description>
+      <guid isPermaLink="false">bfe5f45ad194b2132b6fbcbe9e99ca0f3191f161</guid>
+      <pubDate>Thu, 15 Oct 2026 21:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMS and WhatsApp Consent Block on Shopify</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/35067557759771-How-to-collect-SMS-and-or-Whatsapp-consent-on-Shopify-checkout-pages#klv-78a93fea</link>
+      <description>SMS and WhatsApp Consent Block on Shopify — Grow SMS and WhatsApp subscribers with a consent block that fits your checkout â Collect sign-ups with one checkbox and set header style and borders to match Shopify checkout.
+
+(Published 2026-10-15)</description>
+      <guid isPermaLink="false">78a93feadf4cd0f182f7e66d37c6c69da80b9991</guid>
+      <pubDate>Thu, 15 Oct 2026 21:57:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Hub Content Blocks in Flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-a-content-block-in-a-flow#klv-051c5e10</link>
+      <description>Customer Hub Content Blocks in Flows — Carry flow messages onto your website â Add a Customer Hub block action to any flow to show content in each shopper's For You tab.
+
+(Published 2026-10-15)</description>
+      <guid isPermaLink="false">051c5e103bd6779bc122053751227299353598b2</guid>
+      <pubDate>Thu, 15 Oct 2026 21:57:17 +0000</pubDate>
+    </item>
     <item>
       <title>Collect Email Tracking Consent in Sign-Up Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/4413550187035-Understanding-form-blocks-and-fields#klv-1ba102bf</link>
@@ -520,33 +547,6 @@
 (Published 2026-06-26)</description>
       <guid isPermaLink="false">04f420159f918ac93829fbc19eaa69469742eea4</guid>
       <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Agent, Profile Context Tools</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-593d4453</link>
-      <description>Customer Agent, Profile Context Tools — Ground agent responses in real shopper data â use built-in profile tools to read order history, segment membership, and predictive analytics during any conversation.
-
-(Published 2026-06-26)</description>
-      <guid isPermaLink="false">593d4453b041beea67133a798623c04d7278b889</guid>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram 1-to-Many</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/connect-instagram-to-klaviyo#klv-a83eb1d1</link>
-      <description>Instagram 1-to-Many — Run multiple regional Klaviyo accounts from a single global Instagram â connect one Instagram to all your Klaviyo accounts with Social Marketing.
-
-(Published 2026-06-26)</description>
-      <guid isPermaLink="false">a83eb1d12a997ab9f1adfd2f243fe345a2a6d7df</guid>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Agent, Profile Enrichment</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-97c343c2</link>
-      <description>Customer Agent, Profile Enrichment — Turn support conversations into first-party data â use Profile Enrichment to capture shopper preferences and intent as profile properties in real time.
-
-(Published 2026-06-24)</description>
-      <guid isPermaLink="false">97c343c256df1ab64639c4c1aa41bd11ea3022b8</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
