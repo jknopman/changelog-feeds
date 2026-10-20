@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:35:48 +0000</lastBuildDate>
     <item>
       <title>Klaviyo now available in Japanese</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/25956849989531-How-to-change-the-language-for-your-account#klv-7dc4f0d2</link>
@@ -135,13 +135,13 @@
       <pubDate>Tue, 06 Oct 2026 17:03:03 +0000</pubDate>
     </item>
     <item>
-      <title>Onsite Preview</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-1b189c31</link>
-      <description>Onsite Preview — See exactly how shoppers will experience Customer Hub before going live â use Onsite Preview to test and refine your setup without publishing.
+      <title>Onsite Preview in Customer Hub</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-98ecece9</link>
+      <description>Onsite Preview in Customer Hub — See exactly how shoppers will experience Customer Hub before going live â use Onsite Preview to test and refine your setup without publishing.
 
 (Published 2026-10-05)</description>
-      <guid isPermaLink="false">1b189c31a900385ae292c06fdc8c9677037fc9a5</guid>
-      <pubDate>Tue, 06 Oct 2026 02:42:26 +0000</pubDate>
+      <guid isPermaLink="false">98ecece9192d381bef1882e7a588b3629680f73f</guid>
+      <pubDate>Tue, 20 Oct 2026 01:35:48 +0000</pubDate>
     </item>
     <item>
       <title>Customer Hub Editor Redesign</title>
