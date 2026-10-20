@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:07:50 +0000</lastBuildDate>
+    <item>
+      <title>Onsite Previews in Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-dd94dbea</link>
+      <description>Onsite Previews in Forms — See your form before going live â Preview drafts on any page of your site, scan a QR code to test on mobile, and see saved edits refresh automatically.
+
+(Published 2026-10-19)</description>
+      <guid isPermaLink="false">dd94dbea9e36cb0424a70df83de687fcbc008a81</guid>
+      <pubDate>Tue, 20 Oct 2026 22:07:50 +0000</pubDate>
+    </item>
     <item>
       <title>Klaviyo now available in Japanese</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/25956849989531-How-to-change-the-language-for-your-account#klv-7dc4f0d2</link>
@@ -538,15 +547,6 @@
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">665c23704a3924f4775b69e97f816ed04af81b10</guid>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-6f0b58fe</link>
-      <description>Composer — Get an always-on marketing expert that analyzes your performance, audits your flows and campaigns, and drafts messages grounded in your real account data â use Composer to surface your next best move and act on it in minutes.
-
-(Published 2026-06-30)</description>
-      <guid isPermaLink="false">6f0b58fe5fad6726afc151f96ad1791e6e13665a</guid>
-      <pubDate>Thu, 30 Jul 2026 13:54:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
