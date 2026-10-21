@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:19:10 +0000</lastBuildDate>
+    <item>
+      <title>Signatures for Outbound Email Replies in Helpdesk</title>
+      <link>https://www.klaviyo.com/whats-new#klv-1c4592a7</link>
+      <description>Signatures for Outbound Email Replies in Helpdesk — Send polished, consistent support replies without the copy-paste â Set a custom signature with agent name, company name, and logo that's added to every outbound email reply in Helpdesk.
+
+(Published 2026-10-20)</description>
+      <guid isPermaLink="false">1c4592a7fbd014e2a70bca19ec0739709b338c69</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:10 +0000</pubDate>
+    </item>
     <item>
       <title>Onsite Previews in Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-dd94dbea</link>
@@ -537,15 +546,6 @@
 
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">fa5d66956e747520c47a0873bb9a41003ab17503</guid>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - Addressing image sizing inconsistencies</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-665c2370</link>
-      <description>Composer - Addressing image sizing inconsistencies — Get consistent image sizing across content blocks in AI-generated emails â use Composer to create polished grid layouts without manual resizing.
-
-(Published 2026-07-07)</description>
-      <guid isPermaLink="false">665c23704a3924f4775b69e97f816ed04af81b10</guid>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
