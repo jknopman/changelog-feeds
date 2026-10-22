@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:07:37 +0000</lastBuildDate>
+    <item>
+      <title>Brand Styles in Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/creating-branded-forms#klv-cf94a504</link>
+      <description>Brand Styles in Forms — Launch on-brand forms in a few clicks â Set form defaults once, then apply your brand's buttons, text, input fields, and colors to every new form.
+
+(Published 2026-10-22)</description>
+      <guid isPermaLink="false">cf94a504ab951b05fadd79acb41a950815a2a48e</guid>
+      <pubDate>Thu, 22 Oct 2026 22:07:37 +0000</pubDate>
+    </item>
     <item>
       <title>Signatures for Outbound Email Replies in Helpdesk</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/40813502166171-Klaviyo-Helpdesk-Tag-Segment-and-List-routing#klv-1c4592a7</link>
@@ -537,15 +546,6 @@
 
 (Published 2026-07-07)</description>
       <guid isPermaLink="false">a0f56d2fd3a5a338924d9cd69ad85c0b6ecf3664</guid>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - Universal content support</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fa5d6695</link>
-      <description>Composer - Universal content support — Keep your brand elements consistent across AI-generated emails â reference universal content blocks, headers, and footers directly in your Composer prompts.
-
-(Published 2026-07-07)</description>
-      <guid isPermaLink="false">fa5d66956e747520c47a0873bb9a41003ab17503</guid>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
