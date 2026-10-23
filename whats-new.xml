@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:51:29 +0000</lastBuildDate>
+    <item>
+      <title>Version history for email templates</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/4407911841435-Guide-to-the-email-template-editor#klv-477e5db4</link>
+      <description>Version history for email templates — Undo bad template edits without rebuilding from scratch â Preview any saved version of a drag-and-drop email template and restore it, with your current version saved first.
+
+(Published 2026-10-23)</description>
+      <guid isPermaLink="false">477e5db41606b8070e8068e66746c7a423c45a27</guid>
+      <pubDate>Fri, 23 Oct 2026 21:51:29 +0000</pubDate>
+    </item>
     <item>
       <title>Brand Styles in Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/creating-branded-forms#klv-cf94a504</link>
@@ -538,15 +547,6 @@
 (Published 2026-07-08)</description>
       <guid isPermaLink="false">a19f77381c21de9e178bf603c90f137740f56f6d</guid>
       <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - Subject line &amp; preview text intelligence</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-a0f56d2f</link>
-      <description>Composer - Subject line &amp; preview text intelligence — Get subject lines and preview text informed by what's worked for your brand â use Composer to generate email copy based on your historic message performance.
-
-(Published 2026-07-07)</description>
-      <guid isPermaLink="false">a0f56d2fd3a5a338924d9cd69ad85c0b6ecf3664</guid>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
