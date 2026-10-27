@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 23:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:12:58 +0000</lastBuildDate>
+    <item>
+      <title>Export campaign analytics</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360054361092-How-to-export-campaign-analytics#klv-d0f679ff</link>
+      <description>Export campaign analytics — Compare campaign results across email, SMS, push, and WhatsApp in one file â Export a CSV filtered by date, tag, channel, and A/B variation.
+
+(Published 2026-10-27)</description>
+      <guid isPermaLink="false">d0f679ff8572ead08a1093cc0b6b56d0abb39f23</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>In-App Forms API</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-af3a81cf</link>
+      <description>In-App Forms API — Automate mobile form creation with code or AI agents â Create In-App Forms and retrieve them by ID with channel details through the Klaviyo API, just like web forms.
+
+(Published 2026-10-27)</description>
+      <guid isPermaLink="false">af3a81cf438a7d2ca2d7d5ec3d35fd314db5d31f</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Historical Consent Sync from Wix</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/6202669053723-Getting-started-with-Wix#klv-c35af0cd</link>
+      <description>Historical Consent Sync from Wix — Migrate from Wix with email consent intact â Import subscription status automatically during your initial sync, with newer consent always winning and no manual CSV upload.
+
+(Published 2026-10-23)</description>
+      <guid isPermaLink="false">c35af0cdd2f40b33affa67f949e786569a862f69</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:56 +0000</pubDate>
+    </item>
     <item>
       <title>Version history for email templates</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/4407911841435-Guide-to-the-email-template-editor#klv-477e5db4</link>
@@ -25,6 +52,15 @@
 (Published 2026-10-22)</description>
       <guid isPermaLink="false">cf94a504ab951b05fadd79acb41a950815a2a48e</guid>
       <pubDate>Thu, 22 Oct 2026 22:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probabilistic Matching</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/17655007276059-Getting-started-with-Advanced-KDP#klv-c9a2d67a</link>
+      <description>Probabilistic Matching — Keep segments and reporting accurate with cleaner profiles â Merge likely duplicates in Klaviyo based on shared emails, phone numbers, and similar names, with no exports or custom code.
+
+(Published 2026-10-21)</description>
+      <guid isPermaLink="false">c9a2d67aaabc194d3c9663b3a5f80190f87bc4cb</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:55 +0000</pubDate>
     </item>
     <item>
       <title>Signatures for Outbound Email Replies in Helpdesk</title>
@@ -511,42 +547,6 @@
 (Published 2026-07-15)</description>
       <guid isPermaLink="false">a8d08b6f7b7c8b6aae872eb9a33f912f4f4cba97</guid>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social content in marketing messages</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/use-social-content-in-campaigns-flows-and-forms#klv-0d3d6822</link>
-      <description>Social content in marketing messages — Embed your best Instagram posts directly into emails, SMS messages, and sign-up forms without leaving Klaviyo.
-
-(Published 2026-07-14)</description>
-      <guid isPermaLink="false">0d3d6822ac4c0f9d63f81fa34f3837ddccbdfd33</guid>
-      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social Insights Agent - Proactive cards and Composer chat</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights#klv-da0c91c0</link>
-      <description>Social Insights Agent - Proactive cards and Composer chat — Get AI-powered analysis of your Instagram UGCâtop creators, emerging themes, and post performanceâdelivered as proactive insight cards or through Composer chat.
-
-(Published 2026-07-10)</description>
-      <guid isPermaLink="false">da0c91c02d7201e949dc9922009e647471e928c5</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - Campaign brief</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-7d14a11a</link>
-      <description>Composer - Campaign brief — Get faster, more accurate campaign drafts â use Campaign Brief to attach templates, images, coupons, and products before Composer generates your content.
-
-(Published 2026-07-08)</description>
-      <guid isPermaLink="false">7d14a11ab2f1b673eb2a5adc495d017a1dc2ff3e</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manage Email Open Tracking</title>
-      <link>https://uploads.linear.app/d1e44a84-6aa4-4091-8a72-df9caaf28412/46ac99bc-8f32-4a8f-99db-f309be02bb58/4ca2555f-7987-4727-ba14-56bef4983970#klv-a19f7738</link>
-      <description>Manage Email Open Tracking — Meet data privacy requirements for email open tracking â set tracking consent at the account level or for specific recipients.
-
-(Published 2026-07-08)</description>
-      <guid isPermaLink="false">a19f77381c21de9e178bf603c90f137740f56f6d</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
