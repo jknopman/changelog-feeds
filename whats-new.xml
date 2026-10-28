@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:57:22 +0000</lastBuildDate>
+    <item>
+      <title>Location Hub</title>
+      <link>https://help.klaviyo.com/hc/en-us/sections/52159464910363#klv-5d525ba9</link>
+      <description>Location Hub — Reach customers near every location in a few clicks â Add stores and live events to build proximity segments and track in-store revenue with Shopify POS.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">5d525ba9ae210a89b8cd2c7468d19d4b55affdd9</guid>
+      <pubDate>Wed, 28 Oct 2026 22:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spam to Intake Rules in Helpdesk</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360059002271-Guide-to-Klaviyo-Helpdesk#klv-551a6c69</link>
+      <description>Spam to Intake Rules in Helpdesk — Decide what counts as spam in your support queue â Create a custom intake rule when you mark a message as spam so Helpdesk sorts similar future messages correctly.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">551a6c69211c4c47c332c39f0e29bec3b013b6c1</guid>
+      <pubDate>Wed, 28 Oct 2026 22:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart Translations for Consent Pages</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360049498631-How-to-translate-consent-pages-into-different-languages#klv-e79d6a0d</link>
+      <description>Smart Translations for Consent Pages — Give subscribers a localized experience from sign-up onward â Translate hosted subscribe, unsubscribe, and preferences pages plus double opt-in emails into multiple languages with Smart Translations.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">e79d6a0de6c313ad14b736c245ac6c90e6b1ea72</guid>
+      <pubDate>Wed, 28 Oct 2026 22:57:20 +0000</pubDate>
+    </item>
     <item>
       <title>Export campaign analytics</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/360054361092-How-to-export-campaign-analytics#klv-d0f679ff</link>
@@ -520,33 +547,6 @@
 (Published 2026-07-21)</description>
       <guid isPermaLink="false">017f2c2f7ad991f1ced9347509c9858e8a515bc1</guid>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - Push Campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-96dd1ee1</link>
-      <description>Composer - Push Campaigns — Create push notification content faster â use Composer to generate messages for your mobile push campaigns.
-
-(Published 2026-07-20)</description>
-      <guid isPermaLink="false">96dd1ee11e83d84da3af1e1f3db6ba9278c270e7</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Minute-level gradual sending for campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360050216012-Understanding-campaign-schedule-and-send-options#klv-a7cc7f1d</link>
-      <description>Minute-level gradual sending for campaigns — Protect your site from traffic spikes and manage deliverability with finer control â schedule campaign batches as small as 1% per minute instead of hourly intervals.
-
-(Published 2026-07-16)</description>
-      <guid isPermaLink="false">a7cc7f1d3b682c885de4c56655ac1415e02c858c</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>API release 2026-07-15</title>
-      <link>https://developers.klaviyo.com/en/docs/changelog_#klv-a8d08b6f</link>
-      <description>API release 2026-07-15 — Build deeper integrations and automate more of your Klaviyo setup â use new endpoints for custom objects, multi-channel conversations, Customer Agent, and more.
-
-(Published 2026-07-15)</description>
-      <guid isPermaLink="false">a8d08b6f7b7c8b6aae872eb9a33f912f4f4cba97</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
