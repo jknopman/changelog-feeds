@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:19:00 +0000</lastBuildDate>
+    <item>
+      <title>WhatsApp Channel Affinity</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo#klv-b7544950</link>
+      <description>WhatsApp Channel Affinity — Reach WhatsApp-first shoppers on the channel they prefer â Build segments using WhatsApp channel affinity rankings alongside email, SMS, and push predictions.
+
+(Published 2026-10-29)</description>
+      <guid isPermaLink="false">b75449508e8061b260d4cd03cbe354c49c3d6d49</guid>
+      <pubDate>Thu, 29 Oct 2026 17:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Location Hub</title>
       <link>https://help.klaviyo.com/hc/en-us/sections/52159464910363#klv-5d525ba9</link>
@@ -537,15 +546,6 @@
 
 (Published 2026-07-21)</description>
       <guid isPermaLink="false">a4024151ad28339c6a232717d8e6e61b4d161416</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A/B Testing in WhatsApp Flow</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-do-a-b-testing-in-whatsapp-flow#klv-017f2c2f</link>
-      <description>A/B Testing in WhatsApp Flow — Find your highest-performing WhatsApp message faster â add A/B tests directly inside any flow to compare content and auto-select the winner.
-
-(Published 2026-07-21)</description>
-      <guid isPermaLink="false">017f2c2f7ad991f1ced9347509c9858e8a515bc1</guid>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
