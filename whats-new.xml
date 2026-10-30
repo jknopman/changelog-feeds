@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:47:37 +0000</lastBuildDate>
+    <item>
+      <title>Expanded Product Recommendations for Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-e189e6b5</link>
+      <description>Expanded Product Recommendations for Customer Agent — Help more shoppers find what to buy in chat â Use Customer Agent on WooCommerce and Magento 2 to recommend in-stock products with prices, images, and links.
+
+(Published 2026-10-30)</description>
+      <guid isPermaLink="false">e189e6b54e6893d77bce58850510eddfb2ed7ad4</guid>
+      <pubDate>Fri, 30 Oct 2026 22:47:37 +0000</pubDate>
+    </item>
     <item>
       <title>WhatsApp Channel Affinity</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo#klv-b7544950</link>
@@ -25,6 +34,15 @@
 (Published 2026-10-28)</description>
       <guid isPermaLink="false">5d525ba9ae210a89b8cd2c7468d19d4b55affdd9</guid>
       <pubDate>Wed, 28 Oct 2026 22:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artifacts in Composer</title>
+      <link>https://www.klaviyo.com/whats-new#klv-2413742c</link>
+      <description>Artifacts in Composer — Anything Composer makes can become an artifact: a live web page with its own link, built from a single ask.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">2413742cc7f949cf654686f102f50d6b68ad7001</guid>
+      <pubDate>Fri, 30 Oct 2026 22:47:36 +0000</pubDate>
     </item>
     <item>
       <title>Spam to Intake Rules in Helpdesk</title>
@@ -529,24 +547,6 @@
 (Published 2026-07-27)</description>
       <guid isPermaLink="false">1973e512ecc6ae914bb8fca6f833b62a65c41ba3</guid>
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A/B testing with personalized send time</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time#klv-036905d0</link>
-      <description>A/B testing with personalized send time — Use content A/B testing and personalized send time together in the same campaign to test different message content while still delivering at each recipient's optimal time.
-
-(Published 2026-07-27)</description>
-      <guid isPermaLink="false">036905d0d696ac5fb715ab4b4c971c612fb6a0e4</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer - AI Image Controls</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-composer-responsibly-ai-disclosure#klv-a4024151</link>
-      <description>Composer - AI Image Controls — Control how Composer uses AI with your images â toggle AI-generated images on or off and choose whether Composer can edit your existing brand assets.
-
-(Published 2026-07-21)</description>
-      <guid isPermaLink="false">a4024151ad28339c6a232717d8e6e61b4d161416</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
