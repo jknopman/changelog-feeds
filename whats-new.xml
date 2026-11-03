@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:52:13 +0000</lastBuildDate>
+    <item>
+      <title>Downloadable files from Composer artifacts</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-bc5e1830</link>
+      <description>Downloadable files from Composer artifacts — Bring reports and slides to your next meeting â Ask Composer for a dashboard PDF, site or a downloadable PowerPoint deck.
+
+(Published 2026-11-03)</description>
+      <guid isPermaLink="false">bc5e1830d5278cf9acbc4ebc85a4c74127a2e62c</guid>
+      <pubDate>Tue, 03 Nov 2026 23:52:13 +0000</pubDate>
+    </item>
     <item>
       <title>Manage Email Tracking Consent on Preference Pages</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/manage-email-tracking-consent-on-your-preference-page#klv-cd60ad40</link>
@@ -36,13 +45,13 @@
       <pubDate>Tue, 03 Nov 2026 03:50:32 +0000</pubDate>
     </item>
     <item>
-      <title>Customer Agent Source Attribution</title>
-      <link>https://www.klaviyo.com/whats-new#klv-ca05257e</link>
-      <description>Customer Agent Source Attribution — Know which messages drive AI-assisted sales â View Customer Agent revenue by flow, campaign, and web chat conversation starter in Service Overview, then ask Composer to dig in.
+      <title>Source Attribution in Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-42d4f753</link>
+      <description>Source Attribution in Customer Agent — Know which messages drive AI-assisted sales â View Customer Agent revenue by flow, campaign, and web chat conversation starter in Service Overview, then ask Composer to dig in.
 
 (Published 2026-11-02)</description>
-      <guid isPermaLink="false">ca05257e58afbbe44595b71143c0dc045edd7acf</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:31 +0000</pubDate>
+      <guid isPermaLink="false">42d4f753afc5f1582c4fb418f3190c58affcfb57</guid>
+      <pubDate>Tue, 03 Nov 2026 23:52:12 +0000</pubDate>
     </item>
     <item>
       <title>Improved Auto-Reply Editor</title>
@@ -55,7 +64,7 @@
     </item>
     <item>
       <title>Send to Primary Device</title>
-      <link>https://www.klaviyo.com/whats-new#klv-05f43309</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/15594685536539-Understand-push-notification-delivery#klv-05f43309</link>
       <description>Send to Primary Device — Reduce push costs and repeat notifications â Send push messages only to each customer's most active device with a new toggle in campaign and flow builders.
 
 (Published 2026-11-02)</description>
@@ -82,7 +91,7 @@
     </item>
     <item>
       <title>Assignment Notification Emails in Helpdesk</title>
-      <link>https://www.klaviyo.com/whats-new#klv-f4b81cb0</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360059002271-Guide-to-Klaviyo-Helpdesk#klv-f4b81cb0</link>
       <description>Assignment Notification Emails in Helpdesk — Catch new ticket assignments right away, even outside the helpdesk â Turn on assignment emails in Helpdesk settings to get notified each time a ticket is assigned to you.
 
 (Published 2026-10-30)</description>
@@ -235,7 +244,7 @@
     </item>
     <item>
       <title>Rewrite with Composer</title>
-      <link>https://www.klaviyo.com/whats-new#klv-a1342a35</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-a1342a35</link>
       <description>Rewrite with Composer — Polish your copy without leaving the editor. In the drag and drop email editor, rewrite any text block with Composer and apply the new version in one click.
 
 (Published 2026-10-26)</description>
@@ -262,7 +271,7 @@
     </item>
     <item>
       <title>Support now opens Composer</title>
-      <link>https://www.klaviyo.com/whats-new#klv-2613f03f</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-2613f03f</link>
       <description>Support now opens Composer — Get help with more room to work. Clicking Support in the header, sidebar or mobile menu now opens a full page Composer chat instead of the old Support window.
 
 (Published 2026-10-23)</description>
@@ -358,6 +367,15 @@
 (Published 2026-10-19)</description>
       <guid isPermaLink="false">656e7c085673aaa05511b3143141cf9d031de8e8</guid>
       <pubDate>Tue, 03 Nov 2026 03:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQL and results behind answer in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-656c3c86</link>
+      <description>SQL and results behind answer in Composer — For analytics answers, read the SQL Composer ran and see the rows it got back on a Results tab.
+
+(Published 2026-10-19)</description>
+      <guid isPermaLink="false">656c3c8652aea7e387eaa15ff197f802214e46db</guid>
+      <pubDate>Tue, 03 Nov 2026 23:52:11 +0000</pubDate>
     </item>
     <item>
       <title>Skills as cards in Composer</title>
@@ -460,7 +478,7 @@
     </item>
     <item>
       <title>Prompt ideas for connectors in Composer</title>
-      <link>https://www.klaviyo.com/whats-new#klv-9149b414</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-9149b414</link>
       <description>Prompt ideas for connectors in Composer — Each connector suggests ideas, like promoting your Shopify best sellers, that start a chat in one click. The + button and @ now open the same menu.
 
 (Published 2026-10-14)</description>
@@ -529,24 +547,6 @@
 (Published 2026-10-08)</description>
       <guid isPermaLink="false">ee3a81c3dd1ae29171e71e29978f045573e5797f</guid>
       <pubDate>Thu, 08 Oct 2026 23:38:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pay in Canadian Dollars</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/paying-for-klaviyo-in-local-currency#klv-58940c4d</link>
-      <description>Pay in Canadian Dollars — Pay for Klaviyo in Canadian dollars â Choose CAD as a new Canadian customer to see pricing, sign contracts, pay, and get invoices in your home currency.
-
-(Published 2026-10-06)</description>
-      <guid isPermaLink="false">58940c4d75dd87f16922c98b199071b22e399980</guid>
-      <pubDate>Tue, 06 Oct 2026 17:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Onsite Preview in Customer Hub</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/33660517680795-How-to-create-content-blocks-for-Customer-Hub#klv-98ecece9</link>
-      <description>Onsite Preview in Customer Hub — See exactly how shoppers will experience Customer Hub before going live â use Onsite Preview to test and refine your setup without publishing.
-
-(Published 2026-10-05)</description>
-      <guid isPermaLink="false">98ecece9192d381bef1882e7a588b3629680f73f</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
