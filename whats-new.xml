@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Shopify edits in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-cb8c3750</link>
+      <description>Shopify edits in Composer — Update your store without leaving Klaviyo â Ask Composer to make changes in Shopify, from prices to discount codes.
+
+(Published 2026-11-02)</description>
+      <guid isPermaLink="false">cb8c37509607a416a40ac9f6c346db3b2da75499</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer now connects with Asana</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-7183246a</link>
+      <description>Composer now connects with Asana — Go from brief to campaign without copying anything over â Connect Asana and Composer turns your briefs and calendar into Klaviyo campaigns and flows.
+
+(Published 2026-11-02)</description>
+      <guid isPermaLink="false">7183246a2744abc039e2630b75920ca57b325a18</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Agent Source Attribution</title>
+      <link>https://www.klaviyo.com/whats-new#klv-ca05257e</link>
+      <description>Customer Agent Source Attribution — Know which messages drive AI-assisted sales â View Customer Agent revenue by flow, campaign, and web chat conversation starter in Service Overview, then ask Composer to dig in.
+
+(Published 2026-11-02)</description>
+      <guid isPermaLink="false">ca05257e58afbbe44595b71143c0dc045edd7acf</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:31 +0000</pubDate>
+    </item>
     <item>
       <title>Improved Auto-Reply Editor</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-cbd685a0</link>
@@ -52,6 +79,24 @@
 (Published 2026-10-30)</description>
       <guid isPermaLink="false">f4b81cb0a8e465021c7f9c17b4d5bb76633ab491</guid>
       <pubDate>Mon, 02 Nov 2026 20:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simpler usage meter in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-928f5c13</link>
+      <description>Simpler usage meter in Composer — One bar shows how much you've used and when it resets, with a warning at 85%. Billing usage reports now include Composer credits.
+
+(Published 2026-10-29)</description>
+      <guid isPermaLink="false">928f5c13db8f730df7fe4e7a9126e34be996cccb</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private or shared skills in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-b0ce8b56</link>
+      <description>Private or shared skills in Composer — When you create a skill, choose whether to keep it private or share it with your team.
+
+(Published 2026-10-29)</description>
+      <guid isPermaLink="false">b0ce8b562d143d8c476c8f68a292ef7237b4b387</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:29 +0000</pubDate>
     </item>
     <item>
       <title>Enhanced Capabilities - HTML Content Blocks</title>
@@ -99,13 +144,13 @@
       <pubDate>Wed, 28 Oct 2026 22:57:21 +0000</pubDate>
     </item>
     <item>
-      <title>Composer: Live Product Experts in Composer chat</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115001002272-How-to-contact-support#klv-51079f13</link>
-      <description>Composer: Live Product Experts in Composer chat — Get answers and live help without repeating yourself â Click Support to ask Composer, then connect with a Product Expert in the same chat with context carried over.
+      <title>Live Product Experts in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115001002272-How-to-contact-support#klv-ae4fd266</link>
+      <description>Live Product Experts in Composer — Get answers and live help without repeating yourself â Click Support to ask Composer, then connect with a Product Expert in the same chat with context carried over.
 
 (Published 2026-10-28)</description>
-      <guid isPermaLink="false">51079f131e3cf75c4036dca7cc7931baf3ad36e5</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:14 +0000</pubDate>
+      <guid isPermaLink="false">ae4fd26683c7c2b06aec7fa795f4c99b3f0c7f87</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:28 +0000</pubDate>
     </item>
     <item>
       <title>Smart Translations for Consent Pages</title>
@@ -135,6 +180,15 @@
       <pubDate>Tue, 27 Oct 2026 16:12:57 +0000</pubDate>
     </item>
     <item>
+      <title>Add to Composer from Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-2cda6d02</link>
+      <description>Add to Composer from Campaigns — Campaigns and flows in your lists have an Add to Composer button that drops them into the chat for reference.
+
+(Published 2026-10-23)</description>
+      <guid isPermaLink="false">2cda6d02b89355b561089e300c35248f06037426</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Historical Consent Sync from Wix</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/6202669053723-Getting-started-with-Wix#klv-c35af0cd</link>
       <description>Historical Consent Sync from Wix — Migrate from Wix with email consent intact â Import subscription status automatically during your initial sync, with newer consent always winning and no manual CSV upload.
@@ -153,6 +207,15 @@
       <pubDate>Fri, 23 Oct 2026 21:51:29 +0000</pubDate>
     </item>
     <item>
+      <title>Create a segment from the segment drawer with Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-40a789c1</link>
+      <description>Create a segment from the segment drawer with Composer — Start a segment with Composer from the Create segment drawer in Lists &amp; segments.
+
+(Published 2026-10-22)</description>
+      <guid isPermaLink="false">40a789c1c1c3895fe7eb3d136343aabeb4d8524a</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Brand Styles in Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/creating-branded-forms#klv-cf94a504</link>
       <description>Brand Styles in Forms — Launch on-brand forms in a few clicks â Set form defaults once, then apply your brand's buttons, text, input fields, and colors to every new form.
@@ -160,6 +223,15 @@
 (Published 2026-10-22)</description>
       <guid isPermaLink="false">cf94a504ab951b05fadd79acb41a950815a2a48e</guid>
       <pubDate>Thu, 22 Oct 2026 22:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@mention campaigns and flows in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fedde11f</link>
+      <description>@mention campaigns and flows in Composer — Point Composer at exactly the right work. Type @ to find a campaign or flow by name, so Composer works on the one you picked.
+
+(Published 2026-10-21)</description>
+      <guid isPermaLink="false">fedde11f9b603b2f3548727a9002133d2081907b</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:25 +0000</pubDate>
     </item>
     <item>
       <title>Probabilistic Matching</title>
@@ -180,6 +252,24 @@
       <pubDate>Wed, 21 Oct 2026 01:19:10 +0000</pubDate>
     </item>
     <item>
+      <title>Copy a campaign in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-656e7c08</link>
+      <description>Copy a campaign in Composer — Build on campaigns that already work. Ask Composer to copy a saved campaign and change it, then preview the copy before Composer creates it with your approval.
+
+(Published 2026-10-19)</description>
+      <guid isPermaLink="false">656e7c085673aaa05511b3143141cf9d031de8e8</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills as cards in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-db3275a0</link>
+      <description>Skills as cards in Composer — Each skill shows a preview of its contents, with search and a list view.
+
+(Published 2026-10-19)</description>
+      <guid isPermaLink="false">db3275a03ed87b5ddb18e8273c2f6c1a1fde344c</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Customer Agent: Performance Improvements</title>
       <link>https://www.klaviyo.com/whats-new#klv-248b511c</link>
       <description>Customer Agent: Performance Improvements — Answer shoppers faster and more reliably with AI â Resolve complex questions with upgraded knowledge retrieval that speeds up every Customer Agent response and cuts failed replies.
@@ -196,6 +286,15 @@
 (Published 2026-10-19)</description>
       <guid isPermaLink="false">dd94dbea9e36cb0424a70df83de687fcbc008a81</guid>
       <pubDate>Tue, 20 Oct 2026 22:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Set audiences per message in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-47e0b494</link>
+      <description>Set audiences per message in Composer — Composer can set who gets each message in a campaign, remove a message or audience, and copy a message to another audience, all shown in the preview for approval.
+
+(Published 2026-10-16)</description>
+      <guid isPermaLink="false">47e0b4943e4a1c9de5b636a22fccb43ac98adafa</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:22 +0000</pubDate>
     </item>
     <item>
       <title>Klaviyo now available in Japanese</title>
@@ -261,6 +360,15 @@
       <pubDate>Fri, 16 Oct 2026 21:55:27 +0000</pubDate>
     </item>
     <item>
+      <title>Prompt ideas for connectors in Composer</title>
+      <link>https://www.klaviyo.com/whats-new#klv-9149b414</link>
+      <description>Prompt ideas for connectors in Composer — Each connector suggests ideas, like promoting your Shopify best sellers, that start a chat in one click. The + button and @ now open the same menu.
+
+(Published 2026-10-14)</description>
+      <guid isPermaLink="false">9149b414439375d24bddf0ee7a112d0de36d25d8</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Collect Email Tracking Consent in Sign-Up Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/4413550187035-Understanding-form-blocks-and-fields#klv-1ba102bf</link>
       <description>Collect Email Tracking Consent in Sign-Up Forms — Keep measuring email engagement while staying compliant with EU privacy rules â Collect explicit marketing and email tracking consent from new subscribers in your sign-up forms.
@@ -286,6 +394,15 @@
 (Published 2026-10-14)</description>
       <guid isPermaLink="false">57b72b5d0e2b6654c83c08196570751303ba187b</guid>
       <pubDate>Thu, 15 Oct 2026 01:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>BFCM Hub Composer Card</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-d1c8534a</link>
+      <description>BFCM Hub Composer Card — A ready-made BFCM prompt for your business starts a chat in one click.
+
+(Published 2026-10-13)</description>
+      <guid isPermaLink="false">d1c8534afb2942a0e8086c17dcc1e27584b516da</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:20 +0000</pubDate>
     </item>
     <item>
       <title>The new Composer is live</title>
@@ -333,6 +450,15 @@
       <pubDate>Tue, 20 Oct 2026 01:35:48 +0000</pubDate>
     </item>
     <item>
+      <title>New bottom bar in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-b6d9a0c7</link>
+      <description>New bottom bar in Composer — Composer now sits in a bar at the bottom of the app, with a centered input that expands up over the page.
+
+(Published 2026-10-02)</description>
+      <guid isPermaLink="false">b6d9a0c74d773901d8528218965cbf8d759ed2f1</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Customer Hub Editor Redesign</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/33660324811675-Getting-started-with-Customer-Hub-on-Shopify#klv-1a4777a4</link>
       <description>Customer Hub Editor Redesign — Find Customer Hub controls faster with a familiar Klaviyo editor layout â Use universal left navigation, one in-context panel for content and integrations, and consistent Content and Targeting tabs.
@@ -340,6 +466,15 @@
 (Published 2026-10-02)</description>
       <guid isPermaLink="false">1a4777a41080c4a8cfa74452dd430002020177d6</guid>
       <pubDate>Tue, 06 Oct 2026 02:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attach from the asset library in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-1e09ffe9</link>
+      <description>Attach from the asset library in Composer — Skip the downloads and add images from your Klaviyo asset library straight to a Composer chat.
+
+(Published 2026-09-30)</description>
+      <guid isPermaLink="false">1e09ffe9c7bc0eae2b918b56ce65b0db4b8a4d6e</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:18 +0000</pubDate>
     </item>
     <item>
       <title>Send push notifications to primary device only</title>
@@ -351,6 +486,42 @@
       <pubDate>Tue, 06 Oct 2026 02:42:23 +0000</pubDate>
     </item>
     <item>
+      <title>Help article citations in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-b6b125ae</link>
+      <description>Help article citations in Composer — Trust what Composer tells you. Answers now show which Klaviyo help articles they came from, so you can check the source.
+
+(Published 2026-09-29)</description>
+      <guid isPermaLink="false">b6b125aef81076b7eba5fcec3711e9bdcc3918e4</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push Campaigns in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-f3cc9a42</link>
+      <description>Push Campaigns in Composer — Composer creates and edits push campaigns, with a preview you review before anything is saved.
+
+(Published 2026-09-28)</description>
+      <guid isPermaLink="false">f3cc9a42a348e3fa0e7b1df4e1a54fbff77bdcc7</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preview new campaigns in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-11697164</link>
+      <description>Preview new campaigns in Composer — See the name, channel, schedule and content of a campaign Composer proposes before it's created.
+
+(Published 2026-09-24)</description>
+      <guid isPermaLink="false">11697164b121dc3d92b64dcaabb9cf0dc32b4efa</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp campaigns in Composer</title>
+      <link>https://www.klaviyo.com/whats-new#klv-57300336</link>
+      <description>WhatsApp campaigns in Composer — Ask Composer to create and edit WhatsApp campaigns end to end, with previews and approval.
+
+(Published 2026-09-24)</description>
+      <guid isPermaLink="false">57300336bdce0fd16e874cbf442281bc3f0da2f1</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Forms in Flows</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-a-sign-up-form-to-a-flow#klv-2c8b2806</link>
       <description>Forms in Flows — Build seamless customer journeys that trigger forms at exactly the right moment â add forms as a native flow action alongside email, SMS, push, and WhatsApp.
@@ -360,6 +531,15 @@
       <pubDate>Wed, 23 Sep 2026 15:18:23 +0000</pubDate>
     </item>
     <item>
+      <title>Full-page campaign preview in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-c6433408</link>
+      <description>Full-page campaign preview in Composer — See every proposed change before it goes live. Composer groups its email and SMS edits into one card you can open on a full page, then accept or dismiss.
+
+(Published 2026-09-18)</description>
+      <guid isPermaLink="false">c6433408d2146863f0d9cd22d0efba27f8db5269</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Animations in Sign-up Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-508ef6a2</link>
       <description>Animations in Sign-up Forms — Make your forms feel native to your site with motion â Add fade, slide, zoom, or pulse animations to any form element in a few clicks, no custom CSS required.
@@ -367,186 +547,6 @@
 (Published 2026-09-18)</description>
       <guid isPermaLink="false">508ef6a2026a774e507b1f840e0f714c4681c710</guid>
       <pubDate>Fri, 18 Sep 2026 18:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>User Generated Content Consent &amp; Use in Social</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/record-creator-consent-use-social-ugc#klv-44bbe060</link>
-      <description>User Generated Content Consent &amp; Use in Social — Repurpose high-converting social content across emails, forms, and flows â mark user generated content (UGC) as consent-approved and insert it directly from the media picker.
-
-(Published 2026-09-16)</description>
-      <guid isPermaLink="false">44bbe0601b6c2376b663668c2c45efe957dd7396</guid>
-      <pubDate>Thu, 17 Sep 2026 21:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figma Plugin: EU Data Residency Support</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/using-the-klaviyo-plugin-for-figma#klv-da8f4f7d</link>
-      <description>Figma Plugin: EU Data Residency Support — Design teams on EU-hosted Klaviyo accounts can now use the full Figma plugin â connect your EU Data Residency account to sync templates and design assets.
-
-(Published 2026-09-11)</description>
-      <guid isPermaLink="false">da8f4f7d3e24f07a5b04146ffab89752f6456b78</guid>
-      <pubDate>Thu, 17 Sep 2026 21:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quiet hours in Campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/quiet-hours-in-campaigns#klv-b2aeedfd</link>
-      <description>Quiet hours in Campaigns — Protect your text campaigns from compliance risk across time zones â set messages to delay or skip automatically when they'd land during quiet hours.
-
-(Published 2026-09-10)</description>
-      <guid isPermaLink="false">b2aeedfdb888e6af9fa396c2f10eb5512ddbaad3</guid>
-      <pubDate>Thu, 17 Sep 2026 21:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manage Click Tracking</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-manage-click-tracking#klv-8091fd25</link>
-      <description>Manage Click Tracking — Meet data privacy requirements with granular control over email click tracking â disable tracking account-wide, for specific recipients based on consent, or for individual links.
-
-(Published 2026-09-08)</description>
-      <guid isPermaLink="false">8091fd253c4a2aee4a667accdfda37fc3faccfbd</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Channel performance dashboard</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-the-channel-performance-dashboard#klv-2f536950</link>
-      <description>Channel performance dashboard — Compare Email, SMS, WhatsApp, and Push performance in one view â track attributed value, deliverability, and engagement across every channel you send on.
-
-(Published 2026-09-08)</description>
-      <guid isPermaLink="false">2f53695043dd2ad7e91ddef10bfc594f68b96b4a</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom HTML Block for In-App Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-html-block-in-sign-up-forms#klv-39f85be7</link>
-      <description>Custom HTML Block for In-App Forms — Build comparison tables, custom layouts, and richer formatting inside your mobile app forms â add a Custom HTML block and write your own markup.
-
-(Published 2026-09-08)</description>
-      <guid isPermaLink="false">39f85be7e61ce65e4799b9fca9af591776278d4e</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Punchh SMS Consent Sync</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-sync-sms-consent-with-par-punchh#klv-218ee79f</link>
-      <description>Punchh SMS Consent Sync — Activate SMS consent collected at Punchh loyalty signup with full double opt-in compliance â sync the integration to keep both systems aligned automatically.
-
-(Published 2026-09-03)</description>
-      <guid isPermaLink="false">218ee79f8d268ddf1da10b91ee633cd8cf29129c</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple RFM Models</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/create-multiple-rfm-models#klv-9fce4c05</link>
-      <description>Multiple RFM Models — Score customers accurately across different business lines â create up to four independent RFM models, each with its own conversion metric, thresholds, and time frame.
-
-(Published 2026-09-03)</description>
-      <guid isPermaLink="false">9fce4c05269b9ed3d1137ea7e2bb16aba05032e8</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newly Published Apps: August Round-Up</title>
-      <link>https://www.klaviyo.com/whats-new#klv-036a08b5</link>
-      <description>Newly Published Apps: August Round-Up — Extend Klaviyo with 24 new integrations spanning CTV advertising, mobile push, direct mail, and delivery tracking â browse the App Marketplace to find the right solution for your business.
-
-(Published 2026-09-02)</description>
-      <guid isPermaLink="false">036a08b5b6eeb6232ca92a18254a19fee49717ab</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open External URL Action for Push and In-App Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/12932500186907-Understanding-your-push-notification-settings#klv-af403159</link>
-      <description>Open External URL Action for Push and In-App Forms — Send customers straight to any web page, email, or phone call from push notifications and in-app forms â set the external URL action type in your button or open settings.
-
-(Published 2026-09-01)</description>
-      <guid isPermaLink="false">af403159275841996aee767e9a76b719a8c4321b</guid>
-      <pubDate>Tue, 01 Sep 2026 21:36:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>First-Party ID</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-first-party-id#klv-5889107d</link>
-      <description>First-Party ID — Recognize more returning visitors on Safari and other restrictive browsers â set up First-Party ID to extend your Klaviyo cookie window from 24 hours to 7 days.
-
-(Published 2026-09-01)</description>
-      <guid isPermaLink="false">5889107d5c7f7f329b5401577c3678335c9b7fd6</guid>
-      <pubDate>Tue, 08 Sep 2026 18:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comments in Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/sections/14560094570651#klv-6248c2c5</link>
-      <description>Comments in Forms — Keep form feedback where it belongs â add comments directly on any block, reply and resolve in one panel, and click any thread to jump to that step or A/B version.
-
-(Published 2026-09-01)</description>
-      <guid isPermaLink="false">6248c2c52a2eead11c21260b87df85cff1eef4ae</guid>
-      <pubDate>Tue, 01 Sep 2026 21:36:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personalized Send Time: Customize Control Group and Aggregate Analytics</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/45231714007323-Drive-performance-with-right-time-delivery-using-Personalized-Send-Time#klv-79e9f708</link>
-      <description>Personalized Send Time: Customize Control Group and Aggregate Analytics — See how your AI-optimized send times perform against the baseline you choose â set a fixed time or use historical patterns, then view grouped analytics across campaigns.
-
-(Published 2026-08-27)</description>
-      <guid isPermaLink="false">79e9f7084144f16e7ba1ab2bc34cc6e0202b8a05</guid>
-      <pubDate>Thu, 27 Aug 2026 20:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next Best Product Price and Stock Filters</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/53450584076827-customizing-your-next-best-product-nbp-recommendations#klv-9f04c93b</link>
-      <description>Next Best Product Price and Stock Filters — Keep low-value and out-of-stock items out of customer-facing recommendations â set minimum price, maximum price, and stock thresholds for Next Best Product at the account level.
-
-(Published 2026-08-27)</description>
-      <guid isPermaLink="false">9f04c93b0eb4a42b2bcbadce8d2e80c67023523a</guid>
-      <pubDate>Tue, 01 Sep 2026 21:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Analysis &amp; Category Analysis settings decoupled in Catalog Insights</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/26685770823451-Getting-started-with-the-product-analysis-dashboard#klv-a12ea26e</link>
-      <description>Product Analysis &amp; Category Analysis settings decoupled in Catalog Insights — Customize exclusions for Product Analysis and Category Analysis separately â set independent filters in Catalog Insights so changes to one view don't affect the other.
-
-(Published 2026-08-27)</description>
-      <guid isPermaLink="false">a12ea26e5f9043bbf0d2699ad3895abee6afa570</guid>
-      <pubDate>Thu, 27 Aug 2026 20:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personalized SMS Content - BETA</title>
-      <link>https://www.klaviyo.com/whats-new#klv-ecfd2ecb</link>
-      <description>Personalized SMS Content - BETA — Send SMS and RCS messages tailored to each customer's browsing, cart activity, and purchase intent â use in Added to Cart, Viewed Product, Started Checkout, Back in Stock, Price Drop, and Win Back flows with built-in A/B testing and performance reporting.
-
-(Published 2026-08-25)</description>
-      <guid isPermaLink="false">ecfd2ecba97237e0ff867a4c60f6c4ac61b08726</guid>
-      <pubDate>Tue, 25 Aug 2026 23:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flows 2.0</title>
-      <link>https://www.klaviyo.com/whats-new#klv-62a39a68</link>
-      <description>Flows 2.0 — Run high-volume flows faster with a rebuilt processing engine that handles over 74,000 profiles per second.
-
-(Published 2026-08-18)</description>
-      <guid isPermaLink="false">62a39a68fab4331a29015feee95841a36201e86c</guid>
-      <pubDate>Tue, 18 Aug 2026 19:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>In-App Forms Template Library</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/34567685177883-How-to-create-an-in-app-form#klv-63b1e0dd</link>
-      <description>In-App Forms Template Library — Launch polished in-app forms faster with professionally designed templates.
-
-(Published 2026-08-14)</description>
-      <guid isPermaLink="false">63b1e0ddf5ddf8753700a435b96284a9f55492c3</guid>
-      <pubDate>Fri, 14 Aug 2026 19:47:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom HTML Block for Sign-up Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-custom-html-block-in-sign-up-forms#klv-cddc286b</link>
-      <description>Custom HTML Block for Sign-up Forms — Add a Custom HTML block to your sign-up forms and build tables, custom layouts, or richer formatting that standard blocks can't deliver.
-
-(Published 2026-08-14)</description>
-      <guid isPermaLink="false">cddc286bdfe9c2ceafe52786b13e8fb236674116</guid>
-      <pubDate>Fri, 14 Aug 2026 19:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>OAuth 2.0 for Salesforce integration</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115005081947-How-to-integrate-with-Salesforce-CRM#klv-baaf2420</link>
-      <description>OAuth 2.0 for Salesforce integration — Keep your Salesforce integration running without password-expiration failures â connect with OAuth 2.0 for a more reliable sync.
-
-(Published 2026-08-14)</description>
-      <guid isPermaLink="false">baaf242026771dadd45d3c1c36287f745740d9bc</guid>
-      <pubDate>Fri, 14 Aug 2026 19:47:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
