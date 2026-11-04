@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 23:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:28:20 +0000</lastBuildDate>
     <item>
       <title>Downloadable files from Composer artifacts</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-bc5e1830</link>
@@ -72,13 +72,13 @@
       <pubDate>Mon, 02 Nov 2026 20:38:18 +0000</pubDate>
     </item>
     <item>
-      <title>Expanded Product Recommendations for Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-e189e6b5</link>
-      <description>Expanded Product Recommendations for Customer Agent — Help more shoppers find what to buy in chat â Use Customer Agent on WooCommerce and Magento 2 to recommend in-stock products with prices, images, and links.
+      <title>Custom events from skills in Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-e4161f75</link>
+      <description>Custom events from skills in Customer Agent — Add a Send event step to a skill to write a custom event to a customerâs profile timeline. Pick the metric, then fill each property from the agentâs response, a fixed value, or profile data. Works for authenticated customers.
 
 (Published 2026-10-30)</description>
-      <guid isPermaLink="false">e189e6b54e6893d77bce58850510eddfb2ed7ad4</guid>
-      <pubDate>Fri, 30 Oct 2026 22:47:37 +0000</pubDate>
+      <guid isPermaLink="false">e4161f75f37df1f47579043758cde6054896ffc3</guid>
+      <pubDate>Wed, 04 Nov 2026 18:28:20 +0000</pubDate>
     </item>
     <item>
       <title>Sync up to 6 objects with the SFDC integration</title>
@@ -144,6 +144,15 @@
       <pubDate>Thu, 29 Oct 2026 17:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>Meta Ads connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-meta-ads-with-composer#klv-b90d113e</link>
+      <description>Meta Ads connector in Composer — Composer now connects to Meta Ads. Marketers can ask how their Facebook and Instagram ads are performing and get answers that combine Meta Ads data with Klaviyo customer data, then turn what they learn into Klaviyo campaigns. The connector is read-only: it reads ad accounts, campaigns, ad sets, ads, creatives, budgets, statuses and performance, but doesn't change targeting, budgets or ads. Changes still happen in Meta Ads Manager.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">b90d113ecd6345f8528f9016d924784104f9a7c4</guid>
+      <pubDate>Wed, 04 Nov 2026 18:28:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Floating Composer bar</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-1321b438</link>
       <description>Floating Composer bar — Ask Composer from anywhere in Klaviyo. Its input box follows you from page to page, with prompts that fit where you are and keep open and hide controls.
@@ -172,7 +181,7 @@
     </item>
     <item>
       <title>Artifacts in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-2413742c</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-2413742c</link>
       <description>Artifacts in Composer — Anything Composer makes can become an artifact: a live web page with its own link, built from a single ask.
 
 (Published 2026-10-28)</description>
@@ -306,6 +315,15 @@
       <pubDate>Tue, 27 Oct 2026 16:12:56 +0000</pubDate>
     </item>
     <item>
+      <title>Product Recommendations in WooCommerce and Magento for Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-b598342b</link>
+      <description>Product Recommendations in WooCommerce and Magento for Customer Agent — Help more shoppers find what to buy in chat â Use Customer Agent on WooCommerce and Magento 2 to recommend in-stock products with prices, images, and links.
+
+(Published 2026-10-23)</description>
+      <guid isPermaLink="false">b598342b0cf4bef8598089d3481c13098c7cffa8</guid>
+      <pubDate>Wed, 04 Nov 2026 18:28:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Version history for email templates</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/4407911841435-Guide-to-the-email-template-editor#klv-477e5db4</link>
       <description>Version history for email templates — Undo bad template edits without rebuilding from scratch â Preview any saved version of a drag-and-drop email template and restore it, with your current version saved first.
@@ -370,7 +388,7 @@
     </item>
     <item>
       <title>SQL and results behind answer in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-656c3c86</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-sql-in-composer-and-the-klaviyo-mcp-server#klv-656c3c86</link>
       <description>SQL and results behind answer in Composer — For analytics answers, read the SQL Composer ran and see the rows it got back on a Results tab.
 
 (Published 2026-10-19)</description>
@@ -529,24 +547,6 @@
 (Published 2026-10-13)</description>
       <guid isPermaLink="false">fcca945eabe18ce719eb0ac40a6a3dc77cf668df</guid>
       <pubDate>Wed, 14 Oct 2026 15:42:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Owned Social Insights</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-social-insights#klv-9289f5f8</link>
-      <description>Owned Social Insights — See what drives Instagram engagement without digging through data â Review daily insights on your best formats, topics, and posting times in the social content library.
-
-(Published 2026-10-08)</description>
-      <guid isPermaLink="false">9289f5f82f1e951a99594680cf7f5c557ed7b14a</guid>
-      <pubDate>Thu, 08 Oct 2026 23:38:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social Performance</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-measure-social-revenue-and-engagement-with-social-performance#klv-ee3a81c3</link>
-      <description>Social Performance — See which social content actually drives revenue â Track order-attributed revenue, engagement, top creators, and trends over time, then dig deeper with Composer.
-
-(Published 2026-10-08)</description>
-      <guid isPermaLink="false">ee3a81c3dd1ae29171e71e29978f045573e5797f</guid>
-      <pubDate>Thu, 08 Oct 2026 23:38:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
