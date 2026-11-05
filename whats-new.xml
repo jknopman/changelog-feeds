@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:32:10 +0000</lastBuildDate>
     <item>
       <title>Reminders in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-one-time-reminders-in-composer#klv-20c19f13</link>
@@ -61,15 +61,6 @@
 (Published 2026-11-03)</description>
       <guid isPermaLink="false">bc5e1830d5278cf9acbc4ebc85a4c74127a2e62c</guid>
       <pubDate>Tue, 03 Nov 2026 23:52:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artifacts Slide decks in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-f635cb1c</link>
-      <description>Artifacts Slide decks in Composer — Composer can now create slide decks as artifacts. Ask for a monthly review or a campaign plan, and Composer builds the slides using your brand guidelines. Flip through the slides, present them full screen, then download them as a PDF, PowerPoint, web page or an image of a single slide.
-
-(Published 2026-11-03)</description>
-      <guid isPermaLink="false">f635cb1c9478597a864f48c01863ceec7caff2cf</guid>
-      <pubDate>Thu, 05 Nov 2026 00:10:43 +0000</pubDate>
     </item>
     <item>
       <title>Manage Email Tracking Consent on Preference Pages</title>
@@ -540,13 +531,22 @@
       <pubDate>Fri, 16 Oct 2026 21:55:28 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-Geo in</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-customer-agent-for-multiple-countries-and-regions#klv-8ce6b774</link>
-      <description>Multi-Geo in — Give every shopper the right policies, products, and prices for their country â Customer Agent knowledge and skills is now focused to chosen regions or Shopify markets with one agent.
+      <title>Multi-Geo in Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-customer-agent-for-multiple-countries-and-regions#klv-d0590d98</link>
+      <description>Multi-Geo in Customer Agent — Give every shopper the right policies, products, and prices for their country â Customer Agent knowledge and skills is now focused to chosen regions or Shopify markets with one agent.
 
 (Published 2026-10-15)</description>
-      <guid isPermaLink="false">8ce6b774e3367a07195048bacfbd222bf4c18deb</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:27 +0000</pubDate>
+      <guid isPermaLink="false">d0590d9860a171054ed51febae9dfd89b20bfb2e</guid>
+      <pubDate>Thu, 05 Nov 2026 18:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMS and WhatsApp Consent Block on Shopify</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/35067557759771-How-to-collect-SMS-and-or-Whatsapp-consent-on-Shopify-checkout-pages#klv-78a93fea</link>
+      <description>SMS and WhatsApp Consent Block on Shopify — Grow SMS and WhatsApp subscribers with a consent block that fits your checkout â Collect sign-ups with one checkbox and set header style and borders to match Shopify checkout.
+
+(Published 2026-10-15)</description>
+      <guid isPermaLink="false">78a93feadf4cd0f182f7e66d37c6c69da80b9991</guid>
+      <pubDate>Thu, 15 Oct 2026 21:57:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
