@@ -7,7 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:10:48 +0000</lastBuildDate>
+    <item>
+      <title>Reminders in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-one-time-reminders-in-composer#klv-20c19f13</link>
+      <description>Reminders in Composer — Pick up right where you left off. Schedule a reminder in Composer and it comes back to the same conversation with a nudge, a draft, a proposal or a report.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">20c19f13ceb8d8b4250ec5c9359cf0fdcab253cc</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaviyo and OpenTable integration enhancements</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/23112971772699-Getting-started-with-OpenTable#klv-f6616485</link>
+      <description>Klaviyo and OpenTable integration enhancements — Reach guests the moment their plans change. Klaviyoâs OpenTable integration now syncs reservation updates as they happen, so you can follow up when a guest books, cancels or doesnât show up. Connect your POS to OpenTable to add check totals and orders to profiles too.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">f661648560e7b90e519b7ca5d0f3c8b71ca8b23f</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live connector data in Composer artifacts</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-9a091fc9</link>
+      <description>Live connector data in Composer artifacts — Keep dashboards current when you reopen them â Ask Composer to build artifacts with live data from your connected apps.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">9a091fc927540de2fb544748e4d7097939c5e97f</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campaign A/B testing in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-dd78f097</link>
+      <description>Campaign A/B testing in Composer — Test every campaign without the extra setup. Composer now builds email and SMS A/B tests along with your campaign, from subject lines and sender names to content, design and SMS copy.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">dd78f0974f19489cafbb96dac23caacd2d4135d1</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conversation sharing in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-share-conversations-in-composer#klv-2a7ad2ba</link>
+      <description>Conversation sharing in Composer — Give teammates the full context behind Composer's work â Share a conversation with workspace members so they can read your requests, Composer's responses, and its references.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">2a7ad2baf30f7de2ddb3ba514ca9129c9c787dfa</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:44 +0000</pubDate>
+    </item>
     <item>
       <title>Downloadable files from Composer artifacts</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-bc5e1830</link>
@@ -16,6 +61,15 @@
 (Published 2026-11-03)</description>
       <guid isPermaLink="false">bc5e1830d5278cf9acbc4ebc85a4c74127a2e62c</guid>
       <pubDate>Tue, 03 Nov 2026 23:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artifacts Slide decks in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-f635cb1c</link>
+      <description>Artifacts Slide decks in Composer — Composer can now create slide decks as artifacts. Ask for a monthly review or a campaign plan, and Composer builds the slides using your brand guidelines. Flip through the slides, present them full screen, then download them as a PDF, PowerPoint, web page or an image of a single slide.
+
+(Published 2026-11-03)</description>
+      <guid isPermaLink="false">f635cb1c9478597a864f48c01863ceec7caff2cf</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:43 +0000</pubDate>
     </item>
     <item>
       <title>Manage Email Tracking Consent on Preference Pages</title>
@@ -28,7 +82,7 @@
     </item>
     <item>
       <title>Shopify edits in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-cb8c3750</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-shopify-with-composer#klv-cb8c3750</link>
       <description>Shopify edits in Composer — Update your store without leaving Klaviyo â Ask Composer to make changes in Shopify, from prices to discount codes.
 
 (Published 2026-11-02)</description>
@@ -37,7 +91,7 @@
     </item>
     <item>
       <title>Composer now connects with Asana</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-7183246a</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-asana-with-composer#klv-7183246a</link>
       <description>Composer now connects with Asana — Go from brief to campaign without copying anything over â Connect Asana and Composer turns your briefs and calendar into Klaviyo campaigns and flows.
 
 (Published 2026-11-02)</description>
@@ -99,6 +153,15 @@
       <pubDate>Mon, 02 Nov 2026 20:38:16 +0000</pubDate>
     </item>
     <item>
+      <title>Omnichannel Campaigns in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-3aa39b17</link>
+      <description>Omnichannel Campaigns in Composer — Composer can now create omnichannel campaigns in the new Composer experience. The previous version supported this, but the new Composer rolled out with single-channel campaigns only, and customers have been asking for it back.
+
+(Published 2026-10-29)</description>
+      <guid isPermaLink="false">3aa39b17fa92f64f260a5a530a9d6fe9e4877f79</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Take action from a comment thread with Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-330e28c0</link>
       <description>Take action from a comment thread with Composer — Turn feedback into edits faster. Send a comment thread from the email editor or forms designer to Composer, and it drafts the requested changes or summarizes the thread.
@@ -109,7 +172,7 @@
     </item>
     <item>
       <title>Simpler usage meter in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-928f5c13</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-your-composer-billing-plan-works#klv-928f5c13</link>
       <description>Simpler usage meter in Composer — One bar shows how much you've used and when it resets, with a warning at 85%. Billing usage reports now include Composer credits.
 
 (Published 2026-10-29)</description>
@@ -118,7 +181,7 @@
     </item>
     <item>
       <title>Private or shared skills in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-b0ce8b56</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-skills-in-composer#klv-b0ce8b56</link>
       <description>Private or shared skills in Composer — When you create a skill, choose whether to keep it private or share it with your team.
 
 (Published 2026-10-29)</description>
@@ -142,6 +205,15 @@
 (Published 2026-10-29)</description>
       <guid isPermaLink="false">b75449508e8061b260d4cd03cbe354c49c3d6d49</guid>
       <pubDate>Thu, 29 Oct 2026 17:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brand styles from website in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-5b62567d</link>
+      <description>Brand styles from website in Composer — Composer can now pull your brand's visual style from your website, including colors, typography and button styles, and apply it to the content it builds. Share your site, review the palette and styles Composer suggests, approve them, then ask for a sample email in the new look.
+
+(Published 2026-10-28)</description>
+      <guid isPermaLink="false">5b62567ddc4d23b5bd4036c670d856ae4f5632be</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:41 +0000</pubDate>
     </item>
     <item>
       <title>Meta Ads connector in Composer</title>
@@ -216,6 +288,15 @@
       <pubDate>Wed, 28 Oct 2026 22:57:20 +0000</pubDate>
     </item>
     <item>
+      <title>Organized Chat History for Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-f7aee8ca</link>
+      <description>Organized Chat History for Composer — Chats are grouped by date with unread chats at the top, and history opens inside the Composer panel.
+
+(Published 2026-10-27)</description>
+      <guid isPermaLink="false">f7aee8ca324b93604750b1960c53255fc6dfce70</guid>
+      <pubDate>Thu, 05 Nov 2026 00:10:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Export campaign analytics</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/360054361092-How-to-export-campaign-analytics#klv-d0f679ff</link>
       <description>Export campaign analytics — Compare campaign results across email, SMS, push, and WhatsApp in one file â Export a CSV filtered by date, tag, channel, and A/B variation.
@@ -271,7 +352,7 @@
     </item>
     <item>
       <title>Clone Suggestions in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-57d4b5c1</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-57d4b5c1</link>
       <description>Clone Suggestions in Composer — Cloning a campaign suggests how Composer could adapt it, like adding missing preview text or making a text message version.
 
 (Published 2026-10-23)</description>
@@ -334,7 +415,7 @@
     </item>
     <item>
       <title>Create a segment from the segment drawer with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-40a789c1</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-segments-with-composer#klv-40a789c1</link>
       <description>Create a segment from the segment drawer with Composer — Start a segment with Composer from the Create segment drawer in Lists &amp; segments.
 
 (Published 2026-10-22)</description>
@@ -379,7 +460,7 @@
     </item>
     <item>
       <title>Copy a campaign in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-656e7c08</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-656e7c08</link>
       <description>Copy a campaign in Composer — Build on campaigns that already work. Ask Composer to copy a saved campaign and change it, then preview the copy before Composer creates it with your approval.
 
 (Published 2026-10-19)</description>
@@ -397,7 +478,7 @@
     </item>
     <item>
       <title>Skills as cards in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-db3275a0</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-skills-in-composer#klv-db3275a0</link>
       <description>Skills as cards in Composer — Each skill shows a preview of its contents, with search and a list view.
 
 (Published 2026-10-19)</description>
@@ -424,7 +505,7 @@
     </item>
     <item>
       <title>Set audiences per message in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-47e0b494</link>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-47e0b494</link>
       <description>Set audiences per message in Composer — Composer can set who gets each message in a campaign, remove a message or audience, and copy a message to another audience, all shown in the preview for approval.
 
 (Published 2026-10-16)</description>
@@ -466,87 +547,6 @@
 (Published 2026-10-15)</description>
       <guid isPermaLink="false">8ce6b774e3367a07195048bacfbd222bf4c18deb</guid>
       <pubDate>Tue, 03 Nov 2026 18:14:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>SMS and WhatsApp Consent Block on Shopify</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/35067557759771-How-to-collect-SMS-and-or-Whatsapp-consent-on-Shopify-checkout-pages#klv-78a93fea</link>
-      <description>SMS and WhatsApp Consent Block on Shopify — Grow SMS and WhatsApp subscribers with a consent block that fits your checkout â Collect sign-ups with one checkbox and set header style and borders to match Shopify checkout.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">78a93feadf4cd0f182f7e66d37c6c69da80b9991</guid>
-      <pubDate>Thu, 15 Oct 2026 21:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Hub Content Blocks in Flows</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-a-content-block-in-a-flow#klv-051c5e10</link>
-      <description>Customer Hub Content Blocks in Flows — Carry flow messages onto your website â Add a Customer Hub block action to any flow to show content in each shopper's For You tab.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">051c5e103bd6779bc122053751227299353598b2</guid>
-      <pubDate>Thu, 15 Oct 2026 21:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visibility Testing in Customer Hub</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-test-customer-hub-with-real-customers#klv-d8e110a4</link>
-      <description>Visibility Testing in Customer Hub — Prove impact before rolling out to every shopper â Show Customer Hub to a chosen share of visitors for a set time and track engagement and revenue.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">d8e110a4e65b54a8255b92aad6080c91bcd5f6d5</guid>
-      <pubDate>Fri, 16 Oct 2026 21:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt ideas for connectors in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-9149b414</link>
-      <description>Prompt ideas for connectors in Composer — Each connector suggests ideas, like promoting your Shopify best sellers, that start a chat in one click. The + button and @ now open the same menu.
-
-(Published 2026-10-14)</description>
-      <guid isPermaLink="false">9149b414439375d24bddf0ee7a112d0de36d25d8</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collect Email Tracking Consent in Sign-Up Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/4413550187035-Understanding-form-blocks-and-fields#klv-1ba102bf</link>
-      <description>Collect Email Tracking Consent in Sign-Up Forms — Keep measuring email engagement while staying compliant with EU privacy rules â Collect explicit marketing and email tracking consent from new subscribers in your sign-up forms.
-
-(Published 2026-10-14)</description>
-      <guid isPermaLink="false">1ba102bf79f3a589c26122c5ecd23ac9cbf9c868</guid>
-      <pubDate>Thu, 15 Oct 2026 15:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom Object available on all accounts</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/35105337172123-Getting-started-with-custom-objects#klv-6e33ce92</link>
-      <description>Custom Object available on all accounts — Custom Objects is now available to all Klaviyo accounts. You can build a real object, see how it works with their data, and decide how you want to use custom objects for your unique business use case.
-
-(Published 2026-10-14)</description>
-      <guid isPermaLink="false">6e33ce920cbe55f59155222d6a286b99f848ef61</guid>
-      <pubDate>Thu, 15 Oct 2026 15:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Convert HTML email templates to drag and drop</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-convert-an-html-template-to-drag-and-drop#klv-57b72b5d</link>
-      <description>Convert HTML email templates to drag and drop — Edit any HTML template without touching code â Convert saved HTML email templates, including imported and AI-generated ones, into editable drag-and-drop templates in a few clicks.
-
-(Published 2026-10-14)</description>
-      <guid isPermaLink="false">57b72b5d0e2b6654c83c08196570751303ba187b</guid>
-      <pubDate>Thu, 15 Oct 2026 01:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>BFCM Hub Composer Card</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-d1c8534a</link>
-      <description>BFCM Hub Composer Card — A ready-made BFCM prompt for your business starts a chat in one click.
-
-(Published 2026-10-13)</description>
-      <guid isPermaLink="false">d1c8534afb2942a0e8086c17dcc1e27584b516da</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new Composer is live</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fcca945e</link>
-      <description>The new Composer is live — Composer, your AI marketing agent inside Klaviyo, just leveled up. It's now more intelligent, flexible, and proactive, helping you tackle more marketing jobs.
-
-(Published 2026-10-13)</description>
-      <guid isPermaLink="false">fcca945eabe18ce719eb0ac40a6a3dc77cf668df</guid>
-      <pubDate>Wed, 14 Oct 2026 15:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
