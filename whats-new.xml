@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:48:55 +0000</lastBuildDate>
+    <item>
+      <title>Personalize flow messages with event data</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/7655965301531-How-to-show-or-hide-template-blocks-and-sections-based-on-dynamic-variables#klv-8d9842ea</link>
+      <description>Personalize flow messages with event data, no code needed â Show or hide email blocks and add dynamic content using trigger event properties from any integration.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">8d9842eaf52df46fa0a00bec37bbd69072303472</guid>
+      <pubDate>Fri, 06 Nov 2026 17:48:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shareable preview links for emails</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/4407911841435-Guide-to-the-email-template-editor#klv-35c22ff3</link>
+      <description>Shareable preview links for emails — Get email sign-off from anyone without a Klaviyo login â Share a live preview link with up to 10 reviewers to approve campaign and flow emails before they send.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">35c22ff3abda5f0e2abd04167cfb3548305bedb9</guid>
+      <pubDate>Fri, 06 Nov 2026 17:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CX Score in Customer Agent &amp; Helpdesk</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/understanding-cx-score#klv-ec30e242</link>
+      <description>CX Score in Customer Agent &amp; Helpdesk — Measure service quality across every support conversation without waiting on surveys â View AI-estimated CX scores for Customer Agent and human replies next to CSAT in Helpdesk and Customer Agent analytics.
+
+(Published 2026-11-05)</description>
+      <guid isPermaLink="false">ec30e2427ca4ea6b43619c1fe9539493c4b0376b</guid>
+      <pubDate>Fri, 06 Nov 2026 17:48:53 +0000</pubDate>
+    </item>
     <item>
       <title>Reminders in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-one-time-reminders-in-composer#klv-20c19f13</link>
@@ -52,6 +79,15 @@
 (Published 2026-11-04)</description>
       <guid isPermaLink="false">2a7ad2baf30f7de2ddb3ba514ca9129c9c787dfa</guid>
       <pubDate>Thu, 05 Nov 2026 00:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>K:Service Practitioner Certificate</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-5bfe49b8</link>
+      <description>K:Service Practitioner Certificate — Show off your Klaviyo Service expertise with a recognized credential â Earn the K:Service Practitioner Certificate in Klaviyo Academy after completing the K:Service Practitioner program.
+
+(Published 2026-11-04)</description>
+      <guid isPermaLink="false">5bfe49b8214f3520eda5a93c8d3dfa800fc51450</guid>
+      <pubDate>Fri, 06 Nov 2026 17:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Downloadable files from Composer artifacts</title>
@@ -124,6 +160,15 @@
 (Published 2026-10-30)</description>
       <guid isPermaLink="false">e4161f75f37df1f47579043758cde6054896ffc3</guid>
       <pubDate>Wed, 04 Nov 2026 18:28:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Runneth connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-e4b36cff</link>
+      <description>Runneth connector in Composer — Bring your best ad creative into email and SMS. Install the Runneth connector, Motionâs creative strategy agent, and ask about your brandâs ads in the same conversation where Composer builds your marketing.
+
+(Published 2026-10-30)</description>
+      <guid isPermaLink="false">e4b36cff2b8270ff06daf971916b790ace6e6fa0</guid>
+      <pubDate>Fri, 06 Nov 2026 17:48:51 +0000</pubDate>
     </item>
     <item>
       <title>Sync up to 6 objects with the SFDC integration</title>
@@ -502,51 +547,6 @@
 (Published 2026-10-16)</description>
       <guid isPermaLink="false">47e0b4943e4a1c9de5b636a22fccb43ac98adafa</guid>
       <pubDate>Tue, 03 Nov 2026 03:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Klaviyo now available in Japanese</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/25956849989531-How-to-change-the-language-for-your-account#klv-7dc4f0d2</link>
-      <description>Klaviyo now available in Japanese — Work in Klaviyo in your team's native language â Use the Klaviyo app and Help Center in Japanese to build, send, and find answers without translating.
-
-(Published 2026-10-16)</description>
-      <guid isPermaLink="false">7dc4f0d23088667018fdd0dbce286eea9078936c</guid>
-      <pubDate>Fri, 16 Oct 2026 21:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Customer Agent with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-build-test-and-analyze-customer-agent-with-composer#klv-c9badb12</link>
-      <description>Build Customer Agent with Composer — Build, test, and operate Customer Agent right inside Composer, the same interface you already use for marketing, so one workspace now powers both your campaigns and your customer conversations.
-
-(Published 2026-10-16)</description>
-      <guid isPermaLink="false">c9badb12b5b9c60e608893ac9ac04c18e13b5caa</guid>
-      <pubDate>Fri, 16 Oct 2026 21:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SLA policies in Helpdesk</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-sla-policies-in-klaviyo-helpdesk#klv-40e4872b</link>
-      <description>SLA policies in Helpdesk — Keep every support promise you make to customers â Set first response, second response targets, and resolution targets in Helpdesk and see live countdowns on each ticket before deadlines slip.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">40e4872bbffa35b9e40bd1cd84493eaa0e76f1fc</guid>
-      <pubDate>Fri, 16 Oct 2026 21:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Geo in Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-customer-agent-for-multiple-countries-and-regions#klv-d0590d98</link>
-      <description>Multi-Geo in Customer Agent — Give every shopper the right policies, products, and prices for their country â Customer Agent knowledge and skills is now focused to chosen regions or Shopify markets with one agent.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">d0590d9860a171054ed51febae9dfd89b20bfb2e</guid>
-      <pubDate>Thu, 05 Nov 2026 18:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SMS and WhatsApp Consent Block on Shopify</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/35067557759771-How-to-collect-SMS-and-or-Whatsapp-consent-on-Shopify-checkout-pages#klv-78a93fea</link>
-      <description>SMS and WhatsApp Consent Block on Shopify — Grow SMS and WhatsApp subscribers with a consent block that fits your checkout â Collect sign-ups with one checkbox and set header style and borders to match Shopify checkout.
-
-(Published 2026-10-15)</description>
-      <guid isPermaLink="false">78a93feadf4cd0f182f7e66d37c6c69da80b9991</guid>
-      <pubDate>Thu, 15 Oct 2026 21:57:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
