@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:39:46 +0000</lastBuildDate>
+    <item>
+      <title>Slide decks in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-b8c477ff</link>
+      <description>Slide decks in Composer — Take Composer presentations straight into your next meeting â Present, share, or download decks as PDF, editable PowerPoint, or HTML files.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">b8c477ff6febf9bc20f6f30916e3287650e05a9e</guid>
+      <pubDate>Fri, 06 Nov 2026 23:39:46 +0000</pubDate>
+    </item>
     <item>
       <title>Personalize flow messages with event data</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/7655965301531-How-to-show-or-hide-template-blocks-and-sections-based-on-dynamic-variables#klv-8d9842ea</link>
@@ -16,6 +25,24 @@
 (Published 2026-11-06)</description>
       <guid isPermaLink="false">8d9842eaf52df46fa0a00bec37bbd69072303472</guid>
       <pubDate>Fri, 06 Nov 2026 17:48:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forms in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-edit-signup-forms-with-composer#klv-c4b662d3</link>
+      <description>Forms in Composer — Grow your list with less manual form building â Describe a new sign-up form or request copy, design, targeting, and trigger changes in Composer, then review desktop and mobile previews.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">c4b662d3e672d2b74d14cd8360131453244b6bff</guid>
+      <pubDate>Fri, 06 Nov 2026 23:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Folders in Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-organize-campaigns-with-folders#klv-7f339d33</link>
+      <description>Folders in Campaigns — Keep long campaign lists easy to navigate â Create nested folders, bulk move campaigns, and search or filter across every folder without changing how anything sends.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">7f339d33f1c70884e622db66a1d4c12127b63a36</guid>
+      <pubDate>Fri, 06 Nov 2026 23:39:44 +0000</pubDate>
     </item>
     <item>
       <title>Shareable preview links for emails</title>
@@ -520,33 +547,6 @@
 (Published 2026-10-19)</description>
       <guid isPermaLink="false">db3275a03ed87b5ddb18e8273c2f6c1a1fde344c</guid>
       <pubDate>Tue, 03 Nov 2026 03:50:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Performance Improvements in Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-f94fdf7f</link>
-      <description>Performance Improvements in Customer Agent — Answer shoppers faster and more reliably with AI â Resolve complex questions with upgraded knowledge retrieval that speeds up every Customer Agent response and cuts failed replies.
-
-(Published 2026-10-19)</description>
-      <guid isPermaLink="false">f94fdf7f02fd71e5fb606655010f07f3c435921b</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Onsite Previews in Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-dd94dbea</link>
-      <description>Onsite Previews in Forms — See your form before going live â Preview drafts on any page of your site, scan a QR code to test on mobile, and see saved edits refresh automatically.
-
-(Published 2026-10-19)</description>
-      <guid isPermaLink="false">dd94dbea9e36cb0424a70df83de687fcbc008a81</guid>
-      <pubDate>Tue, 20 Oct 2026 22:07:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Set audiences per message in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-47e0b494</link>
-      <description>Set audiences per message in Composer — Composer can set who gets each message in a campaign, remove a message or audience, and copy a message to another audience, all shown in the preview for approval.
-
-(Published 2026-10-16)</description>
-      <guid isPermaLink="false">47e0b4943e4a1c9de5b636a22fccb43ac98adafa</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
