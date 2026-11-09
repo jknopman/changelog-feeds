@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:54 +0000</lastBuildDate>
+    <item>
+      <title>Up to 100 Accounts to 1 Parent account</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/6199831051035-Understanding-how-shared-billing-works-in-Klaviyo#klv-ecf235ee</link>
+      <description>Up to 100 Accounts to 1 Parent account — Consolidate more subsidiaries and regions under one parent account â Link up to 100 accounts in an account family, up from 34, with unified billing and usage tracking.
+
+(Published 2026-11-09)</description>
+      <guid isPermaLink="false">ecf235ee8346d33a2318f26b5a383fecf5624373</guid>
+      <pubDate>Mon, 09 Nov 2026 21:17:54 +0000</pubDate>
+    </item>
     <item>
       <title>Slide decks in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-b8c477ff</link>
@@ -538,15 +547,6 @@
 (Published 2026-10-19)</description>
       <guid isPermaLink="false">656c3c8652aea7e387eaa15ff197f802214e46db</guid>
       <pubDate>Tue, 03 Nov 2026 23:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skills as cards in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-skills-in-composer#klv-db3275a0</link>
-      <description>Skills as cards in Composer — Each skill shows a preview of its contents, with search and a list view.
-
-(Published 2026-10-19)</description>
-      <guid isPermaLink="false">db3275a03ed87b5ddb18e8273c2f6c1a1fde344c</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
