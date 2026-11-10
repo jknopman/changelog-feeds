@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:29:38 +0000</lastBuildDate>
+    <item>
+      <title>Personalized Content in Flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/tailor-sms-flow-messages-with-personalized-content#klv-451def86</link>
+      <description>Personalized Content in Flows — Match every flow text to each shopper's engagement â Use AI to adapt tone and product names in SMS and RCS messages, with automatic A/B tests against your original copy.
+
+(Published 2026-11-09)</description>
+      <guid isPermaLink="false">451def867862e8c15013fa865f8354ac52852286</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:38 +0000</pubDate>
+    </item>
     <item>
       <title>Up to 100 Accounts to 1 Parent account</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/6199831051035-Understanding-how-shared-billing-works-in-Klaviyo#klv-ecf235ee</link>
@@ -16,6 +25,87 @@
 (Published 2026-11-09)</description>
       <guid isPermaLink="false">ecf235ee8346d33a2318f26b5a383fecf5624373</guid>
       <pubDate>Mon, 09 Nov 2026 21:17:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version History in Flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-restore-a-previous-version-of-a-flow#klv-da484526</link>
+      <description>Version History in Flows — Edit live flows with a safety net â Restore any earlier version, see who changed what, and copy versions into drafts, including changes made by Composer.
+
+(Published 2026-11-09)</description>
+      <guid isPermaLink="false">da4845269d5008b9936ea0a64fb624a0eae7388d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calendly connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-719f9059</link>
+      <description>Calendly connector in Composer — Composer now connects to Calendly. See your event types, meetings and availability in the same conversation. Check how many slots are open this week, or create a campaign inviting VIP customers to book a styling session, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">719f9059427c97d148162d8ec642c93d8829ed42</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webflow connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-0e180ed0</link>
+      <description>Webflow connector in Composer — Composer now connects to Webflow, available to every Klaviyo account. Pull in your site and CMS content and act on it in the same conversation. Turn a launch page into an announcement email, or add a new collection to your CMS and draft its campaign, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">0e180ed01c26d1acebeec761e5e9ae32d7221915</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amplitude connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-dc57ba12</link>
+      <description>Amplitude connector in Composer — Composer now connects to Amplitude. Read your product analytics, charts and dashboards in the same conversation. Find where your checkout funnel loses the most people and get a flow built to win them back, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">dc57ba122edb449dcf3e6aad2d96dc259007e279</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supermetrics connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-7d1467af</link>
+      <description>Supermetrics connector in Composer — Composer now works with Supermetrics. Connect it to bring ad results from across your platforms into Composer, so the campaigns it plans and the recommendations it makes reflect your full marketing picture.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">7d1467af2f66086da48d5a4b78a5994fee2d260e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notion connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-653aa787</link>
+      <description>Notion connector in Composer — Composer now connects to Notion. Search, read and update your pages and databases in the same conversation. Build a campaign from the actual Q4 brief rather than a pasted summary, or add a recap of last monthâs email and SMS results to your team wiki, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">653aa7871f50038e910351bfbc8ddeb67f22c126</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gorgias connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-75026226</link>
+      <description>Gorgias connector in Composer — Composer now connects to Gorgias. Search tickets, macros and your help center, and update tickets, all in the same conversation. Find out what customers are complaining about this week and turn it into a win back flow, or pull the most common sizing questions into a fit guide email, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">750262267c9ddf650a57230260a952b79ee48010</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Airtable connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-1b5e9dc8</link>
+      <description>Airtable connector in Composer — Composer now connects to Airtable. Read and edit your bases, tables and records in the same conversation. Draft campaigns for everything launching this month on your promo calendar, then mark each record as scheduled and add the campaign link, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">1b5e9dc853ad6d546b4cc1b2e57ccf46b30c90ef</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wix connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-1f67b120</link>
+      <description>Wix connector in Composer — Composer now connects to Wix. Pull in your site and CMS content and act on it in the same conversation. Check the current promo on your site and build a campaign to match, or draft a blog post announcing your holiday collection, all without leaving Composer.
+
+(Published 2026-11-06)</description>
+      <guid isPermaLink="false">1f67b120275983ea66bb46cadcdb58699303f42f</guid>
+      <pubDate>Tue, 10 Nov 2026 04:29:29 +0000</pubDate>
     </item>
     <item>
       <title>Slide decks in Composer</title>
@@ -457,96 +547,6 @@
 (Published 2026-10-23)</description>
       <guid isPermaLink="false">9527953016d08ef4728e3f2c02c42fa0b66accc2</guid>
       <pubDate>Tue, 03 Nov 2026 18:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Historical Consent Sync from Wix</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/6202669053723-Getting-started-with-Wix#klv-c35af0cd</link>
-      <description>Historical Consent Sync from Wix — Migrate from Wix with email consent intact â Import subscription status automatically during your initial sync, with newer consent always winning and no manual CSV upload.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">c35af0cdd2f40b33affa67f949e786569a862f69</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product Recommendations in WooCommerce and Magento for Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-b598342b</link>
-      <description>Product Recommendations in WooCommerce and Magento for Customer Agent — Help more shoppers find what to buy in chat â Use Customer Agent on WooCommerce and Magento 2 to recommend in-stock products with prices, images, and links.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">b598342b0cf4bef8598089d3481c13098c7cffa8</guid>
-      <pubDate>Wed, 04 Nov 2026 18:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Version history for email templates</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/4407911841435-Guide-to-the-email-template-editor#klv-477e5db4</link>
-      <description>Version history for email templates — Undo bad template edits without rebuilding from scratch â Preview any saved version of a drag-and-drop email template and restore it, with your current version saved first.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">477e5db41606b8070e8068e66746c7a423c45a27</guid>
-      <pubDate>Fri, 23 Oct 2026 21:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Create a segment from the segment drawer with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-segments-with-composer#klv-40a789c1</link>
-      <description>Create a segment from the segment drawer with Composer — Start a segment with Composer from the Create segment drawer in Lists &amp; segments.
-
-(Published 2026-10-22)</description>
-      <guid isPermaLink="false">40a789c1c1c3895fe7eb3d136343aabeb4d8524a</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brand Styles in Forms</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/creating-branded-forms#klv-cf94a504</link>
-      <description>Brand Styles in Forms — Launch on-brand forms in a few clicks â Set form defaults once, then apply your brand's buttons, text, input fields, and colors to every new form.
-
-(Published 2026-10-22)</description>
-      <guid isPermaLink="false">cf94a504ab951b05fadd79acb41a950815a2a48e</guid>
-      <pubDate>Thu, 22 Oct 2026 22:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>@mention campaigns and flows in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-fedde11f</link>
-      <description>@mention campaigns and flows in Composer — Point Composer at exactly the right work. Type @ to find a campaign or flow by name, so Composer works on the one you picked.
-
-(Published 2026-10-21)</description>
-      <guid isPermaLink="false">fedde11f9b603b2f3548727a9002133d2081907b</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Probabilistic Matching</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/17655007276059-Getting-started-with-Advanced-KDP#klv-c9a2d67a</link>
-      <description>Probabilistic Matching — Keep segments and reporting accurate with cleaner profiles â Merge likely duplicates in Klaviyo based on shared emails, phone numbers, and similar names, with no exports or custom code.
-
-(Published 2026-10-21)</description>
-      <guid isPermaLink="false">c9a2d67aaabc194d3c9663b3a5f80190f87bc4cb</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signatures for Outbound Email Replies in Helpdesk</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/40813502166171-Klaviyo-Helpdesk-Tag-Segment-and-List-routing#klv-1c4592a7</link>
-      <description>Signatures for Outbound Email Replies in Helpdesk — Send polished, consistent support replies without the copy-paste â Set a custom signature with agent name, company name, and logo that's added to every outbound email reply in Helpdesk.
-
-(Published 2026-10-20)</description>
-      <guid isPermaLink="false">1c4592a7fbd014e2a70bca19ec0739709b338c69</guid>
-      <pubDate>Wed, 21 Oct 2026 01:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copy a campaign in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-656e7c08</link>
-      <description>Copy a campaign in Composer — Build on campaigns that already work. Ask Composer to copy a saved campaign and change it, then preview the copy before Composer creates it with your approval.
-
-(Published 2026-10-19)</description>
-      <guid isPermaLink="false">656e7c085673aaa05511b3143141cf9d031de8e8</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SQL and results behind answer in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-sql-in-composer-and-the-klaviyo-mcp-server#klv-656c3c86</link>
-      <description>SQL and results behind answer in Composer — For analytics answers, read the SQL Composer ran and see the rows it got back on a Results tab.
-
-(Published 2026-10-19)</description>
-      <guid isPermaLink="false">656c3c8652aea7e387eaa15ff197f802214e46db</guid>
-      <pubDate>Tue, 03 Nov 2026 23:52:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
