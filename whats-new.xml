@@ -7,15 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:54:41 +0000</lastBuildDate>
     <item>
-      <title>Composer by Klaviyo</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer-from-klaviyo#klv-0714ed7f</link>
-      <description>Composer by Klaviyo — Meet Klaviyo's first mobile app, powered by Composer. Stay on top of performance, get notified when something needs attention, and keep your marketing moving from anywhere.
+      <title>Dictation in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-dictation-in-composer#klv-3a08513d</link>
+      <description>Dictation in Composer — Now customers can talk to Composer. Dictation turns what they say into text in their message draft, so they can get their ideas into Composer faster.
 
 (Published 2026-11-10)</description>
-      <guid isPermaLink="false">0714ed7fe1977b7b6a590cf0083391ba4fc24bdb</guid>
-      <pubDate>Tue, 10 Nov 2026 18:28:48 +0000</pubDate>
+      <guid isPermaLink="false">3a08513d057fa7cb89184c7428f7524ac95740e1</guid>
+      <pubDate>Tue, 10 Nov 2026 23:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer Mobile App</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer-from-klaviyo#klv-b7f84e3c</link>
+      <description>Composer Mobile App — Meet Klaviyo's first mobile app, powered by Composer. Stay on top of performance, get notified when something needs attention, and keep your marketing moving from anywhere.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">b7f84e3c36e95bf9ec0c60343703fe48dd7cb18e</guid>
+      <pubDate>Tue, 10 Nov 2026 23:54:40 +0000</pubDate>
     </item>
     <item>
       <title>Personalized Content in Flows</title>
@@ -538,15 +547,6 @@
 (Published 2026-10-23)</description>
       <guid isPermaLink="false">2613f03f1ce99e9544672063d895bd617af3234c</guid>
       <pubDate>Tue, 03 Nov 2026 18:14:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix flows with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-1d9343c2</link>
-      <description>Fix flows with Composer — Go from alert to fix faster. Click Fix with Composer on any flow alert to hand the flowâs problems straight to Composer.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">1d9343c2fd3b9c0392b22595b84d5f4d1001fd93</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
