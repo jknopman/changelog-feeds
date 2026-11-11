@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:23:39 +0000</lastBuildDate>
+    <item>
+      <title>Removing requirements from Auto-replies</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-d3ea82a1</link>
+      <description>Removing requirements from Auto-replies — Reply right away without requiring contact info. Auto Replies no longer have to collect an email or phone number, so you can send a thank you message with a link and button as soon as someone uses your keyword.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">d3ea82a16996336f1ee5221f955f60978db0719d</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:39 +0000</pubDate>
+    </item>
     <item>
       <title>Dictation in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-dictation-in-composer#klv-3a08513d</link>
@@ -25,6 +34,42 @@
 (Published 2026-11-10)</description>
       <guid isPermaLink="false">b7f84e3c36e95bf9ec0c60343703fe48dd7cb18e</guid>
       <pubDate>Tue, 10 Nov 2026 23:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version History for Universal Content</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/115005413888-How-to-create-and-manage-universal-and-saved-content#klv-49b9c2fd</link>
+      <description>Version History for Universal Content — Roll back a bad publish to shared headers and footers â Preview past versions of universal blocks or sections and restore one everywhere it's used.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">49b9c2fd8efe72dc8bc5e6faaa0c8d807aa2a824</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opt-out Anonymous Profiles</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/17655007276059-Getting-started-with-Advanced-KDP#klv-4867c1d4</link>
+      <description>Opt-out Anonymous Profiles — Reduce profile clutter and Advanced KDP costs from unidentified app users â Turn off anonymous profile creation for Klaviyo's mobile SDKs in Settings &gt; Data.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">4867c1d46d85cfbee815935cbbd5ba49f970bc51</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram Live Auto-reply</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/custom-questions-social-auto-reply#klv-353cd6d0</link>
+      <description>Instagram Live Auto-reply — Turn live viewers into conversations. Pick a keyword, and anyone who comments it during your Instagram Live gets your DM automatically.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">353cd6d0b887ffd43df2b5c369e990d16bcba829</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Location Hub accessible via Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/what-composer-can-analyze-and-create#klv-37aeb3b5</link>
+      <description>Location Hub accessible via Composer — Manage physical stores and live events in one conversation â Ask Composer to create stores, link proximity segments, and fix missing Shopify POS links, with confirmation before every change.
+
+(Published 2026-11-10)</description>
+      <guid isPermaLink="false">37aeb3b512493db58df0a6f9f8ac824b2d1378af</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:35 +0000</pubDate>
     </item>
     <item>
       <title>Personalized Content in Flows</title>
@@ -502,51 +547,6 @@
 (Published 2026-10-26)</description>
       <guid isPermaLink="false">9f156139e7a51d133b07d96a370f46aa03d360de</guid>
       <pubDate>Tue, 03 Nov 2026 18:14:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Approval cards in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-eca2e04c</link>
-      <description>Approval cards in Composer — Know exactly what will change before you approve it. Campaign sends and schedules, coupon changes and custom object changes now come with a card that shows the details first.
-
-(Published 2026-10-26)</description>
-      <guid isPermaLink="false">eca2e04cbe310c5f64acfe9f4d2d1eb7c2bce565</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rewrite with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-a1342a35</link>
-      <description>Rewrite with Composer — Polish your copy without leaving the editor. In the drag and drop email editor, rewrite any text block with Composer and apply the new version in one click.
-
-(Published 2026-10-26)</description>
-      <guid isPermaLink="false">a1342a35fd4b47c072ae4d880588f1dab8e97ef1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add to Composer from Campaigns</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-2cda6d02</link>
-      <description>Add to Composer from Campaigns — Campaigns and flows in your lists have an Add to Composer button that drops them into the chat for reference.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">2cda6d02b89355b561089e300c35248f06037426</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clone Suggestions in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-57d4b5c1</link>
-      <description>Clone Suggestions in Composer — Cloning a campaign suggests how Composer could adapt it, like adding missing preview text or making a text message version.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">57d4b5c1831c642228ea7d764a6cb151fd104497</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support now opens Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-2613f03f</link>
-      <description>Support now opens Composer — Get help with more room to work. Clicking Support in the header, sidebar or mobile menu now opens a full page Composer chat instead of the old Support window.
-
-(Published 2026-10-23)</description>
-      <guid isPermaLink="false">2613f03f1ce99e9544672063d895bd617af3234c</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
