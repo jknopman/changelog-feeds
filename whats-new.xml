@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:42:28 +0000</lastBuildDate>
+    <item>
+      <title>Easier setup for Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-606c95a4</link>
+      <description>Easier setup for Customer Agent — Get your AI support agent live faster â Set tool permissions in Connectors to Always allow, Only in skills, or Blocked, and save custom skills for sensitive tasks like refunds.
+
+(Published 2026-11-12)</description>
+      <guid isPermaLink="false">606c95a4786d4f58d1d2034c83dc05205c14c982</guid>
+      <pubDate>Thu, 12 Nov 2026 18:42:28 +0000</pubDate>
+    </item>
     <item>
       <title>Removing requirements from Auto-replies</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-d3ea82a1</link>
@@ -538,15 +547,6 @@
 (Published 2026-10-27)</description>
       <guid isPermaLink="false">af3a81cf438a7d2ca2d7d5ec3d35fd314db5d31f</guid>
       <pubDate>Tue, 27 Oct 2026 16:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explain this segment in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-9f156139</link>
-      <description>Explain this segment in Composer — Understand any segment at a glance. Hover over a segment in Lists &amp; segments and pick Explain this segment to see what itâs for.
-
-(Published 2026-10-26)</description>
-      <guid isPermaLink="false">9f156139e7a51d133b07d96a370f46aa03d360de</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
