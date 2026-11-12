@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:58:23 +0000</lastBuildDate>
     <item>
       <title>Easier setup for Customer Agent</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-606c95a4</link>
@@ -16,6 +16,24 @@
 (Published 2026-11-12)</description>
       <guid isPermaLink="false">606c95a4786d4f58d1d2034c83dc05205c14c982</guid>
       <pubDate>Thu, 12 Nov 2026 18:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>A/B testing in In App Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360045462071-How-to-A-B-test-a-sign-up-form#klv-ec930535</link>
+      <description>A/B testing in In App Forms — Find which in-app forms drive the most mobile engagement â Create and publish A/B tests from the forms editor, then choose a winner from a dedicated results report.
+
+(Published 2026-11-12)</description>
+      <guid isPermaLink="false">ec93053507cb4528d3973a16417d2617abededf3</guid>
+      <pubDate>Thu, 12 Nov 2026 23:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discount Affinity (Preview)</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-discount-affinity#klv-98868cc0</link>
+      <description>Discount Affinity (Preview) — Protect your margin by saving offers for deal seekers â Target campaigns and flows to Deal seekers, Mixed buyers, or Full-price buyers based on each profile's discount history.
+
+(Published 2026-11-12)</description>
+      <guid isPermaLink="false">98868cc050c9efa82d1a11573fdc6d98100123ff</guid>
+      <pubDate>Thu, 12 Nov 2026 23:58:22 +0000</pubDate>
     </item>
     <item>
       <title>Removing requirements from Auto-replies</title>
@@ -529,24 +547,6 @@
 (Published 2026-10-27)</description>
       <guid isPermaLink="false">f7aee8ca324b93604750b1960c53255fc6dfce70</guid>
       <pubDate>Thu, 05 Nov 2026 00:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Export campaign analytics</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360054361092-How-to-export-campaign-analytics#klv-d0f679ff</link>
-      <description>Export campaign analytics — Compare campaign results across email, SMS, push, and WhatsApp in one file â Export a CSV filtered by date, tag, channel, and A/B variation.
-
-(Published 2026-10-27)</description>
-      <guid isPermaLink="false">d0f679ff8572ead08a1093cc0b6b56d0abb39f23</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>In-App Forms API</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-af3a81cf</link>
-      <description>In-App Forms API — Automate mobile form creation with code or AI agents â Create In-App Forms and retrieve them by ID with channel details through the Klaviyo API, just like web forms.
-
-(Published 2026-10-27)</description>
-      <guid isPermaLink="false">af3a81cf438a7d2ca2d7d5ec3d35fd314db5d31f</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
