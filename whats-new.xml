@@ -7,7 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:48:51 +0000</lastBuildDate>
+    <item>
+      <title>Auto-generate segment in Social</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-2495a54c</link>
+      <description>Auto-generate segment in Social — Brands can now easily see that segments are automatically created for them in the Auto-reply dashboard with our new design associating every Auto-reply with a Segment and letting brands click into view each auto-generated segment.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">2495a54cd4c607adf758535d817bf4fbb145dfa8</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer Mobile iOS 1.2: Account Setup, Artifacts, and Richer Chat</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer-from-klaviyo#klv-46439ffb</link>
+      <description>Composer Mobile iOS 1.2: Account Setup, Artifacts, and Richer Chat — Run more of your marketing from your iPhone â Set up a Klaviyo account, review saved artifacts, and approve campaign sends, segments, and coupons with a few taps.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">46439ffb6f99402226fec37a87117ed96c8ca6f8</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Location personalization in campaigns and flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/using-location-details-in-your-campaigns#klv-18c12af8</link>
+      <description>Location personalization in campaigns and flows — Send the right store details to every customer in one campaign â Insert store name, address, hours, and phone from Location Hub into email, text, and WhatsApp campaigns and flows.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">18c12af8f30f117c59f4a2e4b42a1c082108ef62</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Create Auto-reply with Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-3f8dd9a1</link>
+      <description>Create Auto-reply with Composer — Grow your list from Instagram with on-brand replies, faster â Use Composer to draft Auto-replies from your past posts and brand voice, then view the segment created for each one.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">3f8dd9a1e6c97806eeebf35a335bdb4668822e33</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp BSUID Support</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/about-whatsapp-usernames#klv-9548f83f</link>
+      <description>WhatsApp BSUID Support — Keep reaching WhatsApp subscribers who hide their phone number â Recognize username-only customers, keep their consent and revenue attribution, and send them campaigns and flows without a phone number.
+
+(Published 2026-11-13)</description>
+      <guid isPermaLink="false">9548f83f676938bf13a40f9f97d342b1ba5abbe8</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:47 +0000</pubDate>
+    </item>
     <item>
       <title>Easier setup for Customer Agent</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/customer-agent-profile-tools#klv-606c95a4</link>
@@ -502,51 +547,6 @@
 (Published 2026-10-28)</description>
       <guid isPermaLink="false">5d525ba9ae210a89b8cd2c7468d19d4b55affdd9</guid>
       <pubDate>Wed, 28 Oct 2026 22:57:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artifacts in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-2413742c</link>
-      <description>Artifacts in Composer — Anything Composer makes can become an artifact: a live web page with its own link, built from a single ask.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">2413742cc7f949cf654686f102f50d6b68ad7001</guid>
-      <pubDate>Fri, 30 Oct 2026 22:47:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spam to Intake Rules in Helpdesk</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360059002271-Guide-to-Klaviyo-Helpdesk#klv-551a6c69</link>
-      <description>Spam to Intake Rules in Helpdesk — Decide what counts as spam in your support queue â Create a custom intake rule when you mark a message as spam so Helpdesk sorts similar future messages correctly.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">551a6c69211c4c47c332c39f0e29bec3b013b6c1</guid>
-      <pubDate>Wed, 28 Oct 2026 22:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Product Experts in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115001002272-How-to-contact-support#klv-ae4fd266</link>
-      <description>Live Product Experts in Composer — Get answers and live help without repeating yourself â Click Support to ask Composer, then connect with a Product Expert in the same chat with context carried over.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">ae4fd26683c7c2b06aec7fa795f4c99b3f0c7f87</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart Translations for Consent Pages</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360049498631-How-to-translate-consent-pages-into-different-languages#klv-e79d6a0d</link>
-      <description>Smart Translations for Consent Pages — Give subscribers a localized experience from sign-up onward â Translate hosted subscribe, unsubscribe, and preferences pages plus double opt-in emails into multiple languages with Smart Translations.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">e79d6a0de6c313ad14b736c245ac6c90e6b1ea72</guid>
-      <pubDate>Wed, 28 Oct 2026 22:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Organized Chat History for Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-f7aee8ca</link>
-      <description>Organized Chat History for Composer — Chats are grouped by date with unread chats at the top, and history opens inside the Composer panel.
-
-(Published 2026-10-27)</description>
-      <guid isPermaLink="false">f7aee8ca324b93604750b1960c53255fc6dfce70</guid>
-      <pubDate>Thu, 05 Nov 2026 00:10:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
