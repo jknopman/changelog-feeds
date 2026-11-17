@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:57:27 +0000</lastBuildDate>
     <item>
       <title>Auto-generate segment in Social</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-2495a54c</link>
@@ -27,6 +27,24 @@
       <pubDate>Mon, 16 Nov 2026 20:48:50 +0000</pubDate>
     </item>
     <item>
+      <title>Multiple template selection for WhatsApp</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360059002271-Guide-to-Klaviyo-Helpdesk#klv-d66bb64d</link>
+      <description>Multiple template selection for WhatsApp — Keep WhatsApp follow-ups relevant after the 24-hour window â Choose from multiple approved templates in Helpdesk, with search, language and category labels, and a live phone preview.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">d66bb64d995032094efa062cbb4d4a12abf6761a</guid>
+      <pubDate>Tue, 17 Nov 2026 04:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scratch card block in sign-up forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360026474752-Getting-started-with-sign-up-forms#klv-45474fc2</link>
+      <description>Scratch card block in sign-up forms — Get more form submissions with a little play â Add a scratch card to any sign-up form step so visitors scratch on desktop or mobile to reveal your offer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">45474fc2c29db28c623a5ca0c1247fcbe4f65d6f</guid>
+      <pubDate>Tue, 17 Nov 2026 04:57:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Location personalization in campaigns and flows</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/using-location-details-in-your-campaigns#klv-18c12af8</link>
       <description>Location personalization in campaigns and flows — Send the right store details to every customer in one campaign â Insert store name, address, hours, and phone from Location Hub into email, text, and WhatsApp campaigns and flows.
@@ -36,6 +54,15 @@
       <pubDate>Mon, 16 Nov 2026 20:48:49 +0000</pubDate>
     </item>
     <item>
+      <title>Interactive Analytics + Onboarding Extensions for ChatGPT</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/46281487065243-Frequently-Asked-Questions-for-the-Klaviyo-app-for-ChatGPT#klv-f4889e9b</link>
+      <description>Interactive Analytics + Onboarding Extensions for ChatGPT — Check Klaviyo performance without leaving ChatGPT â View campaign and flow totals and top performers by revenue in a sidebar dashboard, then ask Klaviyo questions on desktop, web, or mobile.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">f4889e9b4950b4345ff32a4afe473fd98a3b84d0</guid>
+      <pubDate>Tue, 17 Nov 2026 04:57:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Create Auto-reply with Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-3f8dd9a1</link>
       <description>Create Auto-reply with Composer — Grow your list from Instagram with on-brand replies, faster â Use Composer to draft Auto-replies from your past posts and brand voice, then view the segment created for each one.
@@ -43,6 +70,15 @@
 (Published 2026-11-16)</description>
       <guid isPermaLink="false">3f8dd9a1e6c97806eeebf35a335bdb4668822e33</guid>
       <pubDate>Mon, 16 Nov 2026 20:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A/B Testing Push Campaigns</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/360006653972-How-to-send-a-push-notification-campaign#klv-cf5c69b6</link>
+      <description>A/B Testing Push Campaigns — Know which push message performs best before your full send â Test content or send time across up to 5 variations and automatically send the winner to everyone else.
+
+(Published 2026-11-13)</description>
+      <guid isPermaLink="false">cf5c69b66aff9a1f1c4ac11fe0519e4a8b4ff8d2</guid>
+      <pubDate>Tue, 17 Nov 2026 04:57:24 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp BSUID Support</title>
@@ -511,42 +547,6 @@
 (Published 2026-10-28)</description>
       <guid isPermaLink="false">5b62567ddc4d23b5bd4036c670d856ae4f5632be</guid>
       <pubDate>Thu, 05 Nov 2026 00:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Ads connector in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-meta-ads-with-composer#klv-b90d113e</link>
-      <description>Meta Ads connector in Composer — Composer now connects to Meta Ads. Marketers can ask how their Facebook and Instagram ads are performing and get answers that combine Meta Ads data with Klaviyo customer data, then turn what they learn into Klaviyo campaigns. The connector is read-only: it reads ad accounts, campaigns, ad sets, ads, creatives, budgets, statuses and performance, but doesn't change targeting, budgets or ads. Changes still happen in Meta Ads Manager.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">b90d113ecd6345f8528f9016d924784104f9a7c4</guid>
-      <pubDate>Wed, 04 Nov 2026 18:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Floating Composer bar</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-1321b438</link>
-      <description>Floating Composer bar — Ask Composer from anywhere in Klaviyo. Its input box follows you from page to page, with prompts that fit where you are and keep open and hide controls.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">1321b438f58c8d57b16e9934907d44b72c0e498d</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next-step suggestions in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-f92db27b</link>
-      <description>Next-step suggestions in Composer — Keep the work moving. The message box cycles through the next steps Composer suggested in its latest reply, so you can pick one without retyping it.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">f92db27bdce147ce46f1acfc183f7ebb371b3d27</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Location Hub</title>
-      <link>https://help.klaviyo.com/hc/en-us/sections/52159464910363#klv-5d525ba9</link>
-      <description>Location Hub — Reach customers near every location in a few clicks â Add stores and live events to build proximity segments and track in-store revenue with Shopify POS.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">5d525ba9ae210a89b8cd2c7468d19d4b55affdd9</guid>
-      <pubDate>Wed, 28 Oct 2026 22:57:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
