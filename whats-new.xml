@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:38:13 +0000</lastBuildDate>
+    <item>
+      <title>Drivepoint connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-1f5c2f22</link>
+      <description>Drivepoint connector in Composer — Composer now connects to Drivepoint. Check your performance against your financial plan and forecasts in the same conversation. See whether this monthâs revenue is on track, or plan the campaigns you need to close a gap to forecast, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">1f5c2f220dcb208ce90590a958ab8407c89419a1</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hex connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-6131f4e8</link>
+      <description>Hex connector in Composer — Composer now connects to Hex. Search, run and edit your Hex projects in the same conversation, then turn the analysis into segments, campaigns and flows. Run a product affinity analysis and give each group its own segment and campaign, or turn a churn model into a win back flow, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">6131f4e87cd261040b500d50a67722a6e3680436</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recharge connector for Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-77f26625</link>
+      <description>Recharge connector for Composer — Composer now connects to Recharge. Read your subscription analytics in the same conversation to plan retention, skip save and win back messages. See why subscribers cancel and build a win back flow for each reason, or find who skips most often and send them a skip save offer, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">77f2662594d5eb439d21f1a50027631a0be630de</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrowthBook connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-017fb006</link>
+      <description>GrowthBook connector in Composer — Review and update your experiments and feature flags in the same conversation with GrowthBook. Set up a replenishment flow as a 50/50 test and track it in GrowthBook, or check which variant is winning before you plan your next campaign, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">017fb00606e0e484160c95cabe989a9868d7832d</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yotpo connector in Composer</title>
+      <link>https://www.klaviyo.com/whats-new#klv-94967098</link>
+      <description>Yotpo connector in Composer — Composer now connects to Yotpo. Read your reviews and customer insights in the same conversation. Feature your top rated products in a holiday campaign, or add real review quotes to your welcome flow, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">949670985274f8d37a70febd43bf2a818b4a2842</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Postscript connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-add-and-manage-content#klv-e17085d4</link>
+      <description>Postscript connector in Composer — Read your Postscript SMS analytics in the same conversation with the new Postscript connector for Composer. Find your best performing texts from last quarter and plan a campaign around them, or check when your subscribers click most before you schedule your next send, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">e17085d4cf5f1f17cf64a9deb964f69d04e585d5</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attentive connector in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-1a708710</link>
+      <description>Attentive connector in Composer — Composer now connects to Attentive. Read your Attentive SMS and email campaign performance and compare it with your Klaviyo results in the same conversation. See which channel and message drove more revenue last month, or pull your best Attentive sends into a brief for your next Klaviyo campaign, all without leaving Composer.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">1a708710f25ed86dbbcf7d2434614e7725979337</guid>
+      <pubDate>Tue, 17 Nov 2026 19:38:07 +0000</pubDate>
+    </item>
     <item>
       <title>Auto-generate segment in Social</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-2495a54c</link>
@@ -484,69 +547,6 @@
 (Published 2026-10-30)</description>
       <guid isPermaLink="false">f4b81cb0a8e465021c7f9c17b4d5bb76633ab491</guid>
       <pubDate>Mon, 02 Nov 2026 20:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omnichannel Campaigns in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-campaigns-with-composer#klv-3aa39b17</link>
-      <description>Omnichannel Campaigns in Composer — Composer can now create omnichannel campaigns in the new Composer experience. The previous version supported this, but the new Composer rolled out with single-channel campaigns only, and customers have been asking for it back.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">3aa39b17fa92f64f260a5a530a9d6fe9e4877f79</guid>
-      <pubDate>Thu, 05 Nov 2026 00:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take action from a comment thread with Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-330e28c0</link>
-      <description>Take action from a comment thread with Composer — Turn feedback into edits faster. Send a comment thread from the email editor or forms designer to Composer, and it drafts the requested changes or summarizes the thread.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">330e28c00662e04fb87a5e6facd9800176aa45eb</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simpler usage meter in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-your-composer-billing-plan-works#klv-928f5c13</link>
-      <description>Simpler usage meter in Composer — One bar shows how much you've used and when it resets, with a warning at 85%. Billing usage reports now include Composer credits.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">928f5c13db8f730df7fe4e7a9126e34be996cccb</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private or shared skills in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-skills-in-composer#klv-b0ce8b56</link>
-      <description>Private or shared skills in Composer — When you create a skill, choose whether to keep it private or share it with your team.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">b0ce8b562d143d8c476c8f68a292ef7237b4b387</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enhanced Capabilities - HTML Content Blocks</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-custom-html-and-css-blocks-for-customer-hub#klv-68a1844b</link>
-      <description>Enhanced Capabilities - HTML Content Blocks — Design fully branded onsite content without template limits â Add custom HTML and CSS to content blocks for Customer Hub and your site, with real-time preview and unsupported-code warnings.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">68a1844bcdce887fa687df5bacd2e49f3ae712cc</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Channel Affinity</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/36211794270107-Understanding-channel-affinity-in-Klaviyo#klv-b7544950</link>
-      <description>WhatsApp Channel Affinity — Reach WhatsApp-first shoppers on the channel they prefer â Build segments using WhatsApp channel affinity rankings alongside email, SMS, and push predictions.
-
-(Published 2026-10-29)</description>
-      <guid isPermaLink="false">b75449508e8061b260d4cd03cbe354c49c3d6d49</guid>
-      <pubDate>Thu, 29 Oct 2026 17:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brand styles from website in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-5b62567d</link>
-      <description>Brand styles from website in Composer — Composer can now pull your brand's visual style from your website, including colors, typography and button styles, and apply it to the content it builds. Share your site, review the palette and styles Composer suggests, approve them, then ask for a sample email in the new look.
-
-(Published 2026-10-28)</description>
-      <guid isPermaLink="false">5b62567ddc4d23b5bd4036c670d856ae4f5632be</guid>
-      <pubDate>Thu, 05 Nov 2026 00:10:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
