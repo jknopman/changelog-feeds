@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:01:40 +0000</lastBuildDate>
+    <item>
+      <title>Revenue attribution for In App Forms</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms#klv-f753c767</link>
+      <description>Revenue attribution for In App Forms — See which in-app forms drive revenue â Track revenue from in-app form taps in the forms list and analytics, using the same lookback window as web forms.
+
+(Published 2026-11-17)</description>
+      <guid isPermaLink="false">f753c76793c70574aec8927d17861160e4b3aa57</guid>
+      <pubDate>Wed, 18 Nov 2026 04:01:40 +0000</pubDate>
+    </item>
     <item>
       <title>Drivepoint connector in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-1f5c2f22</link>
@@ -538,15 +547,6 @@
 (Published 2026-10-30)</description>
       <guid isPermaLink="false">5b083fc5db615378ac17294d84b01898d222bb18</guid>
       <pubDate>Mon, 02 Nov 2026 20:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assignment Notification Emails in Helpdesk</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/360059002271-Guide-to-Klaviyo-Helpdesk#klv-f4b81cb0</link>
-      <description>Assignment Notification Emails in Helpdesk — Catch new ticket assignments right away, even outside the helpdesk â Turn on assignment emails in Helpdesk settings to get notified each time a ticket is assigned to you.
-
-(Published 2026-10-30)</description>
-      <guid isPermaLink="false">f4b81cb0a8e465021c7f9c17b4d5bb76633ab491</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
