@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:14:40 +0000</lastBuildDate>
+    <item>
+      <title>Delete Chat History in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-5699e548</link>
+      <description>Delete Chat History in Composer — Before, customers' Composer chat history kept every conversation, so the ones they wanted to come back to were harder to find. Now customers can delete Composer chats they no longer need and keep their history tidy, so the conversations they return to are easier to find.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">5699e548539504460b7ed2b475f88eb15e853f54</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Customer Agent review connectors</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/understanding-tools#klv-9ac8515a</link>
+      <description>New Customer Agent review connectors — Resolve more review and return questions without a handoff â Connect Judge.me, Loox, Fera, Junip, and parcelLab so Customer Agent can cite real reviews and route returns.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">9ac8515a93b6cc79ad75f76433ee6245d540e93d</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross Channel Memory in Customer Agent</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/understanding-customer-agent-memory#klv-85d3d08a</link>
+      <description>Cross Channel Memory in Customer Agent — Give returning shoppers support that picks up where they left off â Let Customer Agent recall profile details, past conversations, Helpdesk interactions, and saved preferences across channels.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">85d3d08ae658433411caf3fe0c0ac5dfa815828a</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Log in to Klaviyo with passkeys</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-set-up-and-use-passkeys#klv-d12667dd</link>
+      <description>Log in to Klaviyo with passkeys — Sign in faster and more securely â Use Face ID, a fingerprint, or your device PIN to log in without a password or separate MFA code.
+
+(Published 2026-11-17)</description>
+      <guid isPermaLink="false">d12667dda52b19c2a3437eb37e9f27096ba35077</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Easier sign in on the Composer mobile app</title>
+      <link>https://www.klaviyo.com/whats-new#klv-a9402817</link>
+      <description>Easier sign in on the Composer mobile app — Give your whole team secure mobile access to Klaviyo's Composer app â Sign in with company single sign-on, Google, or passkeys, using the same password and MFA rules as the web.
+
+(Published 2026-11-17)</description>
+      <guid isPermaLink="false">a94028178dd552bf24aa41edd79f497071e9e9aa</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple attachments in Helpdesk</title>
+      <link>https://www.klaviyo.com/whats-new#klv-d7712114</link>
+      <description>Multiple attachments in Helpdesk — Resolve complex customer questions in a single reply â Attach up to 10 files per Helpdesk message on email, web chat, Instagram, and WhatsApp, plus multiple products.
+
+(Published 2026-11-17)</description>
+      <guid isPermaLink="false">d771211413477c28f2e81216f301b67d179fd2bb</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:35 +0000</pubDate>
+    </item>
     <item>
       <title>Revenue attribution for In App Forms</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms#klv-f753c767</link>
@@ -16,6 +70,15 @@
 (Published 2026-11-17)</description>
       <guid isPermaLink="false">f753c76793c70574aec8927d17861160e4b3aa57</guid>
       <pubDate>Wed, 18 Nov 2026 04:01:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Folders in Flows</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-organize-flows-with-folders#klv-cd1d9265</link>
+      <description>Folders in Flows — Keep large flow libraries easy to navigate â Organize flows into nested folders, move them in bulk, and search across every folder without changing how live flows send.
+
+(Published 2026-11-17)</description>
+      <guid isPermaLink="false">cd1d9265395f45de59384c8e50e8f4ca03c46cc7</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:34 +0000</pubDate>
     </item>
     <item>
       <title>Drivepoint connector in Composer</title>
@@ -484,69 +547,6 @@
 (Published 2026-11-02)</description>
       <guid isPermaLink="false">cb8c37509607a416a40ac9f6c346db3b2da75499</guid>
       <pubDate>Tue, 03 Nov 2026 03:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composer now connects with Asana</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-asana-with-composer#klv-7183246a</link>
-      <description>Composer now connects with Asana — Go from brief to campaign without copying anything over â Connect Asana and Composer turns your briefs and calendar into Klaviyo campaigns and flows.
-
-(Published 2026-11-02)</description>
-      <guid isPermaLink="false">7183246a2744abc039e2630b75920ca57b325a18</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Source Attribution in Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-42d4f753</link>
-      <description>Source Attribution in Customer Agent — Know which messages drive AI-assisted sales â View Customer Agent revenue by flow, campaign, and web chat conversation starter in Service Overview, then ask Composer to dig in.
-
-(Published 2026-11-02)</description>
-      <guid isPermaLink="false">42d4f753afc5f1582c4fb418f3190c58affcfb57</guid>
-      <pubDate>Tue, 03 Nov 2026 23:52:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improved Auto-Reply Editor</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/41741460845339-How-to-convert-Instagram-followers-into-subscribers#klv-cbd685a0</link>
-      <description>Improved Auto-Reply Editor — Capture richer data and more clicks from Instagram DMs â Preview conversations as you edit Social Auto-replies, collect date properties, and send links as buttons.
-
-(Published 2026-11-02)</description>
-      <guid isPermaLink="false">cbd685a028379b69ef4981dd9ba64a84ed03e85c</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Send to Primary Device</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/15594685536539-Understand-push-notification-delivery#klv-05f43309</link>
-      <description>Send to Primary Device — Reduce push costs and repeat notifications â Send push messages only to each customer's most active device with a new toggle in campaign and flow builders.
-
-(Published 2026-11-02)</description>
-      <guid isPermaLink="false">05f43309978f69071c38e11eeca37f6b3deabcbc</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom events from skills in Customer Agent</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-e4161f75</link>
-      <description>Custom events from skills in Customer Agent — Add a Send event step to a skill to write a custom event to a customerâs profile timeline. Pick the metric, then fill each property from the agentâs response, a fixed value, or profile data. Works for authenticated customers.
-
-(Published 2026-10-30)</description>
-      <guid isPermaLink="false">e4161f75f37df1f47579043758cde6054896ffc3</guid>
-      <pubDate>Wed, 04 Nov 2026 18:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Runneth connector in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-connect-and-use-apps-in-composer#klv-e4b36cff</link>
-      <description>Runneth connector in Composer — Bring your best ad creative into email and SMS. Install the Runneth connector, Motionâs creative strategy agent, and ask about your brandâs ads in the same conversation where Composer builds your marketing.
-
-(Published 2026-10-30)</description>
-      <guid isPermaLink="false">e4b36cff2b8270ff06daf971916b790ace6e6fa0</guid>
-      <pubDate>Fri, 06 Nov 2026 17:48:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sync up to 6 objects with the SFDC integration</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/115005081947-How-to-integrate-with-Salesforce-CRM#klv-5b083fc5</link>
-      <description>Sync up to 6 objects with the SFDC integration — Bring more Salesforce data into Klaviyo â Sync up to 6 Salesforce objects instead of 3 to segment and personalize with fuller customer context.
-
-(Published 2026-10-30)</description>
-      <guid isPermaLink="false">5b083fc5db615378ac17294d84b01898d222bb18</guid>
-      <pubDate>Mon, 02 Nov 2026 20:38:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
