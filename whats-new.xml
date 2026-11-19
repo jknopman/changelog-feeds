@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:58:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:21:19 +0000</lastBuildDate>
+    <item>
+      <title>Create custom object types and manage records in Composer</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/what-composer-can-analyze-and-create#klv-aeac87e9</link>
+      <description>Create custom object types and manage records in Composer — Model business-specific data right where you plan your marketing â Create custom object types, add records, and update values for pets, properties, or subscriptions in Composer, with your approval.
+
+(Published 2026-11-19)</description>
+      <guid isPermaLink="false">aeac87e91610e61b6f3d1c0b4cbb16505182b50a</guid>
+      <pubDate>Thu, 19 Nov 2026 19:21:19 +0000</pubDate>
+    </item>
     <item>
       <title>Delete Chat History in Composer</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer#klv-5699e548</link>
@@ -27,6 +36,15 @@
       <pubDate>Wed, 18 Nov 2026 19:14:39 +0000</pubDate>
     </item>
     <item>
+      <title>Version history for sign-up forms and landing pages</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/34603509978907-Understanding-in-app-forms#klv-0155a024</link>
+      <description>Version history for sign-up forms and landing pages — Recover from form mistakes without rebuilding â Preview past versions of sign-up forms and landing pages, save checkpoints, and restore any version to your draft without changing what's live.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">0155a024a5f38055eba53dbde58032b15fee09c6</guid>
+      <pubDate>Thu, 19 Nov 2026 19:21:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Cross Channel Memory in Customer Agent</title>
       <link>https://help.klaviyo.com/hc/en-us/articles/understanding-customer-agent-memory#klv-85d3d08a</link>
       <description>Cross Channel Memory in Customer Agent — Give returning shoppers support that picks up where they left off â Let Customer Agent recall profile details, past conversations, Helpdesk interactions, and saved preferences across channels.
@@ -34,6 +52,24 @@
 (Published 2026-11-18)</description>
       <guid isPermaLink="false">85d3d08ae658433411caf3fe0c0ac5dfa815828a</guid>
       <pubDate>Wed, 18 Nov 2026 19:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Developer Docs</title>
+      <link>https://www.klaviyo.com/whats-new#klv-1703a4b5</link>
+      <description>Agentic Developer Docs — Build on Klaviyo faster with your AI assistant â Open any developer doc in Claude, ChatGPT, or Cursor and use ready-made skills to write working API code.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">1703a4b5c4246a333bd5846d672cd4cca67c5ff0</guid>
+      <pubDate>Thu, 19 Nov 2026 19:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle OPERA Integration</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-oracle-opera#klv-1ede56f4</link>
+      <description>Oracle OPERA Integration — Personalize hotel marketing with guest stay and spend data â Sync Oracle OPERA Cloud reservations, loyalty, consent, and on-property purchases to power pre-arrival flows and guest segments.
+
+(Published 2026-11-18)</description>
+      <guid isPermaLink="false">1ede56f485a347a5966ac4cd8545294c385a4ff5</guid>
+      <pubDate>Thu, 19 Nov 2026 19:21:16 +0000</pubDate>
     </item>
     <item>
       <title>Log in to Klaviyo with passkeys</title>
@@ -115,6 +151,15 @@
 (Published 2026-11-16)</description>
       <guid isPermaLink="false">017fb00606e0e484160c95cabe989a9868d7832d</guid>
       <pubDate>Tue, 17 Nov 2026 19:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composer Mobile Android 1.2: Account Setup, Artifacts, and Richer Chat</title>
+      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-composer-from-klaviyo#klv-886b1640</link>
+      <description>Composer Mobile Android 1.2: Account Setup, Artifacts, and Richer Chat — Run more of your marketing from your iPhone â Set up a Klaviyo account, review saved artifacts, and approve campaign sends, segments, and coupons with a few taps.
+
+(Published 2026-11-16)</description>
+      <guid isPermaLink="false">886b16408cc1e19aa032049dbf9797e379415c69</guid>
+      <pubDate>Thu, 19 Nov 2026 19:21:15 +0000</pubDate>
     </item>
     <item>
       <title>Yotpo connector in Composer</title>
@@ -502,51 +547,6 @@
 (Published 2026-11-04)</description>
       <guid isPermaLink="false">dd78f0974f19489cafbb96dac23caacd2d4135d1</guid>
       <pubDate>Thu, 05 Nov 2026 00:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conversation sharing in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-share-conversations-in-composer#klv-2a7ad2ba</link>
-      <description>Conversation sharing in Composer — Give teammates the full context behind Composer's work â Share a conversation with workspace members so they can read your requests, Composer's responses, and its references.
-
-(Published 2026-11-04)</description>
-      <guid isPermaLink="false">2a7ad2baf30f7de2ddb3ba514ca9129c9c787dfa</guid>
-      <pubDate>Thu, 05 Nov 2026 00:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>K:Service Practitioner Certificate</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/getting-started-with-customer-agent#klv-5bfe49b8</link>
-      <description>K:Service Practitioner Certificate — Show off your Klaviyo Service expertise with a recognized credential â Earn the K:Service Practitioner Certificate in Klaviyo Academy after completing the K:Service Practitioner program.
-
-(Published 2026-11-04)</description>
-      <guid isPermaLink="false">5bfe49b8214f3520eda5a93c8d3dfa800fc51450</guid>
-      <pubDate>Fri, 06 Nov 2026 17:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Downloadable files from Composer artifacts</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-create-and-use-artifacts-in-composer#klv-bc5e1830</link>
-      <description>Downloadable files from Composer artifacts — Bring reports and slides to your next meeting â Ask Composer for a dashboard PDF, site or a downloadable PowerPoint deck.
-
-(Published 2026-11-03)</description>
-      <guid isPermaLink="false">bc5e1830d5278cf9acbc4ebc85a4c74127a2e62c</guid>
-      <pubDate>Tue, 03 Nov 2026 23:52:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manage Email Tracking Consent on Preference Pages</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/manage-email-tracking-consent-on-your-preference-page#klv-cd60ad40</link>
-      <description>Manage Email Tracking Consent on Preference Pages — Let recipients change email tracking consent anytime â Add a Tracking consent block to preference pages covering opens, clicks, or both, shown only in regions you choose.
-
-(Published 2026-11-03)</description>
-      <guid isPermaLink="false">cd60ad406f7724ccc6ad3c27b93e8819badce0ae</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shopify edits in Composer</title>
-      <link>https://help.klaviyo.com/hc/en-us/articles/how-to-use-shopify-with-composer#klv-cb8c3750</link>
-      <description>Shopify edits in Composer — Update your store without leaving Klaviyo â Ask Composer to make changes in Shopify, from prices to discount codes.
-
-(Published 2026-11-02)</description>
-      <guid isPermaLink="false">cb8c37509607a416a40ac9f6c346db3b2da75499</guid>
-      <pubDate>Tue, 03 Nov 2026 03:50:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
